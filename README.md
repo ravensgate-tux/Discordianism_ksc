@@ -63,7 +63,7 @@ Keepers of Sacred Chao（KSC：聖なる混沌の守護者）による実践・�
 慣れてきた方から順に `Pull Request` や `Issue` による参加を歓迎します。
 
 ## 🖼️ 表紙画像
-![Tarot spread](../archive/tarot-interpretations/0.jpg)
+![Tarot spread](archive/tarot-interpretations/0.jpg)
 
 ---
 
