@@ -62,12 +62,6 @@ Keepers of Sacred Chao（KSC：聖なる混沌の守護者）による実践・�
 現在は KSC主宰者が中心となって内容を整備していますが、
 慣れてきた方から順に `Pull Request` や `Issue` による参加を歓迎します。
 
-## 🖼️ 表紙画像
-
-<img src="archive/tarot-interpretations/0.jpg" width="400">
-
-[Tarot Spread](https://github.com/ravensgate-tux/Discordianism_ksc/commit/d2d5d0026e0b844e40b0c588f0bcf9c125727d11)
-
 ---
 
 Hail Eris! All Hail Discordia!
