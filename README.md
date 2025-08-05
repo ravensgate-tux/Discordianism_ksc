@@ -17,8 +17,6 @@ Keepers of Sacred Chao（KSC：聖なる混沌の守護者）による実践・�
 
 [ケイオスマジック (Prime Chaos)](https://github.com/ravensgate-tux/sorcier_catalogue/blob/main/README.md#PHH00)
 
-<br>
-
 [ディスコーディアニズム（Prime Chaos）](https://github.com/ravensgate-tux/sorcier_catalogue/blob/main/README.md#PHH01)
 
 ## 🌀 ディスコーディアニズムとは
