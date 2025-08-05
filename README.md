@@ -11,6 +11,13 @@ Keepers of Sacred Chao（KSC：聖なる混沌の守護者）による実践・�
 このプロジェクトは、フィル・ハイン『Prime Chaos』第4章の定義をベースに、
 ディスコーディアニズム（Discordianism）の哲学、実践、儀式、魔法武器などを日本語で整理・発展させていくことを目的とします。
 
+<div align="center">
+ <img src="Prime-Chaos.jpeg" width="150">
+</div>
+
+[ケイオスマジック (Prime Chaos)](https://github.com/ravensgate-tux/sorcier_catalogue/blob/main/README.md#PHH00)
+[ディスコーディアニズム（Prime Chaos）](https://github.com/ravensgate-tux/sorcier_catalogue/blob/main/README.md#PHH01)
+
 ## 🌀 ディスコーディアニズムとは
 - 混沌とユーモアを中心に据えた現代魔術の一形態
 - 崇拝対象はギリシャ神話の争いの女神「エリス」
