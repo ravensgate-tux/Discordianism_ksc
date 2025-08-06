@@ -16,8 +16,8 @@
 
 アーティスト・マジックの目的は、すべての創造行為を、
 この物質世界に働きかける魔術として機能させることにある。書くこと、描くこと、奏でること──
-すべての表現は、魔術的な自己と結びつき、宇宙に向けて意志を純粋に放つものとなるべきである。To this end, we may
-engineer stark correspondence in the form of an already magical act. The subtle
+すべての表現は、魔術的な自己と結びつき、宇宙に向けて意志を純粋に放つものとなるべきである。私たちは、もともと魔術に似た芸術の行為を通して、
+意志と物質世界をつなぐ構造を描き出すことができる。The subtle
 strokes, idiosyncrasies, and subject matter speak of the utmost personal secrets from
 he who has rendered himself in the role of Artist. He is a being telling lies for truth,
 and vice versa. These precious shards of soul almost always end becoming the golden
