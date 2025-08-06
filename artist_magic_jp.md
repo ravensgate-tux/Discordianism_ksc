@@ -14,8 +14,8 @@
 
 ## 📜 本文（日本語訳）
 
-To transfigure every act of creative entry into the physical world as being magically
-effective serves the objectives of artist magick. Writing, painting, drawing, music, any
+アーティスト・マジックの目的は、すべての創造行為を、
+この物質世界に働きかける魔術として機能させることにある。Writing, painting, drawing, music, any
 act of expression should become correlated to the magical self, and made a pure
 representation of Will in the eyes and ears of the Universe. To this end, we may
 engineer stark correspondence in the form of an already magical act. The subtle
