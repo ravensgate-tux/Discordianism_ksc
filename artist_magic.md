@@ -43,8 +43,10 @@ DKMU (ドムス・カオティカ・マローダー・アンダーグラウン�
 
 ---
 
-[ケイオスマジック（「Prime Chaos」）](https://github.com/ravensgate-tux/sorcier_catalogue/blob/main/README.md#PHH00)  
-[ディスコーディアニズム（「Prime Chaos」）](https://github.com/ravensgate-tux/sorcier_catalogue/blob/main/README.md#PHH01)  
-[アーティスト・マジック (DKMU文書)](artist_magic.md)
-
 [ディスコーディアン魔術アーカイブ](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/README.md)
+
+- [ケイオスマジック（「Prime Chaos」）](https://github.com/ravensgate-tux/sorcier_catalogue/blob/main/README.md#PHH00)  
+- [ディスコーディアニズム（「Prime Chaos」）](https://github.com/ravensgate-tux/sorcier_catalogue/blob/main/README.md#PHH01)  
+- [アーティスト・マジック (DKMU文書)](artist_magic.md)
+
+
