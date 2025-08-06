@@ -1,4 +1,4 @@
-# 🎨 アーティスト・マジック (Artist Magick) — 英語原文と日本語訳作業用ファイル
+# 🎨 アーティスト・マジック (Artist Magick) — 芸術魔術論
 
 > “This article has been left here in this location as a gift to you.”  
 > “It is our wish that you will become inspired by result.”  
@@ -7,7 +7,7 @@
 
 ---
 
-## 📜 本文（英語原文 + 日本語訳欄）
+## 📜 本文（日本語訳）
 
 > To transfigure every act of creative entry into the physical world as being magically effective serves the objectives of artist magick.  
 （訳：ここに訳文を記入）
