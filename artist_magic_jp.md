@@ -7,6 +7,11 @@
 
 ---
 
+<div align="center">
+<img src="artist_magic.png" width="200">
+</div>
+<br>
+
 ## 📜 本文（日本語訳）
 
 > To transfigure every act of creative entry into the physical world as being magically effective serves the objectives of artist magick.  
