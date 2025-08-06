@@ -18,7 +18,7 @@ Austin Osman Spare や Alan Moore の思想を受け継ぎ、「創造行為そ�
 
 ## 【本⽂ (Artist Magick)】
 
-👉 [Atrist Magic](atrist_magic.pdf)
+👉 [Atrist Magic](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/artist_magic.pdf))
 
 ## 【DKMUについて】
 
