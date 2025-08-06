@@ -1,4 +1,4 @@
-# 🎨 アーティスト・マジック (Artist Magick)
+# 🎨 アーティスト・マジック (Artist Magick)＝芸術魔術論
 
 > "This article has been left here in this location as a gift to you.  
 > It is our wish that you will become inspired by result.  
@@ -7,7 +7,12 @@
 
 ---
 
-## 【解題的な前文】
+<div align="center">
+<img src="artist_magic.png" width="200">
+</div>
+<br>
+
+## 【前文】
 
 この文書は、現代ケイオスマジックの流れを継ぐ魔術集団 DKMU (ドムス・カオティカ) により編された、「芸術 = 魔術」を描いたマニフェストです。
 
@@ -17,11 +22,6 @@ Austin Osman Spare や Alan Moore の思想を受け継ぎ、「創造行為そ�
 
 
 ## 【本⽂ (Artist Magick)】
-
-<div align="center">
-<img src="artist_magic.png" width="200">
-</div>
-<br>
 
 👉 [Atrist Magic (原文)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/artist_magic.pdf)
 
