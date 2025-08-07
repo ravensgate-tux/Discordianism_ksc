@@ -7,6 +7,12 @@ Keepers of Sacred Chao（KSC：聖なる混沌の守護者）による実践・�
 > "The jest is true, the truth’s a jest — and all the rest’s a lovely mess."
 > — Discordian maxim
 
+
+<div align="right">
+<img src="ksc.png" width="200">
+</div>
+<br>
+
 ## 📜 基本理念
 このプロジェクトは、フィル・ハイン『Prime Chaos』第4章の定義をベースに、
 ディスコーディアニズム（Discordianism）の哲学、実践、儀式、魔法武器などを日本語で整理・発展させていくことを目的とします。
