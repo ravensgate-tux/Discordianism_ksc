@@ -29,10 +29,7 @@
 </div>
 <br>
 
-オースティン・スペアが象徴的に打ち出したシジルの概念は、芸術という魔術的な現象を考えるうえで、重要な手がかりである。古代エジプトで発展したステラ（碑文）の伝統は、ケネス・グラントによるゾス・キア崇拝（Zos Kia Cultus）にも継承され、絵画を魔術的構造物として捉えるためのひとつの枠組みを示している。These interacting aspects of images and
-meanings may be adapted to become buried within brush strokes, color combination,
-line assortments, melody progression, bursts of static, and so on, given the magician
-take measures to subconsciously store the required information. Artists who possess a
+オースティン・スペアが象徴的に打ち出したシジルの概念は、芸術という魔術的な現象を考えるうえで、重要な手がかりである。古代エジプトで発展したステラ（碑文）の伝統は、ケネス・グラントによるゾス・キア崇拝（Zos Kia Cultus）にも継承され、絵画を魔術的構造物として捉えるためのひとつの枠組みを示している。魔術師が願望を無意識下に収めることができれば、イメージと意味の相互作用は、筆遣い、色の組み合わせ、線の組み合わせ、メロディーの進行、突発的なノイズの中に埋め込んで、その願望を実現できる可能性がある。Artists who possess a
 good amount of skill along with magical application may create viral works of immense
 power to be spread worldwide among listeners, viewers and enthusiasts, much like the
 Ellis works to utilize location as a form of charging the desired Sigil. It is no
