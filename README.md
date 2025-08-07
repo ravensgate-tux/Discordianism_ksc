@@ -39,7 +39,7 @@ KSC氏の論文「スペアって2人居るんじゃないの？(Spare A vs Spar
 - 崇拝対象はギリシャ神話の争いの女神「エリス」
 - 秩序や権威に対する挑戦を通じて、新しい視点と創造的混乱を生み出す
 
-[ディスコーディアばんざい！(Hiro氏)- Oven-Ready Chaosの第4章](https://occultlibrary.wiki.fc2.com/wiki/%E3%81%99%E3%81%90%E3%82%8F%E3%81%8B%E3%82%8B%E6%B7%B7%E6%B2%8C%E9%AD%94%E8%A1%93%203)
+[ディスコーディアばんざい！(Hiro氏)- Oven-Ready Chaosの第5章〜](https://occultlibrary.wiki.fc2.com/wiki/%E3%81%99%E3%81%90%E3%82%8F%E3%81%8B%E3%82%8B%E6%B7%B7%E6%B2%8C%E9%AD%94%E8%A1%93%203)
 
 [(Oven-Ready Chaos英語原本)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/Oven-Ready-Chaos-Phil-Hine-1992-1997.pdf)
 
