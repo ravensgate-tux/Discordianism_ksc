@@ -31,8 +31,7 @@
 
 オースティン・スペアが象徴的に打ち出したシジルの概念は、芸術という魔術的な現象を考えるうえで、重要な手がかりである。古代エジプトで発展したステラ（碑文）の伝統は、ケネス・グラントによるゾス・キア崇拝（Zos Kia Cultus）にも継承され、絵画を魔術的構造物として捉えるためのひとつの枠組みを示している。魔術師が願望を無意識下に収めることができれば、イメージと意味の相互作用は、筆遣い、色の組み合わせ、線の組み合わせ、メロディーの進行、突発的なノイズの中に埋め込んで、その願望を実現できる可能性がある。優れた芸術的技法に魔法を適用できるアーティストなら、エリス女神への願望を込めたシジル魔術をチャージするの同様に、世界中のリスナー、鑑賞者、愛好家の間に広がる、強力なウイルス的芸術作品を制作することができる。音楽バンドや企業が成功するのは、イメージとロゴの強力な結びつきの力である。企業のシンボルマークには、多くの場合、中毒性のあるジングル音が付属している。画像と音により、思考は無意識のうちに同じ意味に導かれて行く。企業が目的を持つ「法人格」という人格であるからこそ、この仕組みが有効に働くのだ。つまり、マクドナルドはマクドナルドのシジル魔術で願望を叶えているのだ。
 
-Sigils and Servitors perform due to the bypassing of conscious gaze upon
-predetermined meaning. This is traditionally done by creating the Sigil out of a desire
+シジル魔術やサーヴィターを活動させるためには、願望を意識から追い出し、無意識へと送り込まなければならない。This is traditionally done by creating the Sigil out of a desire
 in the form of a sentence, removing the vowels, removing repeated consonants, and
 forming a pictograph from the remaining letters which is then charged while
 simultaneously forgetting it’s original meaning. This method itself takes advantage of
