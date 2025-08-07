@@ -15,7 +15,7 @@ Keepers of Sacred Chao（KSC：聖なる混沌の守護者）による実践・�
 
 <div align="right">
 <a href="https://github.com/ravensgate-tux/spareA-spareB">
-KSCの論文「スペアって2人居るんじゃないの？(Spare A vs Spare B 仮説)」はこちら
+KSC氏の論文「スペアって2人居るんじゃないの？(Spare A vs Spare B 仮説)」はこちら
 </a>
 </div>
 
