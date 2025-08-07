@@ -17,6 +17,8 @@ Keepers of Sacred Chao（KSC：聖なる混沌の守護者）による実践・�
 
 [アーティスト・マジック(DKMU文書)](artist_magic.md)
 
+[POP MAGIC!(グラント・モリスン)](https://github.com/ravensgate-tux/pop_magic_annotation/blob/main/README.md)
+
 ## 🌀 ディスコーディアニズムとは
 - 混沌とユーモアを中心に据えた現代魔術の一形態
 - 崇拝対象はギリシャ神話の争いの女神「エリス」
