@@ -39,8 +39,10 @@
 <br>
 
 ---
+DKMU
 
 👉 [Atrist Magic (原文)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/artist_magic.pdf)
+👉 [DKMU Home](https://forum.dkmu.org/index.php)
 
 ---
 
