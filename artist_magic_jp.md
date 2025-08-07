@@ -29,8 +29,7 @@
 </div>
 <br>
 
-The concept of Sigils figuratively introduced by Austin Spare gives us a point with
-which to expand upon this notorious phenomenon. The tradition of creating steles,
+オースティン・スペアが象徴的に打ち出した「シジル」の概念は、芸術という魔術的な現象を考えるうえで、重要な手がかりである。The tradition of creating steles,
 developed by the Egyptians and utilized by the Zos Kia Cultus, among others, shows
 us a framework for a magical painting. These interacting aspects of images and
 meanings may be adapted to become buried within brush strokes, color combination,
