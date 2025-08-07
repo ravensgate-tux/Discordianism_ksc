@@ -18,9 +18,7 @@
 すべての表現は、魔術的な自己と結びつき、宇宙に向けて意志を純粋に放つものとなるべきである。私たちは、もともと魔術に似た芸術の行為を通して、
 意志と物質世界をつなぐ構造を描き出すことができる。細かい筆の動きや独特のクセ、選んだ主題などには、そのアーティストとして生きる者の、最も深い個人的な秘密が表現されている。アーティストは、真実を語るために嘘をつき、嘘をつくために真実を語る──そんな矛盾を生きる存在である。アーティストが表現に魂を込めたとしても、
 多くの場合には、それは変容の「金の卵」として神聖視されてしまい、芸術に不慣れな鑑賞者たちによって、ただ崇められてしまう。そのように芸術を消費する人たちにとっては、
-表現とは天使や悪魔が踊り狂う舞台でしかない。Gods playing spectacular roles of impossibilities,
-speaking to each other in dead languages far removed from those symptomatic of
-sameness, mental routine, and boredom.
+表現とは天使や悪魔が踊り狂う舞台でしかない。芸術作品の神々は、非現実的な象徴として舞台に現れ、今ではもう意味がわからない言葉で語り合う。それは、退屈や惰性、画一性に満ちた日常の言葉とはまったく異なっている。
 
 In the society of failure, there is no Art and no one willing to create it. Art excites and
 Art ignites. Art inspires something more in the gut of a person other than the desire to
