@@ -43,7 +43,7 @@ KSC氏の論文「スペアって2人居るんじゃないの？(Spare A vs Spar
 
 [(Oven-Ready Chaos英語原本)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/Oven-Ready-Chaos-Phil-Hine-1992-1997.pdf)
 
->上記のOven-Ready Chaosの英語原本はPhil Hineが1997年にオンラインで無償配布したテキスト（version 1.3）です。
+>上記のOven-Ready Chaosの英語原本はPhil Hineが1992年にオンラインで無償配布したテキスト（version 1.3）です。
 >ただし、明確な自由利用ライセンスや著作権放棄の宣言はなく、著作権は著者に帰属しています。
 
 ## 📚 構成予定（ディレクトリ案）
