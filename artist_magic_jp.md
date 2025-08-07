@@ -22,8 +22,7 @@
 
 芸術が存在せず、それを生み出そうとする意志さえも消えた社会は、退廃してしまうだろう。芸術は人々を刺激し、人々の情熱に火をつける。お金を使いたいという欲望とは異なる深い衝動を、芸術は心の奥底に呼び起こす。芸術は戦争を引き起こすことも、それを終わらせることもできる。芸術は、愛と憎しみを同時に語る。夢と夢が語り合うように。すべてが不快なのに美しく、意味を持たずに存在している。アーティストは、心の中のブラックホールの横に、パステルカラーの月が昇る庭を出現させるのだ。
 
-そのような世界を生み出せるアーティストでも、窓の外から見える方法だけで行動しているのです。 The landscape blends into the sky in an explosion, and his
-interactions reflect everything down to the darkest volcanic ocean bed. He may say he
+そのような世界を生み出せるアーティストでも、窓の外から見える方法だけで行動している。風景は爆発して空と溶け合って、アーティストの手は、最も深く暗い火山の海底にまで届いている。He may say he
 is most at home in his dreams. His politic is that of spontaneous inspiration, and so
 his life is also one of often intense alienation from the outside world of gray values. Not
 only will Art offer one a living, but may cause the transformation of a lifetime to occur
