@@ -22,6 +22,10 @@
 
 ---
 
+[ディスコーディアン魔術アーカイブ](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/README.md)
+
+---
+
 > 🗃 本事例は「企業によるシジルの転用」カテゴリに分類され、アーカイブに永遠に保管される見込みです。
 
 > 🌀 混沌は商品ラベルの中にも現れる。
