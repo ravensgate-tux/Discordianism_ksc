@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-<img src="artist_magic2.png" width="300">
+<img src="atrist_magic2.png" width="300">
 </div>
 <br>
 
