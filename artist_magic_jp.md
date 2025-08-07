@@ -20,8 +20,7 @@
 多くの場合には、それは変容の「金の卵」として神聖視されてしまい、芸術に不慣れな鑑賞者たちによって、ただ崇められてしまう。そのように芸術を消費する人たちにとっては、
 表現とは天使や悪魔が踊り狂う舞台でしかない。芸術作品の神々は、非現実的な象徴として舞台に現れ、今ではもう意味がわからない言葉で語り合う。それは、退屈や惰性、画一性に満ちた日常の言葉とはまったく異なっている。
 
-芸術が存在せず、それを生み出そうとする意志さえも消えた社会は、退廃してしまうだろう。芸術は人々を刺激し、人々の情熱に火をつける。Art inspires something more in the gut of a person other than the desire to
-spend money. Art causes wars and it also breaks them. Art speaks of love and hate in
+芸術が存在せず、それを生み出そうとする意志さえも消えた社会は、退廃してしまうだろう。芸術は人々を刺激し、人々の情熱に火をつける。お金を使いたいという欲望とは異なる深い衝動を、芸術は心の奥底に呼び起こす。Art causes wars and it also breaks them. Art speaks of love and hate in
 the same way it does of one dream to another. Everything is beautifully revolting, and
 equally nonsensical. The Artist creates a pastel moon garden at the edge of his own
 black hole.
