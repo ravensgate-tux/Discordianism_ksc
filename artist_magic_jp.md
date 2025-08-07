@@ -29,10 +29,7 @@
 </div>
 <br>
 
-オースティン・スペアが象徴的に打ち出したシジルの概念は、芸術という魔術的な現象を考えるうえで、重要な手がかりである。古代エジプトで発展したステラ（碑文）の伝統は、ケネス・グラントによるゾス・キア崇拝（Zos Kia Cultus）にも継承され、絵画を魔術的構造物として捉えるためのひとつの枠組みを示している。魔術師が願望を無意識下に収めることができれば、イメージと意味の相互作用は、筆遣い、色の組み合わせ、線の組み合わせ、メロディーの進行、突発的なノイズの中に埋め込んで、その願望を実現できる可能性がある。優れた芸術的技法に魔法を適用できるアーティストなら、エリス女神への願望を込めたシジル魔術をチャージするの同様に、世界中のリスナー、鑑賞者、愛好家の間に広がる、強力なウイルス的芸術作品を制作することができる。It is no
-coincidence that the overall success of many bands and companies had depended in
-part upon their respective linking of images and logos, and there is usually an
-addictive musical jingle that comes hand in hand with a corporate sigil. Both image
+オースティン・スペアが象徴的に打ち出したシジルの概念は、芸術という魔術的な現象を考えるうえで、重要な手がかりである。古代エジプトで発展したステラ（碑文）の伝統は、ケネス・グラントによるゾス・キア崇拝（Zos Kia Cultus）にも継承され、絵画を魔術的構造物として捉えるためのひとつの枠組みを示している。魔術師が願望を無意識下に収めることができれば、イメージと意味の相互作用は、筆遣い、色の組み合わせ、線の組み合わせ、メロディーの進行、突発的なノイズの中に埋め込んで、その願望を実現できる可能性がある。優れた芸術的技法に魔法を適用できるアーティストなら、エリス女神への願望を込めたシジル魔術をチャージするの同様に、世界中のリスナー、鑑賞者、愛好家の間に広がる、強力なウイルス的芸術作品を制作することができる。音楽バンドや企業が成功するのは、イメージとロゴの強力な結びつきの力である。企業のシンボルマークには、多くの場合、中毒性のあるジングル音が付属している。Both image
 and sound are subconsciously routed to the same meaning. If corporations had not
 been declared legal persons with a singular objective, the mechanism would be
 severely faulted. McDonalds gets what McDonalds wants.
