@@ -79,7 +79,24 @@ Hail Eris! All Hail Discordia!
 
 ---
 
-Maintained by: ravensgate (KSC) a.k.a. *Le Sorcier Inconnu*  
-Contact: ravensgate2025@gmail.com  
-Translations & Notes: © KSC, all rights reserved unless otherwise stated.  
-Attributions: All quoted works and images remain the property of their respective copyright holders.
+## KSC Discordian Magick Archive
+**with TRANSLATIONS & NOTES by**  
+Keeper of Sacred Chaos (KSC)  
+
+Assembled by His Obliqueness the Rev DrKSC  
+on behalf of  
+The Committee for Uncontrolled Reality Manipulation  
+
+---
+
+**Approved for misuse in magical circles**
+
+> Give me your chaos, your satire,  
+> Your weird masses yearning to hex free,  
+> The blessed refuse of your sigil-stained shrines —  
+> This Archive always needs more paradox.  
+
+**HAIL ERIS! – καλλιχᾰ – ALL HAIL DISCORDIA!**
+
+(K) 2025 ALL RITES REVERSED  
+REPRINT WHAT YOU LIKE, REMIX WHAT YOU CAN’T
