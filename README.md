@@ -46,28 +46,6 @@ KSC氏の最新の論文（英語）「スペアって2人居るんじゃない�
 >上記のOven-Ready Chaosの英語原本はPhil Hineが1992年にオンラインで無償配布したテキスト（version 1.3）です。
 >ただし、明確な自由利用ライセンスや著作権放棄の宣言はなく、著作権は著者に帰属しています。
 
-## 📚 構成予定（ディレクトリ案）
-
-```
-/
-├── README.md           # このファイル
-├── poee/               # 教義、聖典、ポープ宣言など
-│   ├── sermons.md
-│   └── glossary.md
-├── rituals/            # 儀式や行動の手引き
-│   ├── initiation.md
-│   ├── banishment.md
-│   └── smartie-ritual.md
-├── weapons/            # 魔法武器の解説
-│   ├── ego-hammer.md
-│   ├── chaos-grenade.md
-│   └── spiral-pentagram.md
-├── symbols/            # シンボルや図像資料
-│   └── golden-apple.svg
-└── archive/            # 画像・記録・記念物など
-    └── tarot-interpretations/
-```
-
 ## 🔨 「行」と「儀式」
 ここでは、KSCとして行うディスコーディアン的「行動」や「儀式」について実践例や手順をまとめていきます。
 例：
@@ -98,3 +76,10 @@ Hail Eris! All Hail Discordia!
 
 > "真面目はふざけてる。ふざけてるは真面目。"
 > — KSC（聖なる混沌の守護者）
+
+---
+
+Maintained by: ravensgate (KSC) a.k.a. *Le Sorcier Inconnu*  
+Contact: ravensgate2025@gmail.com  
+Translations & Notes: © KSC, all rights reserved unless otherwise stated.  
+Attributions: All quoted works and images remain the property of their respective copyright holders.
