@@ -1,4 +1,4 @@
-# ディスコーディアン魔術アーカイブ🇯🇵
+# 🍏 ディスコーディアン魔術アーカイブ🇯🇵
 
 [English site is here!🇬🇧](https://github.com/ravensgate-tux/Discordianism_ksc-en/blob/main/README.md)<br>
 ようこそ、「ディスコーディアン魔術アーカイブ」へ
