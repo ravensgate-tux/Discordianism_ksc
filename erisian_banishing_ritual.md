@@ -1,4 +1,4 @@
-# Erisian Banishing Ritual (LBRP-style, Solo Version)
+# 🍏 Erisian Banishing Ritual (LBRP-style, Solo Version)
 
 **Purpose:**  
 To cleanse the space and set it in balance between Order and Chaos.  
