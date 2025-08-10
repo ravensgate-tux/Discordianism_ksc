@@ -49,7 +49,7 @@ KSC氏の最新の論文（英語）「スペアって2人居るんじゃない�
 - [POP MAGIC! (グラント・モリスン)](https://github.com/ravensgate-tux/pop_magic_annotation/blob/main/README.md)
 
 <ul>
-  <li>🌀 <a href="https://www.principiadiscordia.com/">Principia Discordia (official) - English</a></li>
+  <li>🌀 <a href="https://www-principiadiscordia-com.translate.goog/book/1.php?_x_tr_sl=en&_x_tr_tl=ja&_x_tr_hl=ja&_x_tr_pto=wapp">Principia Discordia (official) - 🇯🇵 Google翻訳版</a></li>
 </ul>
 
 ## 🌀 ディスコーディアニズムとは
