@@ -108,7 +108,7 @@ Hail Eris! All Hail Discordia!
 <ul>
   <li>🐐 <a href="https://github.com/ravensgate-tux/hine_ganesha_morphing/blob/main/README.md">ガネーシャ・デーモン・モーフィング (Phil Hine) - 翻訳・注釈 by KSC</a></li>
 </ul>
-
+- [BATMAN R.I.P. (Grant Morrison) - 翻訳・注釈 by KSC](https://github.com/ravensgate-tux/batman_rip_zine/blob/main/README.md)
 - [地上の地獄 (A.O.Spare)🇯🇵 - 翻訳・注釈 by KSC](https://github.com/ravensgate-tux/earth_inferno/blob/main/README.md)
 - [半獣神たちの書 (A.O.Spare)🇯🇵 - 翻訳・注釈 by KSC](https://github.com/ravensgate-tux/book_satyrs/blob/main/README.md)
 - [快楽の書 (A.O.Spare) 🇯🇵 - 翻訳・注釈 by KSC](https://github.com/ravensgate-tux/book_of_pleasure/blob/main/README.md)
