@@ -106,7 +106,7 @@ Hail Eris! All Hail Discordia!
 </ul>
 
 <ul>
-  <li>🐐 <a href="https://github.com/ravensgate-tux/hine_ganesha_morphing/blob/main/README.md">Ganesha morphing (Phil Hine) - translated and notes by KSC</a></li>
+  <li>🐐 <a href="https://github.com/ravensgate-tux/hine_ganesha_morphing/blob/main/README.md">ガネーシャ・デーモン・モーフィング (Phil Hine) - 翻訳・注釈 by KSC</a></li>
 </ul>
 
 - [地上の地獄 (A.O.Spare)🇯🇵 - 翻訳・注釈 by KSC](https://github.com/ravensgate-tux/earth_inferno/blob/main/README.md)
