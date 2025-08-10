@@ -35,6 +35,11 @@ and the turning of the Cycle begin."*
   > *Cycle*  
   > *Convergence*  
 
+<div align="center">
+<img src="eris_pentacle.jpg" width="300">
+</div>
+<br>
+
 ---
 
 ## 4. The Four Quarters
