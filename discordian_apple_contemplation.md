@@ -5,7 +5,7 @@
 2. 静かに座し、背筋を伸ばし、呼吸を整える。  
 
 <div align="center">
-<img src="ErisKan-003.png" width="200">
+<img src="ErisKan-005.png" width="200">
 </div>
 <br>
 
