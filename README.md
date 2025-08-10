@@ -92,6 +92,11 @@ Hail Eris! All Hail Discordia!
 
 ---
 
+<div align="center">
+<img src="eris-apple.png" width="200">
+</div>
+<br>
+
 ## KSC Discordian Magick Archive
 **with TRANSLATIONS & NOTES by**  
 Keeper of Sacred Chaos (KSC)  
