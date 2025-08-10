@@ -21,6 +21,7 @@ KSC氏の最新の論文（英語）「スペアって2人居るんじゃない�
 </div>
 
 ## 📡 最新のニュース
+- [🍏 Eris五芒星による視覚化トレーニング法をリリース（2025年8月11日）](Eris_pentacle_visualization_training.md)
 - [🍏 ディスコーディアン林檎融化法をリリース（2025年8月10日）](apple_melting_contemplation_of_eris.md)
 - [🍏 ディスコーディアン林檎観瞑想法をリリース（2025年8月9日）](discordian_apple_contemplation.md)
 - [🍏 エリス神小五芒星追儺儀式(English)をリリース（2025年8月8日）](erisian_banishing_ritual.md)
