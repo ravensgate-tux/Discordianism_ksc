@@ -6,7 +6,7 @@
 Keepers of Sacred Chao（KSC：聖なる混沌の守護者）による実践・研究・創作を記録・共有するためのものです。
 
 > "The jest is true, the truth’s a jest — and all the rest’s a lovely mess."
-> — Discordian maxim
+> — Discordian maxim by KSC
 
 
 <div align="right">
