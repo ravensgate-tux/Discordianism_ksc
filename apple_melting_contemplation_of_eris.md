@@ -5,7 +5,7 @@
 2. 背筋を伸ばして呼吸を整える。
 
 <div align="center">
-<img src="Eris-nanso.png" width="200">
+<img src="Eris-nanso-k.png" width="200">
 </div>
 <br>
 
