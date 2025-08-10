@@ -1,4 +1,4 @@
-# 🍏 ディスコーディアン林檎観（Apple Contemplation of Eris）
+# 🍏 ディスコーディアン林檎観瞑想法（Apple Contemplation of Eris）
 
 ## 準備
 1. 掛け軸を正面に設置し、Eris五芒星の背景に黄金の林檎を観想する。  
