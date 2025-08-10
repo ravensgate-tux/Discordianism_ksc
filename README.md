@@ -112,11 +112,11 @@ Hail Eris! All Hail Discordia!
 - 🐐 [喚起魔術の技法 (Phil Hine) - 翻訳・注釈 KSC](https://github.com/ravensgate-tux/hine_evocation/blob/main/README.md)
 - 🐐 [現代シャーマニズムの技法 vol.1 (Phil Hine) - 翻訳・注釈 by KSC](https://github.com/ravensgate-tux/hine_modern_shamanism/blob/main/README.md)
 - 🦇 [BATMAN R.I.P. (Grant Morrison) - 翻訳・注釈 by KSC](https://github.com/ravensgate-tux/batman_rip_zine/blob/main/README.md)
-- [地上の地獄 (A.O.Spare)🇯🇵 - 翻訳・注釈 by KSC](https://github.com/ravensgate-tux/earth_inferno/blob/main/README.md)
-- [半獣神たちの書 (A.O.Spare)🇯🇵 - 翻訳・注釈 by KSC](https://github.com/ravensgate-tux/book_satyrs/blob/main/README.md)
-- [快楽の書 (A.O.Spare) 🇯🇵 - 翻訳・注釈 by KSC](https://github.com/ravensgate-tux/book_of_pleasure/blob/main/README.md)
-- [生命の集中 (A.O.Spare)🇯🇵 - 翻訳・注釈 by KSC](https://github.com/ravensgate-tux/focus-of-life/blob/main/README.md)
-- [ゾスの呪詛 (A.O.Spare)🇯🇵 - 翻訳・注釈 notes by KSC](https://github.com/ravensgate-tux/Anathema_of_Zos/blob/main/README.md)
+- 🎨 [地上の地獄 (A.O.Spare)🇯🇵 - 翻訳・注釈 by KSC](https://github.com/ravensgate-tux/earth_inferno/blob/main/README.md)
+- 🎨 [半獣神たちの書 (A.O.Spare)🇯🇵 - 翻訳・注釈 by KSC](https://github.com/ravensgate-tux/book_satyrs/blob/main/README.md)
+- 🎨 [快楽の書 (A.O.Spare) 🇯🇵 - 翻訳・注釈 by KSC](https://github.com/ravensgate-tux/book_of_pleasure/blob/main/README.md)
+- 🎨 [生命の集中 (A.O.Spare)🇯🇵 - 翻訳・注釈 by KSC](https://github.com/ravensgate-tux/focus-of-life/blob/main/README.md)
+- 🎨 [ゾスの呪詛 (A.O.Spare)🇯🇵 - 翻訳・注釈 notes by KSC](https://github.com/ravensgate-tux/Anathema_of_Zos/blob/main/README.md)
   
 ---
 
