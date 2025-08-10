@@ -57,7 +57,7 @@ KSC氏の最新の論文（英語）「スペアって2人居るんじゃない�
 - 崇拝対象はギリシャ神話の争いの女神「エリス」
 
 <div align="center">
-<img src="eris-seiya.jpeg" width="400">
+<img src="eris-seiya.jpeg" width="400"><br>
 画像参照：『聖闘士星矢 セインティア翔』by 車田正美（原作）and 久織ちまき（漫画）  
 </div>
 <br>
