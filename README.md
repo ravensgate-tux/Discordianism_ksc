@@ -93,7 +93,7 @@ Hail Eris! All Hail Discordia!
 ---
 
 <div align="center">
-<img src="eris-apple.png" width="200">
+<img src="kimono-eris.png" width="200">
 </div>
 <br>
 
