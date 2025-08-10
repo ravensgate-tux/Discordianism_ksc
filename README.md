@@ -58,6 +58,7 @@ KSC氏の最新の論文（英語）「スペアって2人居るんじゃない�
 
 <div align="center">
 <img src="eris-seiya.jpeg" width="400">
+画像参照：『聖闘士星矢 セインティア翔』by 車田正美（原作）and 久織ちまき（漫画）  
 </div>
 <br>
 
