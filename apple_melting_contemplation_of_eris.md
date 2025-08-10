@@ -1,8 +1,13 @@
 # ディスコーディアン林檎観・融化法（Apple Melting Contemplation of Eris）
 
 ## 準備
-1. 掛け軸を正面に設置し、Eris五芒星を背景に黄金の林檎を思い描く。
-2. 静かに座り、背筋を伸ばして呼吸を整える。
+1. 結果趺坐、半跏趺坐、もしくは無理のない姿勢で座る
+2. 背筋を伸ばして呼吸を整える。
+
+<div align="center">
+<img src="Eris-nanso.png" width="200">
+</div>
+<br>
 
 ## 修行手順
 
