@@ -1,5 +1,6 @@
 # ディスコーディアン魔術アーカイブ
 
+[English site is here!🇬🇧](https://github.com/ravensgate-tux/Discordianism_ksc-en/blob/main/README.md)
 ようこそ、「ディスコーディアン魔術アーカイブ」へ
 このリポジトリは、エリス女神とPOEEの精神を受け継ぎ、
 Keepers of Sacred Chao（KSC：聖なる混沌の守護者）による実践・研究・創作を記録・共有するためのものです。
