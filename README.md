@@ -23,6 +23,15 @@ KSC氏の最新の論文（英語）「スペアって2人居るんじゃない�
 ## 📡 最新のニュース
 - [🐜 企業が虫除けスプレーにスペアのシジルを使用（2025年8月7日）](2025-08-07_sigil_spray.md)
 
+- 🍎 ピンクのケイオスグレネードが登場! (July 29, 2025)
+<div align="center">
+<img src="pink-chaos-grenade.png" width="300">
+</div>
+<br>
+<ul>
+  <li>🐐 <a href="https://enfolding.org/out-now-delinquent-elementals/">新しい本が出た! Phil Hine! (Mar 25, 2025)</a></li>
+</ul>
+
 ## 📜 基本理念
 このプロジェクトは、フィル・ハイン『Prime Chaos』第4章の定義をベースに、
 ディスコーディアニズム（Discordianism）の哲学、実践、儀式、魔法武器などを日本語で整理・発展させていくことを目的とします。
