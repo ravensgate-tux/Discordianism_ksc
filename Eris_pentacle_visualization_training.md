@@ -4,10 +4,9 @@
 1. 暗めの部屋で、下のEris五芒星の画像を明るいディスプレイや紙で用意する。
 2. 白い壁や無地の白いボードを背景として使えるようにする。
 
-（Eris五芒星）
-
 <div align="center">
 <img src="ErisKan-000.png" width="600">
+（Eris五芒星）
 </div>
 <br>
 
