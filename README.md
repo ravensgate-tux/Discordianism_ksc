@@ -40,13 +40,13 @@ KSC氏の最新の論文（英語）「スペアって2人居るんじゃない�
 このプロジェクトは、フィル・ハイン『Prime Chaos』第4章の定義をベースに、
 ディスコーディアニズム（Discordianism）の哲学、実践、儀式、魔法武器などを日本語で整理・発展させていくことを目的とします。
 
-[ケイオスマジック (Prime Chaos)](https://github.com/ravensgate-tux/sorcier_catalogue/blob/main/README.md#PHH00)
+- [ケイオスマジック (Prime Chaos)](https://github.com/ravensgate-tux/sorcier_catalogue/blob/main/README.md#PHH00)
 
-[ディスコーディアニズム（Prime Chaos）](https://github.com/ravensgate-tux/sorcier_catalogue/blob/main/README.md#PHH01)
+- [ディスコーディアニズム（Prime Chaos）](https://github.com/ravensgate-tux/sorcier_catalogue/blob/main/README.md#PHH01)
 
-[アーティスト・マジック(DKMU文書)](artist_magic.md)
+- [アーティスト・マジック(DKMU文書)](artist_magic.md)
 
-[POP MAGIC! (グラント・モリスン)](https://github.com/ravensgate-tux/pop_magic_annotation/blob/main/README.md)
+- [POP MAGIC! (グラント・モリスン)](https://github.com/ravensgate-tux/pop_magic_annotation/blob/main/README.md)
 
 <ul>
   <li>🌀 <a href="https://www.principiadiscordia.com/">Principia Discordia (official) - English</a></li>
