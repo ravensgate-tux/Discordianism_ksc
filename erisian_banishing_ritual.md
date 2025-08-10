@@ -36,7 +36,7 @@ and the turning of the Cycle begin."*
   > *Convergence*  
 
 <div align="center">
-<img src="eris_pentacle.jpg" width="300">
+<img src="eris_pentacle.jpg" width="200">
 </div>
 <br>
 
