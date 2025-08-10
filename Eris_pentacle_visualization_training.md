@@ -5,7 +5,7 @@
 2. 白い壁や無地の白いボードを背景として使えるようにする。
 
 <div align="center">
-<img src="ErisKan-000.png" width="600">
+<img src="ErisKan-000.png" width="600"><br>
 （Eris五芒星）
 </div>
 <br>
