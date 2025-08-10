@@ -48,6 +48,10 @@ KSC氏の最新の論文（英語）「スペアって2人居るんじゃない�
 
 [POP MAGIC! (グラント・モリスン)](https://github.com/ravensgate-tux/pop_magic_annotation/blob/main/README.md)
 
+<ul>
+  <li>🌀 <a href="https://www.principiadiscordia.com/">Principia Discordia (official) - English</a></li>
+</ul>
+
 ## 🌀 ディスコーディアニズムとは
 - 混沌とユーモアを中心に据えた現代魔術の一形態
 - 崇拝対象はギリシャ神話の争いの女神「エリス」
