@@ -2,7 +2,7 @@
 To be performed during times of stagnation, rigidity, or when sacred disruption is needed.
 
 ## 🕯️ PART 1: OPENING
-Light candles. Prepare the altar with symbols of Eris — golden apple, spiral, or the number 23.
+Light candles. Prepare the altar with symbols of Eris — golden apple, spiral, or the number 23.<br>
 With your chosen tool — wand, athame, or ego-hammer — trace the opening Eris Pentacle in the air or upon the altar.
 
 <div align="center">
