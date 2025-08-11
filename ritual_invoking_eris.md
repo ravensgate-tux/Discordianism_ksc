@@ -16,7 +16,7 @@ BEAUTIFUL ENEMY OF FALSE HARMONY,
 I OPEN THIS SPACE IN YOUR HONOR.  
 LET LAUGHTER AND CHAOS ENTER HERE.
 
-(Clap once. Light incense or peppermint oil.)
+(Clap once, or BONG! with the Ego-Hammer. Light incense or peppermint oil.)
 
 ## 🍎 PART 2: INVOCATION OF ERIS
 DISCORDIA INTRAT. ORDO EXEAT.  
@@ -70,7 +70,7 @@ With your chosen tool — wand, athame, or ego-hammer — trace the closing Eris
 </div>
 <br>
 
-(Clap once. Extinguish incense or oil. Let the candles burn or gently dim.)
+(Clap once, or BONG! with the Ego-Hammer. Let the candles off or gently dim.)
 
 **RITUAL COMPLETE.**
 
