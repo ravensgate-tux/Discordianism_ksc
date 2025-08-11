@@ -1,4 +1,4 @@
-# 🍏 RITUAL: THE POWER OF ONE-ISH
+# 🍏 SOL風エリス神"Power of One"内的ワーク
 
 **必要なとき**  
 統一感・集中力、そして適度なカオスを呼び込みたいとき。  
