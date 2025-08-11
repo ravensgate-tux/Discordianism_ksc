@@ -1,4 +1,4 @@
-# RITUAL: INVOKING ERIS — She Who Laughs at the Edge of Order （秩序の縁で笑う者）
+# エリス神召喚儀式: Invoking ERIS — She Who Laughs at the Edge of Order （秩序の縁で笑う者）
 
 To be performed during times of stagnation, rigidity, or when sacred disruption is needed.
 
