@@ -23,7 +23,7 @@ Dolores Ashcroft-Nowicki『Your Unseen Power』の *Power of One* をベース�
 ---
 
 ## ⚡ PART 3: DECLARATION OF TEN POWERS
-（必要な番号だけを読む。全部読むと**脳がバナナになる**）
+（全部読む。ひとつだけだと**脳がバナナになる**）
 
 🔮 **Invocation: The Power of One-ish**  
 I am the Power of One — and today, I choose to exist slightly sideways.  
