@@ -21,7 +21,7 @@ KSC氏の最新の論文（英語）「スペアって2人居るんじゃない�
 </div>
 
 ## 📡 最新のニュース
-- [🍏 Transitus Fluvii シジル生成法をリリース（2025年8月12日）](https://github.com/ravensgate-tux/passing_river/blob/main/README.md)
+- [🍏 Transitus Fluvii（川を渡る者）シジル生成法をリリース（2025年8月12日）](https://github.com/ravensgate-tux/passing_river/blob/main/README.md)
 - [🍏 Eris五芒星による視覚化トレーニング法をリリース（2025年8月11日）](Eris_pentacle_visualization_training.md)
 - [🍏 ディスコーディアン林檎融化法をリリース（2025年8月10日）](apple_melting_contemplation_of_eris.md)
 - [🍏 ディスコーディアン林檎観瞑想法をリリース（2025年8月9日）](discordian_apple_contemplation.md)
