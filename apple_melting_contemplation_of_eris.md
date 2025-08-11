@@ -1,4 +1,4 @@
-# ディスコーディアン林檎融化法（Apple Melting Contemplation of Eris）
+# 🍏 ディスコーディアン林檎融化法（Apple Melting Contemplation of Eris）
 
 ## 準備
 1. 結果趺坐、半跏趺坐、もしくは無理のない姿勢で座る
