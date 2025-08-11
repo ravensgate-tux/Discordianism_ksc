@@ -21,11 +21,7 @@ KSC氏の最新の論文（英語）「スペアって2人居るんじゃない�
 </div>
 
 ## 📡 最新のニュース
-- [🍏 Transitus Fluvii（川を渡る者）シジル生成法をリリース（2025年8月12日）](https://github.com/ravensgate-tux/passing_river/blob/main/README.md)
-- [🍏 Eris五芒星による視覚化トレーニング法をリリース（2025年8月11日）](Eris_pentacle_visualization_training.md)
-- [🍏 ディスコーディアン林檎融化法をリリース（2025年8月10日）](apple_melting_contemplation_of_eris.md)
-- [🍏 ディスコーディアン林檎観瞑想法をリリース（2025年8月9日）](discordian_apple_contemplation.md)
-- [🍏 エリス神小五芒星追儺儀式 (English)をリリース（2025年8月8日）](erisian_banishing_ritual.md)
+
 - [🐜 企業が虫除けスプレーにスペアのシジルを使用（2025年8月7日）](2025-08-07_sigil_spray.md)
 
 - 🍎 ピンクのケイオスグレネードが登場! (July 29, 2025)
@@ -81,6 +77,11 @@ KSC氏の最新の論文（英語）「スペアって2人居るんじゃない�
 - 🃏 儀式魔術 (タロット・タリスマン or シジル) and/or (エゴハンマー or ケイオスグレネード)
 - [🍏 エリス神召喚儀式 (English)をリリース（2025年8月12日）](ritual_invoking_eris.md)
 - [🍏 SOL風：エリス神 Power of One 内的ワークをリリース（2025年8月11日）](ritual_power_of_one_ish.md)
+- [🍏 Transitus Fluvii（川を渡る者）シジル生成法をリリース（2025年8月10日）](https://github.com/ravensgate-tux/passing_river/blob/main/README.md)
+- [🍏 Eris五芒星による視覚化トレーニング法をリリース（2025年8月9日）](Eris_pentacle_visualization_training.md)
+- [🍏 ディスコーディアン林檎融化法をリリース（2025年8月8日）](apple_melting_contemplation_of_eris.md)
+- [🍏 ディスコーディアン林檎観瞑想法をリリース（2025年8月7日）](discordian_apple_contemplation.md)
+- [🍏 エリス神小五芒星追儺儀式 (English)をリリース（2025年8月6日）](erisian_banishing_ritual.md)
 
 ## 🧰 魔法武器一覧（予定）
 - **サイコロ（Dice）**：偶然性と選択肢の拡張
