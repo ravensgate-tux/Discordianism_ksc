@@ -76,7 +76,7 @@ KSC氏の最新の論文（英語）「スペアって2人居るんじゃない�
 例：
 - 🧁 Smartie Ritual（楽しい混乱を街へ）
 - 🎲 ダイスを使った決定行動
-- 📢 バニッシュメントとしての笑いの儀式
+- [📢 バニッシュメントとしての笑いの儀式](hotei_laughter.jpg)
 - 🃏 儀式魔術 (タロット・タリスマン or シジル) and/or (エゴハンマー or ケイオスグレネード)
 - [🍏 エリス神召喚儀式 (English)をリリース（2025年8月12日）](ritual_invoking_eris.md)
 - [🍏 SOL風：エリス神 Power of One 内的ワークをリリース（2025年8月11日）](ritual_power_of_one_ish.md)
