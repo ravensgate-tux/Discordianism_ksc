@@ -3,6 +3,12 @@ To be performed during times of stagnation, rigidity, or when sacred disruption 
 
 ## 🕯️ PART 1: OPENING
 Light candles. Prepare the altar with symbols of Eris — golden apple, spiral, or the number 23.
+With your chosen tool — wand, athame, or ego-hammer — trace the opening Eris Pentacle in the air or upon the altar.
+
+<div align="center">
+<img src="eris_pentacle.jpg" width="200">
+</div>
+<br>
 
 LADY OF THE GOLDEN APPLE,  
 MISTRESS OF THE DISCORDANT TRUTH,  
@@ -56,6 +62,13 @@ FOR THE JOKE I NEEDED, AND THE MISTAKE THAT FREED ME.
 MAY YOU WALK LAUGHING BACK TO THE GOLDEN APPLEFIELDS.  
 HAIL ERIS.  
 DISCORDIA RECEDAT.
+
+With your chosen tool — wand, athame, or ego-hammer — trace the closing Eris Pentacle in the air or upon the altar.
+
+<div align="center">
+<img src="eris_pentacle.jpg" width="200">
+</div>
+<br>
 
 (Clap once. Extinguish incense or oil. Let the candles burn or gently dim.)
 
