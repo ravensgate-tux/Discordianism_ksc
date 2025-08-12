@@ -38,6 +38,7 @@ KSC氏の最新の論文（英語）「スペアって2人居るんじゃない�
 このプロジェクトは、フィル・ハイン『Prime Chaos』第4章の定義をベースに、
 ディスコーディアニズム（Discordianism）の哲学、実践、儀式、魔法武器などを日本語で整理・発展させていくことを目的とします。
 
+- [🇯🇵 日本ディスコーディアン協会](https://x.com/discordianjp)
 - [ケイオスマジック (Prime Chaos)](https://github.com/ravensgate-tux/sorcier_catalogue/blob/main/README.md#PHH00)
 
 - [ディスコーディアニズム（Prime Chaos）](https://github.com/ravensgate-tux/sorcier_catalogue/blob/main/README.md#PHH01)
