@@ -9,8 +9,13 @@ Keepers of Sacred Chao（KSC：聖なる混沌の守護者）による実践・�
 > — Discordian maxim by KSC
 
 
+<div align="center">
+<img src="ten-stages-Ericsian-soul.png" width="500">
+</div>
+<br>
+
 <div align="right">
-<img src="ksc.png" width="200">
+<img src="ksc.png" width="100">
 </div>
 <br>
 
