@@ -5,17 +5,6 @@
 このリポジトリは、エリス女神とPOEEの精神を受け継ぎ、
 Keepers of Sacred Chao（KSC：聖なる混沌の守護者）による実践・研究・創作を記録・共有するためのものです。
 
-> "The jest is true, the truth’s a jest — and all the rest’s a lovely mess."
-> — Discordian maxim by KSC
-
-
-<div align="center">
-<img src="stages-Ericsian-soul.png" width="800">
-<br>
-The Eightfold Path of Discordian Soul Evolution🌀
-</div>
-<br>
-
 <div align="right">
 <img src="ksc.png" width="100">
 </div>
@@ -26,6 +15,20 @@ The Eightfold Path of Discordian Soul Evolution🌀
 KSC氏の最新の論文（英語）「スペアって2人居るんじゃないの？(Spare A vs Spare B 仮説)」はこちら
 </a>
 </div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+The Eightfold Path of Discordian Soul Evolution🌀
+<img src="stages-Ericsian-soul.png" width="800">
+<br>
+</div>
+<br>
+
 
 ## 📡 最新のニュース
 
