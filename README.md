@@ -129,10 +129,6 @@ Hail Eris! All Hail Discordia!
   <li>🐐 <a href="https://occultlibrary.wiki.fc2.com/wiki/%E3%81%99%E3%81%90%E3%82%8F%E3%81%8B%E3%82%8B%E6%B7%B7%E6%B2%8C%E9%AD%94%E8%A1%93">すぐわかる混沌魔術 (Phil Hine) - existing translation by others</a></li>
 </ul>
 
-<ul>
-  <li>🐐 <a href="https://github.com/ravensgate-tux/hine_ganesha_morphing/blob/main/README.md">ガネーシャ・デーモン・モーフィング (Phil Hine) - 翻訳・注釈 by KSC</a></li>
-</ul>
-
 - 🐘 [ガネーシャ・モーフィング (Phil Hine)](https://github.com/ravensgate-tux/hine_ganesha_morphing/blob/main/README.md)
 - 🐘 [ガネーシャ神殿での日拝](https://github.com/ravensgate-tux/ganesha_morning/blob/main/README.md)
 - 🎨 [地上の地獄 (A.O.Spare)🇯🇵 - 翻訳・注釈 by KSC](https://github.com/ravensgate-tux/earth_inferno/blob/main/README.md)
