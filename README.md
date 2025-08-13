@@ -52,9 +52,9 @@ The Eightfold Path of Discordian Soul Evolution🌀
 - 🐐 [現代シャーマニズムの技法 (Phil Hine)](https://github.com/ravensgate-tux/hine_modern_shamanism/blob/main/README.md)
 - 🐐 [喚起魔術の技法 (Phil Hine) - 翻訳・注釈 KSC](https://github.com/ravensgate-tux/hine_evocation/blob/main/README.md)
 - 🐐 [ケイオスマジック (Phil Hine)](https://github.com/ravensgate-tux/sorcier_catalogue/blob/main/README.md#PHH00)
-- 🌀 [アーティスト・マジック (DKMU文書)](artist_magic.md)
 - 🕶 [POP MAGIC! (グラント・モリスン)](https://github.com/ravensgate-tux/pop_magic_annotation/blob/main/README.md)
-- 🦇 [BATMAN R.I.P. (グラント・モリスン)](https://github.com/ravensgate-tux/batman_rip_zine/blob/main/README.md)
+- 🕶 [BATMAN R.I.P. (グラント・モリスン)](https://github.com/ravensgate-tux/batman_rip_zine/blob/main/README.md)
+- 🌀 [アーティスト・マジック (DKMU文書)](artist_magic.md)
 
 <ul>
   <li>🌀 <a href="https://www-principiadiscordia-com.translate.goog/book/1.php?_x_tr_sl=en&_x_tr_tl=ja&_x_tr_hl=ja&_x_tr_pto=wapp">Principia Discordia (official) - 🇯🇵 Google翻訳版</a></li>
