@@ -10,7 +10,7 @@ Keepers of Sacred Chao（KSC：聖なる混沌の守護者）による実践・�
 
 
 <div align="center">
-<img src="ten-stages-Ericsian-soul.png" width="500">
+<img src="stages-Ericsian-soul.png" width="500">
 </div>
 <br>
 
