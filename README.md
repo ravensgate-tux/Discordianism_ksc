@@ -10,7 +10,9 @@ Keepers of Sacred Chao（KSC：聖なる混沌の守護者）による実践・�
 
 
 <div align="center">
-<img src="stages-Ericsian-soul.png" width="500">
+<img src="stages-Ericsian-soul.png" width="800">
+<br>
+The Eightfold Path of Discordian Soul Evolution🌀
 </div>
 <br>
 
