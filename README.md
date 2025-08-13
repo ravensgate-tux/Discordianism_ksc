@@ -50,7 +50,7 @@ The Eightfold Path of Discordian Soul Evolution🌀
 - 🇯🇵 [日本ディスコーディアン協会](https://x.com/discordianjp)
 - 🐐 [ディスコーディアニズム（Phil Hine）](https://github.com/ravensgate-tux/sorcier_catalogue/blob/main/README.md#PHH01)
 - 🐐 [現代シャーマニズムの技法 (Phil Hine)](https://github.com/ravensgate-tux/hine_modern_shamanism/blob/main/README.md)
-- 🐐 [喚起魔術の技法 (Phil Hine) - 翻訳・注釈 KSC](https://github.com/ravensgate-tux/hine_evocation/blob/main/README.md)
+- 🐐 [喚起魔術の技法 (Phil Hine)](https://github.com/ravensgate-tux/hine_evocation/blob/main/README.md)
 - 🐐 [ケイオスマジック (Phil Hine)](https://github.com/ravensgate-tux/sorcier_catalogue/blob/main/README.md#PHH00)
 - 🕶 [POP MAGIC! (グラント・モリスン)](https://github.com/ravensgate-tux/pop_magic_annotation/blob/main/README.md)
 - 🕶 [BATMAN R.I.P. (グラント・モリスン)](https://github.com/ravensgate-tux/batman_rip_zine/blob/main/README.md)
