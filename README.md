@@ -133,6 +133,8 @@ Hail Eris! All Hail Discordia!
   <li>🐐 <a href="https://github.com/ravensgate-tux/hine_ganesha_morphing/blob/main/README.md">ガネーシャ・デーモン・モーフィング (Phil Hine) - 翻訳・注釈 by KSC</a></li>
 </ul>
 
+- 🐘 [ガネーシャ・モーフィング (Phil Hine)](https://github.com/ravensgate-tux/hine_ganesha_morphing/blob/main/README.md)
+- 🐘 [ガネーシャ神殿での日拝](https://github.com/ravensgate-tux/ganesha_morning/blob/main/README.md)
 - 🎨 [地上の地獄 (A.O.Spare)🇯🇵 - 翻訳・注釈 by KSC](https://github.com/ravensgate-tux/earth_inferno/blob/main/README.md)
 - 🎨 [半獣神たちの書 (A.O.Spare)🇯🇵 - 翻訳・注釈 by KSC](https://github.com/ravensgate-tux/book_satyrs/blob/main/README.md)
 - 🎨 [快楽の書 (A.O.Spare) 🇯🇵 - 翻訳・注釈 by KSC](https://github.com/ravensgate-tux/book_of_pleasure/blob/main/README.md)
