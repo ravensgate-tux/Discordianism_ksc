@@ -47,14 +47,12 @@ The Eightfold Path of Discordian Soul Evolution🌀
 このプロジェクトは、フィル・ハイン『Prime Chaos』第4章の定義をベースに、
 ディスコーディアニズム（Discordianism）の哲学、実践、儀式、魔法武器などを日本語で整理・発展させていくことを目的とします。
 
-- [🇯🇵 日本ディスコーディアン協会](https://x.com/discordianjp)
-- [ケイオスマジック (Prime Chaos)](https://github.com/ravensgate-tux/sorcier_catalogue/blob/main/README.md#PHH00)
-
-- [ディスコーディアニズム（Prime Chaos）](https://github.com/ravensgate-tux/sorcier_catalogue/blob/main/README.md#PHH01)
-
-- [アーティスト・マジック(DKMU文書)](artist_magic.md)
-
-- [POP MAGIC! (グラント・モリスン)](https://github.com/ravensgate-tux/pop_magic_annotation/blob/main/README.md)
+- 🇯🇵 [日本ディスコーディアン協会](https://x.com/discordianjp)
+- 🐐 [ディスコーディアニズム（Phil Hine）](https://github.com/ravensgate-tux/sorcier_catalogue/blob/main/README.md#PHH01)
+- 🐐 [現代シャーマニズムの技法(Phil Hine)](https://github.com/ravensgate-tux/hine_modern_shamanism/blob/main/README.md)
+- 🐐 [ケイオスマジック (Phil Hine)](https://github.com/ravensgate-tux/sorcier_catalogue/blob/main/README.md#PHH00)
+- 🌀 [アーティスト・マジック(DKMU文書)](artist_magic.md)
+- 🕶 [POP MAGIC! (グラント・モリスン)](https://github.com/ravensgate-tux/pop_magic_annotation/blob/main/README.md)
 
 <ul>
   <li>🌀 <a href="https://www-principiadiscordia-com.translate.goog/book/1.php?_x_tr_sl=en&_x_tr_tl=ja&_x_tr_hl=ja&_x_tr_pto=wapp">Principia Discordia (official) - 🇯🇵 Google翻訳版</a></li>
