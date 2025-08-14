@@ -1,6 +1,8 @@
 # 🍏 LIBER SPAGHETTI
 *A Chaos Magickal Grimoire of Noodles and Nonsense*
-
+<div align="right">
+<img src="Spaghetti.png" width="100"><br>
+</div>
 ---
 
 ## Book I – Liber Nullius (The Null Noodle)
