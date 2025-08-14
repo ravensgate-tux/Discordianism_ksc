@@ -3,6 +3,7 @@
 <div align="right">
 <img src="Spaghetti.png" width="100"><br>
 </div>
+
 ---
 
 ## Book I – Liber Nullius (The Null Noodle)
