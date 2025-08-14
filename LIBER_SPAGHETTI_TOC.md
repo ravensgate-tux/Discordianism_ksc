@@ -1,4 +1,4 @@
-# LIBER SPAGHETTI
+# 🍏 LIBER SPAGHETTI
 *A Chaos Magickal Grimoire of Noodles and Nonsense*
 
 ---
