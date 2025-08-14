@@ -31,6 +31,7 @@ The Eightfold Path of Discordian Soul Evolution🌀
 
 ## 📡 最新のニュース
 
+- [🍏 LIBER SPAGHETTI 出版発表（2025年8月15日）〜](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/LIBER_SPAGHETTI_TOC.md)
 - [🍏 エリス神関連儀式をリリース（2025年8月9日）〜](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/README.md#R01)
 - [🐜 企業が虫除けスプレーにスペアのシジルを使用（2025年8月7日）](2025-08-07_sigil_spray.md)
 
