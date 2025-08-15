@@ -28,17 +28,6 @@ The Eightfold Path of Discordian Soul Evolution🌀
 </div>
 <br>
 
-<br>
-
-<div align="center">
-The Eightfold Path of Discordian Soul Evolution🌀
-<img src="KSC-ZEN-8.jpg" width="200">
-<br>
-</div>
-<br>
-
-
-
 ## 📡 最新のニュース
 
 - [🍏 LIBER SPAGHETTI 出版発表（2025年8月15日）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/LIBER_SPAGHETTI_TOC.md)
