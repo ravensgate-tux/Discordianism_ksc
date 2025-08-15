@@ -28,6 +28,16 @@ The Eightfold Path of Discordian Soul Evolution🌀
 </div>
 <br>
 
+<br>
+
+<div align="center">
+The Eightfold Path of Discordian Soul Evolution🌀
+<img src="KSC-ZEN-8.jpg" width="200">
+<br>
+</div>
+<br>
+
+
 
 ## 📡 最新のニュース
 
