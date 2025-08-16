@@ -28,7 +28,7 @@ The Eightfold Path of Discordian Soul Evolution🌀<br>
 </div>
 <br>
 
-One begins in the manner of A.O.S., by gazing into the sigil until the boundaries of Zos dissolve and the gate of Kia opens; from this aperture arises Discordia herself, the laughing Goddess, placing in the hand the golden apple. To eat it is to hail Eris within one’s own flesh, to embody the paradox of chaos, and then to forget chaos, and finally to forget everything, slipping into the Neither-Neither. Yet this is no nihilistic disappearance: from the void bubbles forth spaghetti and wine, laughter and play, the delight of simple things. And so the magus returns to the marketplace, bearing the taste of Kia, guiding others while still tangled joyfully in the threads of Discordia.
+One begins in the manner of A.O.S., by gazing into the sigil until the boundaries of Zos dissolve and the gate of Kia opens; from this aperture arises Discordia herself, the laughing Goddess, placing in the hand the golden apple. To eat it is to hail Eris within one’s own flesh, to embody the paradox of chaos,🌀 and then to forget chaos, and finally to forget everything, slipping into the Neither-Neither. Yet this is no nihilistic disappearance: from the void bubbles forth spaghetti🍝 and wine🍷, laughter and play, the delight of simple things. And so the magus returns to the marketplace, bearing the taste of Kia, guiding others while still tangled joyfully in the threads of Discordia.🍏
 
 ## 📡 最新のニュース
 
