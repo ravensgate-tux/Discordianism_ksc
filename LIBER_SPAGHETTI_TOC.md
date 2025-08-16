@@ -2,6 +2,20 @@
 
 *A Chaos Magickal Grimoire of Noodles and Nonsense* by KSC
 
+<div align="right">
+<img src="ksc.png" width="100">
+</div>
+<br>
+
+<div align="right">
+  This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.<br>
+<a href="https://github.com/ravensgate-tux/spareA-spareB/blob/main/README.md">
+👉 Spare A vs Spare B: Investigating a Divided Legacy (English)
+</a>
+</div>
+
+<br>
+
 ---
 
 <div align="center">
