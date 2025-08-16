@@ -1,5 +1,6 @@
 # 🍏 LIBER SPAGHETTI🍝
-*A Chaos Magickal Grimoire of Noodles and Nonsense*
+
+*A Chaos Magickal Grimoire of Noodles and Nonsense* by KSC
 
 ---
 
