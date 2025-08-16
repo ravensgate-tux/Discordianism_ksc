@@ -1,7 +1,7 @@
 # 🍏 LIBER SPAGHETTI
 *A Chaos Magickal Grimoire of Noodles and Nonsense*
 <div align="center">
-<img src="Spaghetti.png" width="100"><br>
+<img src="KSC-8ーZEN.png" width="600"><br>
 </div>
 
 ---
