@@ -23,7 +23,7 @@ KSC氏の最新の論文（英語）「スペアって2人居るんじゃない�
 
 <div align="center">
 The Eightfold Path of Discordian Soul Evolution🌀<br>
-<img src="KSC-8ーZEN.png" width="600">
+<img src="KSC-8-ZEN-Kanji.jpg" width="600">
 <br>
 </div>
 <br>
