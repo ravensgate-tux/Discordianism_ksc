@@ -28,7 +28,7 @@ KSC氏の最新の論文（英語）「スペアって2人居るんじゃない�
 </div>
 <br>
 
-One begins in the manner of A.O.S., by gazing into the sigil until the boundaries of Zos dissolve and the gate of Kia opens; from this aperture arises Discordia herself, the laughing Goddess, placing in the hand the golden apple. To eat it is to hail Eris within one’s own flesh, to embody the paradox of chaos,🌀 and then to forget chaos, and finally to forget everything, slipping into the Neither-Neither. Yet this is no nihilistic disappearance: from the void bubbles forth spaghetti🍝 and wine🍷, laughter and play, the delight of simple things. And so the magus returns to the marketplace, bearing the taste of Kia, guiding others while still tangled joyfully in the threads of Discordia.🍏
+A.O.S. のように、ゾス(Zos)の境界が溶けてキア(Kia)の門が開くまで、シジル(Sigil)を見つめます。その隙間から、笑う女神Erisが現れ、黄金のリンゴ🍏を手に渡します。それを食べることは、自らの肉体に知恵を招き入れ、混沌のパラドックスを体現し、 そして混沌🌀を忘れ、ついにすべての空虚を体験し、最終的に(Neither-Neither)を実現します。しかしこれは終わりではなく、スパゲッティ🍝とワイン🍷、地上の喜び、自己愛と回帰します。そして魔術師はキア(Kia)の味をかみしめ、ディスコーディアの糸に絡み合いながら、また市場に戻って他者を導くのです。
 
 ## 📡 最新のニュース
 
