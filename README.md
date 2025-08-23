@@ -32,6 +32,7 @@ KSC氏の最新の論文（英語）「スペアって2人居るんじゃない�
 
 ## 📡 最新のニュース
 
+- [知られざる呪術師のチャンネル - YouTube発表 (2025年8月24日) ](https://www.youtube.com/@ravensgate-v5s)
 - [🍏 LIBER SPAGHETTI🍝 出版発表（2025年8月15日）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/LIBER_SPAGHETTI_TOC.md)
 - [🍏 エリス神関連儀式をリリース（2025年8月9日）〜](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/README.md#R01)
 - [🐜 企業が虫除けスプレーにスペアのシジルを使用（2025年8月7日）](2025-08-07_sigil_spray.md)
