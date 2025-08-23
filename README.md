@@ -6,7 +6,7 @@
 Keepers of Sacred Chao（KSC：聖なる混沌の守護者）による実践・研究・創作を記録・共有するためのものです。
 
 <div align="right">
-<img src="ksc.png" width="100"><br>
+<img src="new_ksc.png" width="100"><br>
 This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.
 </div>
 <div align="right">
