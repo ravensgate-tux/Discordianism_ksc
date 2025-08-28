@@ -11,7 +11,7 @@
 
 
 <div style="display: flex; gap: 10px; justify-content: center;">
-  <img src="sigil1.png" width="500">
+  <img src="sigil1.png" width="300">
 </div>
 <br>
 
@@ -46,10 +46,10 @@
     **母音と重複を消す** 手順を紹介
 
 
-Redditの投稿に次のように記されています：<br>
+>Redditの投稿に次のように記されています：<br>
 
 <div style="display: flex; gap: 10px; justify-content: center;">
-  <img src="invisibles1-19.png" width="500">
+  <img src="invisibles1-19.png" width="1000">
 </div>
 <br>
   
