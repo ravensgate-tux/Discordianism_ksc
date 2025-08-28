@@ -45,10 +45,12 @@
 -   例文「IT IS MY DESIRE TO BE A GREAT ACTOR」から
     **母音と重複を消す** 手順を紹介
 
+<br>
+
 >グラント・モリスンの『POP Magic!』には下記のように記されています：<br>
 
 <div style="display: flex; gap: 10px; justify-content: center;">
-  <img src="pop-magic-sigil.png" width="700">
+  <img src="pop-magic-sigil.png" width="900">
 </div>
 <br>
   
