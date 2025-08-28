@@ -32,7 +32,7 @@ KSC氏の最新の論文（英語）「スペアって2人居るんじゃない�
 
 ## 📡 最新のニュース
 
-
+- [🍏 重複文字を消さないAOS流シジル作成（2025年8月29日）](https://github.com/ravensgate-tux/sigil_duplicates/blob/main/README.md)
 - [🌀 Daruma Sigil リリース - English (2025年8月26日)](https://github.com/ravensgate-tux/daruma_sigil/blob/main/README.md)
 - [📺 知られざる呪術師のチャンネル - YouTube発表 (2025年8月24日) ](https://www.youtube.com/@ravensgate-v5s)
 - [🍏 LIBER SPAGHETTI🍝 出版発表（2025年8月15日）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/LIBER_SPAGHETTI_TOC.md)
