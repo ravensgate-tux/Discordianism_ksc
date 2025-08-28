@@ -23,6 +23,14 @@
 
 -   ピーター・キャロル『Liber Null』（1978/87）が初めて
     **「重複文字を消す」** と明記
+
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <img src="sigil6.png" width="300">
+</div>
+<br>
+
+画像出典："Liber Null & Psychonaut" by Peter J. Carrol 
+    
 -   フィル・ハイン『Condensed
     Chaos』（1994）も同様に「文章を書き、重複を消し、残りで図形を作る」と説明
 -   ただし **母音削除の指示はなかった**
