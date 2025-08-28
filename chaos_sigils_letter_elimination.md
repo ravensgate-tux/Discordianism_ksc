@@ -29,7 +29,7 @@
 </div>
 <br>
 
-画像出典："Liber Null & Psychonaut" by Peter J. Carrol 
+>画像出典："Liber Null & Psychonaut" by Peter J. Carrol 
     
 -   フィル・ハイン『Condensed
     Chaos』（1994）も同様に「文章を書き、重複を消し、残りで図形を作る」と説明
