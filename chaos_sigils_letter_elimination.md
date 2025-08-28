@@ -47,7 +47,7 @@
 
 <br>
 
->グラント・モリスンの『POP Magic!』には下記のように記されています：<br>
+>グラント・モリスンの『POP Magic!』には下記のように記されている：<br>
 
 <div style="display: flex; gap: 10px; justify-content: center;">
   <img src="pop-magic-sigil.png" width="900">
