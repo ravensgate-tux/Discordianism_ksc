@@ -44,6 +44,12 @@
 -   グラント・モリソンの漫画『The Invisibles』（1995）が転機
 -   例文「It is my desire to visit Hitler's bunker」から
     **母音と重複を消す** 手順を紹介
+
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <img src="invisibles1-19.png" width="300">
+</div>
+<br>
+  
 -   以降、ネットや実践書に急速に広まり、**母音削除＋重複削除**
     がセットで普及
 
