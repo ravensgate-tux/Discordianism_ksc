@@ -41,15 +41,14 @@
 
 ## 3. 母音削除の登場（1995年）
 
--   グラント・モリソンの漫画『The Invisibles』（1995）が転機
--   例文「It is my desire to visit Hitler's bunker」から
+-   グラント・モリソンのエッセイ『POP Magic』（1990年代）が転機
+-   例文「IT IS MY DESIRE TO BE A GREAT ACTOR」から
     **母音と重複を消す** 手順を紹介
 
-
->Redditの投稿に次のように記されています：<br>
+>グラント・モリスンの『POP Magic!』には下記のように記されています：<br>
 
 <div style="display: flex; gap: 10px; justify-content: center;">
-  <img src="invisibles1-19.png" width="700">
+  <img src="pop-magic-sigil.png" width="700">
 </div>
 <br>
   
