@@ -11,7 +11,7 @@
 
 
 <div style="display: flex; gap: 10px; justify-content: center;">
-  <img src="sigil1.png" width="300">
+  <img src="sigil1.png" width="500">
 </div>
 <br>
 
