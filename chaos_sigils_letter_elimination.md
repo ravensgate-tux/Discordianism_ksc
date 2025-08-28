@@ -49,7 +49,7 @@
 Redditの投稿に次のように記されています：<br>
 
 <div style="display: flex; gap: 10px; justify-content: center;">
-  <img src="invisibles1-19.png" width="300">
+  <img src="invisibles1-19.png" width="500">
 </div>
 <br>
   
