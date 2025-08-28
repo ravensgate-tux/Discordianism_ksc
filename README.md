@@ -34,7 +34,7 @@ KSC氏の最新の論文（英語）「スペアって2人居るんじゃない�
 
 - [✏️レポート：シジル作成時の重複文字の削除についての調査結果をリリース（2025年8月29日）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/chaos_sigils_letter_elimination.md)
 - [🍏 重複文字を消さないAOS流シジル作成（2025年8月29日）](https://github.com/ravensgate-tux/sigil_duplicates/blob/main/README.md)
-- [🌀 「だるま魔術 ver.1 - Daruma Sigilリリース - English (2025年8月26日)](https://github.com/ravensgate-tux/daruma_sigil/blob/main/README.md)
+- [🌀 だるま魔術 ver.1 - Daruma Sigilリリース - English (2025年8月26日)](https://github.com/ravensgate-tux/daruma_sigil/blob/main/README.md)
 - [📺 知られざる呪術師のチャンネル - YouTube発表 (2025年8月24日) ](https://www.youtube.com/@ravensgate-v5s)
 - [🍏 LIBER SPAGHETTI🍝 出版発表（2025年8月15日）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/LIBER_SPAGHETTI_TOC.md)
 - [🍏 エリス神関連儀式をリリース（2025年8月9日）〜](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/README.md#R01)
