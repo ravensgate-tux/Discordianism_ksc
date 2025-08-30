@@ -1,4 +1,4 @@
-# 🍏 ディスコーディアン流　- だるま魔術 （シジル魔術） ver.1
+# 🍏 だるま魔術 （シジル魔術） ver.1　ーディスコーディアン魔術ライブラリ
 
 <div align="right">
 <img src="daruma_black.jpg" width="150"><br>
