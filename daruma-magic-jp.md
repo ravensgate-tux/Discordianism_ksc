@@ -12,7 +12,7 @@ _Hail Eris! 🍏_
 ---
 
 ## 1. シジルを作成する
-- 短い英語の文を作成する  
+- 願望を示す、短い英語の文を作成する  
   例： `SUCCESS SALES`
 - 注：重複文字は削除しない  
 - 参照 👉：[🍏 重複文字を消さないAOS流シジル作成（2025年8月29日）](https://github.com/ravensgate-tux/sigil_duplicates/blob/main/README.md)
