@@ -41,7 +41,7 @@ _Hail Eris! 🍏_
 - このシジルのことを自然に忘れる期間を置く
 - 下記のジェイソン・ミラーの観点から、目標達成するために努力をする
 
-> Make a plan that could work without magick, then use magick to make that plan work better.
+> Make a plan that could work without magick, then use magick to make that plan work better.<br>
 > 魔術がなくても成立する計画を立て、それをより良く機能させるために魔術を使え
 
 ## 5. 願望がかなったら
