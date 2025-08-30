@@ -13,11 +13,9 @@ _Hail Eris! 🍏_
 
 ## 1. シジルを作成する
 - 短い英語の文を作成する  
-  例: `SUCCESS SALES`
-- 重複文字を削除しない  
-- 参考: AOS風シジル作成  
-
-- [🍏 重複文字を消さないAOS流シジル作成（2025年8月29日）](https://github.com/ravensgate-tux/sigil_duplicates/blob/main/README.md)
+  例： `SUCCESS SALES`
+- 注：重複文字は削除しない  
+- 参照 👉：[🍏 重複文字を消さないAOS流シジル作成（2025年8月29日）](https://github.com/ravensgate-tux/sigil_duplicates/blob/main/README.md)
 
 ## 2. だるまの背中にシジルを描く
 - 左目に目を入れる。願いがかなったら右目にも。  
