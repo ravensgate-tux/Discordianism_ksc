@@ -1,6 +1,4 @@
-# だるま魔術（シジル魔術） ver.1 - ディスコーディアン魔術
-
-_Hail Eris! 🍏_
+# 🍏 ディスコーディアン流　- だるま魔術 （シジル魔術） ver.1
 
 <div align="right">
 <img src="daruma_black.jpg" width="150"><br>
