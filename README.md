@@ -40,6 +40,7 @@ KSC氏の最新の論文（英語）「スペアって2人居るんじゃない�
 <img src="daruma-sigil-ex01.png" width="300">
 </div>
 <br>
+
 - [📺 知られざる呪術師のチャンネル - YouTube発表 (2025年8月24日) ](https://www.youtube.com/@ravensgate-v5s)
 - [🍏 LIBER SPAGHETTI🍝 出版発表（2025年8月15日）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/LIBER_SPAGHETTI_TOC.md)
 - [🍏 エリス神関連儀式をリリース（2025年8月9日）〜](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/README.md#R01)
