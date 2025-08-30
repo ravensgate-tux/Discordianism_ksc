@@ -17,6 +17,8 @@ _Hail Eris! 🍏_
 - 重複文字を削除しない  
 - 参考: AOS風シジル作成  
 
+- [🍏 重複文字を消さないAOS流シジル作成（2025年8月29日）](https://github.com/ravensgate-tux/sigil_duplicates/blob/main/README.md)
+
 ## 2. だるまの背中にシジルを描く
 - 左目に目を入れる。願いがかなったら右目にも。  
 - 好みに応じて、左目に「阿」、右目に「吽」の梵字を入れてもよい。  
