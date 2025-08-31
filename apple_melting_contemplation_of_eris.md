@@ -35,3 +35,9 @@
 注記<br>
 この修行法は、KSCが長年実践してきた白隠禅師の「軟酥の法」を基盤に、ディスコーディアン魔術の象徴体系と観想技法を融合させたものである。
 
+---
+
+## こちらもご覧ください
+[🍏ディスコーディアン魔術アーカイブ](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/README.md)
+
+---
