@@ -30,4 +30,10 @@
 ---
 注意<br>
 この観想法は、真言密教で行われる「月輪観」の構造を基盤に、Eris五芒星と黄金の林檎というディスコーディアン魔術の象徴を組み合わせたものである。
+  
+---
 
+## こちらもご覧ください
+[🍏ディスコーディアン魔術アーカイブ](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/README.md)
+
+---
