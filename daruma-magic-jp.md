@@ -49,6 +49,11 @@
   
 ---
 
+## こちらもご覧ください
+[🍏ディスコーディアン魔術アーカイブ](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/README.md)
+
+---
+
 ## 参考文献・インスピレーション
 - Austin Osman Spare, *The Book of Pleasure (Self-Love): The Psychology of Ecstasy*  
 - Phil Hine, *Prime Chaos*（特に「ディスコーディアン魔術」に関する章）  
