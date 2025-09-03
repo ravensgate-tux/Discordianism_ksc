@@ -32,6 +32,18 @@ KSC氏の最新の論文（英語）「スペアって2人居るんじゃない�
 
 ## 📡 最新のニュース
 
+- 🍏 非定期：りんご新聞発行開始（2025年9月1日）
+
+<div align="center">
+<img src="zen1.png" width="300">
+</div>
+<br>
+
+<div align="center">
+<img src="zen2.png" width="300">
+</div>
+<br>
+
 - [🍏 だるま魔術 ver.1（2025年8月31日）](daruma-magic-jp.md)
 - [🍏 POEE祭司のno+eへのリンクを開始（2025年8月31日）](https://note.com/tramal)
 - [✏️英語圏レポート：シジル作成時の重複文字の削除についての調査結果をリリース（2025年8月29日）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/chaos_sigils_letter_elimination.md)
