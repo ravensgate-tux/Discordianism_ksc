@@ -147,7 +147,7 @@ Hail Eris! All Hail Discordia!
 - 🎨 [地上の地獄 (A.O.Spare)🇯🇵 - 翻訳・注釈 by KSC](https://github.com/ravensgate-tux/earth_inferno/blob/main/README.md)
 - 🎨 [半獣神たちの書 (A.O.Spare)🇯🇵 - 翻訳・注釈 by KSC](https://github.com/ravensgate-tux/book_satyrs/blob/main/README.md)
 - 🎨 [快楽の書 (A.O.Spare) 🇯🇵 - 翻訳・注釈 by KSC](https://github.com/ravensgate-tux/book_of_pleasure/blob/main/README.md)
-- 🎨 [生命の集中 (A.O.Spare)🇯🇵 - 翻訳・注釈 by KSC](https://github.com/ravensgate-tux/focus-of-life/blob/main/README.md)
+- 🎨 [生命の焦点 (A.O.Spare)🇯🇵 - 翻訳・注釈 by KSC](https://github.com/ravensgate-tux/focus-of-life/blob/main/README.md)
 - 🎨 [ゾスの呪詛 (A.O.Spare)🇯🇵 - 翻訳・注釈 notes by KSC](https://github.com/ravensgate-tux/Anathema_of_Zos/blob/main/README.md)
   
 ---
