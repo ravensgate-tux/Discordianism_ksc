@@ -33,7 +33,7 @@ KSC氏の最新の論文（英語）「スペアって2人居るんじゃない�
 ## 📡 最新のニュース
 
 
-- [🍏 2分でわかるディスコーディアニズム](https://www.youtube.com/watch?v=dFjaCGx6g5Y)
+- [🍏 2分でわかるディスコーディアニズム（2025年9月4日）](https://www.youtube.com/watch?v=dFjaCGx6g5Y)
 - 🍏 非定期：りんご新聞発行開始（2025年9月1日）
 
 <div align="center">
