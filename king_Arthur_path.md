@@ -267,7 +267,7 @@ XIII 死 – How King Marke found Sir Tristram（1494.png）<br>
 
 <div align="center">
 <img src="14-節制(1)-1390.png" width="200"><br>
-How King Marke found Sir Tristram.
+How La Beale Isoud nursed Sir Tristram.
 </div>
 <br>
 
@@ -280,7 +280,7 @@ XIV 節制（1）– How La Beale Isoud nursed Sir Tristram（1390.png）
 
 <div align="center">
 <img src="14-節制(2)-2247.png" width="200"><br>
-How King Marke found Sir Tristram.
+Lovers in the forest.
 </div>
 <br>
 
@@ -291,6 +291,21 @@ XIV 節制（2）– Lovers in the forest（2247.png）
 あなたはその場に立ち会い、自身の中の対立が一つに結ばれるのを知ります。
 **節制の径 – 動**として、この象徴は融合と変容を授けます。
 
+---
+
+<div align="center">
+<img src="15-悪魔-2368.png" width="200"><br>
+How a devil in woman’s likeness tempted Sir Bors.
+</div>
+<br>
+
+XV 悪魔 – How a devil in woman’s likeness tempted Sir Bors（2368.png）<br>
+
+暗い館の中で、妖艶な女の姿をした悪魔が近づきます。
+微笑み、手を差し伸べ、あなたを甘美な鎖で縛ろうとします。
+その誘惑に抗うか、屈するかはあなた次第です。
+鎖は外からではなく内から生まれていると気づいた時、解放の力が芽生えます。
+**悪魔の径**として、この象徴は欲望と自由の境界を示します。
 
 ---
 
