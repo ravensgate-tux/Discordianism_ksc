@@ -309,5 +309,24 @@ XV 悪魔 – How a devil in woman’s likeness tempted Sir Bors（2368.png）<b
 
 ---
 
+
+<div align="center">
+<img src="16-塔-2369.png" width="200"><br>
+Maidens in the Tower.
+</div>
+<br>
+
+XVI 塔 – Maidens in the Tower（2369.png）<br>
+
+高くそびえる塔の上から、乙女たちが下界を見下ろしています。
+そこにはまだ崩壊の兆しはありませんが、空気は緊張に満ちています。
+あなたはその場に立ち、塔の石壁が内側からひび割れていく感覚を覚えます。
+驕りと安定への執着は、やがて必ず崩れることを悟ります。
+**「塔の径」**として、この象徴は破壊と解放の前兆を示します。
+
+
+
+---
+
 © 2025 知られざる呪術師（Le Sorcier Inconnu）  
 本ドキュメントは [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) に基づき公開されています。
