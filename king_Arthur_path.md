@@ -121,6 +121,20 @@ IV 皇帝 – How Morgan le Fay gave a Shield to Sir Tristram（1542.png）<br>
 
 ---
 
+<div align="center">
+<img src="05-教皇-2584.png" width="200"><br>
+Monk reading in chapel.
+</div>
+<br>
+
+V 教皇 – Monk reading in chapel（2584.png）<br>
+
+静かな礼拝堂に入ると、一本の燭台が祭壇を照らしています。
+僧衣の人物が古い書を朗々と読み上げています。
+その声はやがてあなたの胸の奥に共鳴し、言葉を越えた聖なる響きとなります。
+見えない師が背後に立ち、あなたを古来から続く知恵の流れへと導きます。
+**教皇の径**として、この象徴は伝統と霊性を媒介し、あなたを大いなる系譜の一員として結びます。
+
 
 ---
 
