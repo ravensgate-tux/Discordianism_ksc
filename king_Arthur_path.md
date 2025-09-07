@@ -170,5 +170,22 @@ VII 戦車 – Two knights riding through forest（2071.png）<br>
 
 ---
 
+<div align="center">
+<img src="08-力-1294.png" width="200"><br>
+Monk reading in chapel.
+</div>
+<br>
+
+VIII 力 – Sir Launcelot and the Witch Hellawes（1294.png）<br>
+
+夜の館に入り、薄暗い光の中で魔女が迫ります。
+甘い言葉、妖しい魅惑、その力に心が揺らぎます。
+だがあなたは眼差しを正し、己の中心を守ります。
+欲望を抑えるのではなく、受け止めて変容させる。
+**力の径**として、この象徴は獣性を抱きしめた上での内なる剛毅を示します。
+
+
+---
+
 © 2025 知られざる呪術師（Le Sorcier Inconnu）  
 本ドキュメントは [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) に基づき公開されています。
