@@ -425,5 +425,19 @@ XXI 世界 – City / Kingdom landscape（2489.png）
 
 ---
 
+
+<div align="center">
+<img src="Doune_Castle_plan.png" width="800"><br>
+City / Kingdom landscape.
+</div>
+<br>
+
+>画像出展：
+>English: Ground and first floor plans of Doune Castle, near Stirling, Scotland.
+>日付	2008年10月16日
+>原典	Own work by uploader, based on plan in Simpson, W.D. "Doune Castle" Proceedings of the Society of Antiquaries of Scotland 72: 73-83
+>作者	Jonathan Oldenbuck
+
+---
 © 2025 知られざる呪術師（Le Sorcier Inconnu）  
 本ドキュメントは [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) に基づき公開されています。
