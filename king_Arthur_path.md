@@ -152,6 +152,21 @@ VI 恋人 – How Sir Tristram drank of the Love Drink（1420.png）<br>
 愛は歓びと苦悩を同時に約束します。
 **恋人の径**として、この象徴は結合と宿命を映し出します。
 
+---
+
+<div align="center">
+<img src="07-戦車-2071.png" width="200"><br>
+Monk reading in chapel.
+</div>
+<br>
+
+VII 戦車 – Two knights riding through forest（2071.png）<br>
+
+深い森の中で、二頭の馬が道を駆け抜けます。
+その背には騎士たちが並び、槍と盾を掲げています。
+あなたはその行列に加わり、力強く手綱を握ります。
+前進する意志が胸に燃え、左右に揺れる馬も完全に統御されます。
+**戦車の径**として、この象徴は勝利の推進力をもたらします。
 
 ---
 
