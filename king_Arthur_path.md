@@ -54,7 +54,7 @@ Merlin taketh the Child Arthur into his Keeping
 ---
 
 <div align="center">
-<img src="01-魔術師-1122" width="200"><br>
+<img src="01-魔術師-1122.png" width="200"><br>
 Merlin taketh the Child Arthur into his Keeping
 </div>
 <br>
