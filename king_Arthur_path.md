@@ -172,7 +172,7 @@ VII 戦車 – Two knights riding through forest（2071.png）<br>
 
 <div align="center">
 <img src="08-力-1294.png" width="200"><br>
-Monk reading in chapel.
+Sir Launcelot and the Witch Hellawes.
 </div>
 <br>
 
