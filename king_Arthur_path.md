@@ -379,31 +379,31 @@ XXI 世界 – City / Kingdom landscape（2489.png）
 
 ## （資料1） 22小径 対応表（節制は2枚）
 
-| 大アルカナ | 文字 | パス位置 | ファイル名 | 備考 |
+| 大アルカナ | 文字 | パス位置 | ファイルID | 備考 |
 |---|---|---|---|---|
-| 0 愚者 | א Aleph | ケテル⇄ホクマー | **1078.png – Merlin taketh the Child Arthur into his Keeping** | 旅立ち・新生 |
-| I 魔術師 | ב Beth | ケテル⇄ビナー | **1122.png – The Lady of the Lake telleth Arthur of Excalibur** | 技と意志の始まり |
-| II 女司祭 | ג Gimel | ケテル⇄ティファレト | **2147.png – Lady reading in orchard (日時計のある庭)** | 沈黙・奥義 |
-| III 女帝 | ד Daleth | コクマー⇄ビナー | **2146.png – Woman in orchard with rich mantle** | 豊饒・育成 |
-| IV 皇帝 | ה Heh | コクマー⇄ティファレト | **1542.png – How Morgan le Fay gave a Shield to Sir Tristram** | 権威・武徳 |
-| V 教皇 | ו Vav | ケセド⇄ホクマー | **2584.png – Monk reading in chapel** | 伝統・祭儀 |
-| VI 恋人 | ז Zayin | ビナー⇄ティファレト | **1420.png – How Sir Tristram drank of the Love Drink** | 結合・選択 |
-| VII 戦車 | ח Cheth | ゲブラー⇄ビナー | **2071.png – Two knights riding through forest** | 前進・統御 |
-| VIII 力 | ט Teth | ゲブラー⇄ティファレト | **1294.png – Sir Launcelot and the Witch Hellawes** | 誘惑と剛毅 |
-| IX 隠者 | י Yod | ケセド⇄ティファレト | **1472.png – How La Beale Isoud wrote to Sir Tristram** | 内観・孤高 |
-| X 運命の輪 | כ Kaph | ケセド⇄ネツァク | **2246.png – Three women in orchard** | 巡り・分岐 |
-| XI 正義 | ל Lamed | ゲブラー⇄ティファレト | **1210.png – Arthur and the Strange Mantle** | 裁き・均衡 |
-| XII 吊られた男 | מ Mem | ゲブラー⇄ホド | **1182.png – Merlin and Nimue** | 魅惑・拘束 |
-| XIII 死 | נ Nun | ティファレト⇄ネツァク | **1494.png – How King Marke found Sir Tristram** | 終焉・変容 |
-| XIV 節制（1） | ס Samekh | イェソド⇄ティファレト | **1390.png – How La Beale Isoud nursed Sir Tristram** | 静的均衡（癒し） |
-| XIV 節制（2） | ס Samekh | イェソド⇄ティファレト | **2247.png – Lovers in the forest** | 動的混合（合一） |
-| XV 悪魔 | ע Ayin | ティファレト⇄ホド | **2368.png – How a devil in woman’s likeness tempted Sir Bors** | 隷属・執着 |
-| XVI 塔 | פ Peh | ネツァク⇄ホド | **2369.png – Maidens in the Tower** | 崩壊の前兆 |
-| XVII 星 | צ Tzaddi | ネツァク⇄イェソド | **2070.png – Knight resting by hillside** | 希望・更新 |
-| XVIII 月 | ק Qoph | ネツァク⇄マルクト | **1264.png – How Four Queens found Lancelot sleeping** | 夢・幻惑 |
-| XIX 太陽 | ר Resh | ホド⇄イェソド | **2484.png – How Queen Guenevere rode on Maying** | 祝祭・顕現 |
-| XX 審判 | ש Shin | ホド⇄マルクト | **2574.png – Sword rising from lake, knight salutes** | 召命・再起 |
-| XXI 世界 | ת Tav | イェソド⇄マルクト | **2489.png – City / Kingdom landscape** | 完成・統合 |
+| 0 愚者 | א Aleph | ケテル⇄ホクマー | **Merlin taketh the Child Arthur into his Keeping (1078) ** | 旅立ち・新生 |
+| I 魔術師 | ב Beth | ケテル⇄ビナー | **The Lady of the Lake telleth Arthur of Excalibur (1122)** | 技と意志の始まり |
+| II 女司祭 | ג Gimel | ケテル⇄ティファレト | **Lady reading in orchard (2147)** | 沈黙・奥義 |
+| III 女帝 | ד Daleth | コクマー⇄ビナー | **Woman in orchard with rich mantle (2146)** | 豊饒・育成 |
+| IV 皇帝 | ה Heh | コクマー⇄ティファレト | **How Morgan le Fay gave a Shield to Sir Tristram (1542)** | 権威・武徳 |
+| V 教皇 | ו Vav | ケセド⇄ホクマー | **Monk reading in chapel (2584)** | 伝統・祭儀 |
+| VI 恋人 | ז Zayin | ビナー⇄ティファレト | **How Sir Tristram drank of the Love Drink (1420)** | 結合・選択 |
+| VII 戦車 | ח Cheth | ゲブラー⇄ビナー | **Two knights riding through forest (2071)** | 前進・統御 |
+| VIII 力 | ט Teth | ゲブラー⇄ティファレト | **Sir Launcelot and the Witch Hellawes (1294)** | 誘惑と剛毅 |
+| IX 隠者 | י Yod | ケセド⇄ティファレト | **How La Beale Isoud wrote to Sir Tristram (1472)** | 内観・孤高 |
+| X 運命の輪 | כ Kaph | ケセド⇄ネツァク | **Three women in orchard (2246)** | 巡り・分岐 |
+| XI 正義 | ל Lamed | ゲブラー⇄ティファレト | **Arthur and the Strange Mantle (1210)** | 裁き・均衡 |
+| XII 吊られた男 | מ Mem | ゲブラー⇄ホド | **Merlin and Nimue (1182)** | 魅惑・拘束 |
+| XIII 死 | נ Nun | ティファレト⇄ネツァク | **How King Marke found Sir Tristram (1494)** | 終焉・変容 |
+| XIV 節制（1） | ס Samekh | イェソド⇄ティファレト | **How La Beale Isoud nursed Sir Tristram (1390)** | 静的均衡（癒し） |
+| XIV 節制（2） | ס Samekh | イェソド⇄ティファレト | **Lovers in the forest (2247)** | 動的混合（合一） |
+| XV 悪魔 | ע Ayin | ティファレト⇄ホド | **How a devil in woman’s likeness tempted Sir Bors (2368)** | 隷属・執着 |
+| XVI 塔 | פ Peh | ネツァク⇄ホド | **Maidens in the Tower (2369)** | 崩壊の前兆 |
+| XVII 星 | צ Tzaddi | ネツァク⇄イェソド | **Knight resting by hillside (2070)** | 希望・更新 |
+| XVIII 月 | ק Qoph | ネツァク⇄マルクト | **How Four Queens found Lancelot sleeping (1264)** | 夢・幻惑 |
+| XIX 太陽 | ר Resh | ホド⇄イェソド | **How Queen Guenevere rode on Maying (2484)** | 祝祭・顕現 |
+| XX 審判 | ש Shin | ホド⇄マルクト | **Sword rising from lake, knight salutes (2574)** | 召命・再起 |
+| XXI 世界 | ת Tav | イェソド⇄マルクト | **City / Kingdom landscape (2489)** | 完成・統合 |
 
 ---
 
