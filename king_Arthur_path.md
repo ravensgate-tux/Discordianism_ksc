@@ -434,7 +434,7 @@ City / Kingdom landscape.
 <br>
 
 >画像出展：
->>CC BY-SA 4.0
+>CC BY-SA 4.0
 >File:Scotland-2016-Aerial-Doune Castle (and Castle keeper's cottage).jpg
 >Created: 4 August 2016
 >Uploaded: 10 September 2016
