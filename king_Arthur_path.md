@@ -233,5 +233,21 @@ XI 正義 – Arthur and the Strange Mantle（1210.png）<br>
 
 ---
 
+<div align="center">
+<img src="12-吊られた男-1182.png" width="200"><br>
+Arthur and the Strange Mantle.
+</div>
+<br>
+
+XII 吊られた男 – Merlin and Nimue（1182.png）<br>
+
+古い森の奥、泉のほとりでマーリンは美しいニムエに見入っています。
+その魅惑の眼差しに捕らえられ、彼は身動きできません。
+時間は停止し、あなたもまた空中に逆さに吊られる感覚を覚えます。
+受動と受容、抵抗できぬ力の中で、新しい視点が開けます。
+**吊られた男の径**として、この象徴は逆転と献身の智慧を与えます。
+
+---
+
 © 2025 知られざる呪術師（Le Sorcier Inconnu）  
 本ドキュメントは [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) に基づき公開されています。
