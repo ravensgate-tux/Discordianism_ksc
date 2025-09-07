@@ -39,7 +39,7 @@
 ### 0 愚者 
 
 <div align="center">
-<img src="00-1078.png" width="350"><br>
+<img src="00-1078.png"><br>
 Merlin taketh the Child Arthur into his Keeping.
 </div>
 <br>
@@ -56,7 +56,7 @@ Merlin taketh the Child Arthur into his Keeping.
 ---
 
 <div align="center">
-<img src="01-魔術師-1122.png"><br>
+<img src="01-1122.png"><br>
 The Lady of the Lake telleth Arthur of Excalibur.
 </div>
 <br>
