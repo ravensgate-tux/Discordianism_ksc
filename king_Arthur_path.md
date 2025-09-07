@@ -105,10 +105,24 @@ III 女帝 – Woman in orchard with rich mantle（2146.png）<br>
 
 ---
 
+<div align="center">
+<img src="04-皇帝-1542.png" width="200"><br>
+How Morgan le Fay gave a Shield to Sir Tristram.
+</div>
+<br>
+
+IV 皇帝 – How Morgan le Fay gave a Shield to Sir Tristram（1542.png）<br>
+
+石造りの広間に入り、荘厳な静けさの中に立ちます。
+モルガン・ル・フェイが黄金の盾を掲げ、あなたの前に差し出します。
+その紋章は光を反射し、威厳と秩序の象徴となっています。
+盾を受け取ると、あなたの背筋は伸び、大地と天が一直線につながる感覚を得ます。
+**皇帝の径**として、この象徴は権威と秩序の力をもって、あなたを現実の守護者へと鍛えます。
+
+---
 
 
-
-
+---
 
 © 2025 知られざる呪術師（Le Sorcier Inconnu）  
 本ドキュメントは [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) に基づき公開されています。
