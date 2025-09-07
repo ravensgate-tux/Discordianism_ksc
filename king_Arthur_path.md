@@ -340,6 +340,23 @@ XVII 星 – Knight resting by hillside（2070.png）<br>
 水のせせらぎが聞こえ、魂は静けさのうちに再生します。
 **星の径**として、この象徴は希望と更新を授けます。
 
+---
+
+<div align="center">
+<img src="18-月-1264.png" width="200"><br>
+How Four Queens found Lancelot sleeping.
+</div>
+<br>
+
+XVIII 月 – How Four Queens found Lancelot sleeping（1264.png）<br>
+
+夜の森に足を踏み入れると、霧の中に一人の騎士が眠っています。
+その周囲を四人の女王が取り囲み、囁きながら彼を見下ろしています。
+あなたもまたその夢に入り込み、現実と幻想の境界が曖昧になります。
+月の光が影を長く伸ばし、無意識の海に沈むような感覚。
+**月の径**として、この象徴は幻惑と直感の領域を開きます。
+
+
 
 ---
 
