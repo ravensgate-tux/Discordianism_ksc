@@ -19,7 +19,7 @@
 >また、体験した内容を日誌に記録することが望ましい。言葉にすることで、無意識から受け取ったイメージが意識の財産へと昇華されるからである。
 
 <div align="right">
-<img src="ksc4.jpg" width="200"><br>
+<img src="ksc5.jpg" width="200"><br>
 This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.
 </div>
 
