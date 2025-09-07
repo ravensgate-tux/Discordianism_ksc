@@ -425,6 +425,8 @@ XXI 世界 – City / Kingdom landscape（2489.png）
 
 ---
 
+## （資料2） ドゥーン城　『モンティ・パイソン・アンド・ホーリー・グレイル』（英: Monty Python and the Holy Grail）のロケ地
+
 <div align="center">
 <img src="Doune_Castle.jpg" width="800"><br>
 City / Kingdom landscape.
