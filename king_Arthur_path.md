@@ -265,5 +265,34 @@ XIII 死 – How King Marke found Sir Tristram（1494.png）<br>
 
 ---
 
+<div align="center">
+<img src="14-節制(1)-1390.png" width="200"><br>
+How King Marke found Sir Tristram.
+</div>
+<br>
+
+XIV 節制（1）– How La Beale Isoud nursed Sir Tristram（1390.png）
+薄暗い部屋でトリスタンは傷つき横たわっています。
+イゾルデが静かに近づき、手で水をすくい、その額に触れます。
+その仕草は炎を鎮め、痛みを溶かし、調和をもたらします。
+あなたもまたその癒しを受け、心身の乱れが整えられていくのを感じます。
+**節制の径 – 静**として、この象徴は回復と均衡を授けます。
+
+<div align="center">
+<img src="14-節制(2)-2247.png" width="200"><br>
+How King Marke found Sir Tristram.
+</div>
+<br>
+
+XIV 節制（2）– Lovers in the forest（2247.png）
+森の奥、緑の枝葉が天蓋のように覆っています。
+二人の恋人が出会い、互いに手を取り合う姿が見えます。
+その瞬間、炎と水のように異なるものが混じり合い、新しい調和が生まれます。
+あなたはその場に立ち会い、自身の中の対立が一つに結ばれるのを知ります。
+**節制の径 – 動**として、この象徴は融合と変容を授けます。
+
+
+---
+
 © 2025 知られざる呪術師（Le Sorcier Inconnu）  
 本ドキュメントは [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) に基づき公開されています。
