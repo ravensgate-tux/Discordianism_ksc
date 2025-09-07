@@ -4,6 +4,10 @@
 <img src="表紙.png" width="350"><br>
 </div>
 <br>
+<div align="right">
+<img src="ksc4.jpg" width="200"><br>
+This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.
+</div>
 
 ---
 
