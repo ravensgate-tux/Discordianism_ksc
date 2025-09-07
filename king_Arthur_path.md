@@ -89,5 +89,26 @@ II 女司祭 – Lady reading in orchard (2147.png)<br>
 
 ---
 
+<div align="center">
+<img src="03-女帝-2146.png" width="200"><br>
+Woman in orchard with rich mantle.
+</div>
+<br>
+
+III 女帝 – Woman in orchard with rich mantle（2146.png）<br>
+
+緑豊かな果樹園に入ると、一人の女性が絹のマントを羽織り、木々の間に立っています。
+その足もとには花々が咲き乱れ、果実の香りが漂います。
+彼女はあなたに手を差し伸べ、実をひとつ渡します。
+それを口にすると、甘さと滋養が全身に広がり、生命力が目覚めます。
+**女帝の径**として、この象徴は自然の豊かさ、育み、そして愛をあなたに授けます。
+
+---
+
+
+
+
+
+
 © 2025 知られざる呪術師（Le Sorcier Inconnu）  
 本ドキュメントは [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) に基づき公開されています。
