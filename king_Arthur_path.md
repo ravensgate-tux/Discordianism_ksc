@@ -36,10 +36,11 @@
 
 ### 0 愚者 
 
-<div align="right">
+<div align="center">
 <img src="00-愚者-1078.png" width="200"><br>
 Merlin taketh the Child Arthur into his Keeping
 </div>
+<br>
 
 0 愚者 – Merlin taketh the Child Arthur into his Keeping（1078.png）
 あなたは草原に立ち、遠くに城の影を見ています。
