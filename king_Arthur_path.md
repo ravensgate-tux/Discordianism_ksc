@@ -20,7 +20,7 @@
 
 <div align="right">
 <img src="ksc5.png" width="200"><br>
-This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.
+This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 著者のKSCこと「知られざる呪術師」はドロレス・アッシュクロフト=ノーウィッキから直接第３位界のイニシエーションを受け、ダイアン・フォーチュンから続く法脈を受け取っている。その過程でヘリオスコースを学び、ガレス・ナイトのアーサー王象徴体系を学んだ。</div>
 
 ---
