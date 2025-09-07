@@ -249,5 +249,21 @@ XII 吊られた男 – Merlin and Nimue（1182.png）<br>
 
 ---
 
+<div align="center">
+<img src="13-死-1494.png" width="200"><br>
+How King Marke found Sir Tristram.
+</div>
+<br>
+
+XIII 死 – How King Marke found Sir Tristram（1494.png）<br>
+
+暗い森で王が踏み込み、隠されていた二人を発見します。
+その瞬間、愛の物語は終焉を迎え、避けられぬ別離が訪れます。
+あなたはその光景に立ち会い、心の奥に「終わり」を受け入れる痛みを覚えます。
+だが同時に、新しい始まりの気配が芽吹いているのを感じます。
+**死の径**として、この象徴は破局を通じた変容を示します。
+
+---
+
 © 2025 知られざる呪術師（Le Sorcier Inconnu）  
 本ドキュメントは [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) に基づき公開されています。
