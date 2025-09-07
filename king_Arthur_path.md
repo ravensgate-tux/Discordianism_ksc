@@ -374,5 +374,23 @@ XIX 太陽 – How Queen Guenevere rode on Maying（2484.png）<br>
 
 ---
 
+<div align="center">
+<img src="20-審判-2574.png" width="200"><br>
+Sword rising from lake, knight salutes.
+</div>
+<br>
+
+XX 審判 – Sword rising from lake, knight salutes（2574.png）<br>
+
+湖の水面が揺れ、やがて光に包まれた剣がせり上がります。
+騎士はひざまずき、剣に敬礼します。
+あなたもその場に立ち会い、胸の奥から響く召命の声を聞きます。
+それは過去の眠りを破り、あなたを新しい段階へと呼び覚まします。
+**審判の径**として、この象徴は再生と覚醒の力を授けます。
+
+
+
+---
+
 © 2025 知られざる呪術師（Le Sorcier Inconnu）  
 本ドキュメントは [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) に基づき公開されています。
