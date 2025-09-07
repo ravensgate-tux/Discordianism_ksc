@@ -42,7 +42,8 @@ Merlin taketh the Child Arthur into his Keeping
 </div>
 <br>
 
-0 愚者 – Merlin taketh the Child Arthur into his Keeping（1078.png）
+0 愚者 – Merlin taketh the Child Arthur into his Keeping（1078.png）<br>
+
 あなたは草原に立ち、遠くに城の影を見ています。
 そこへ老賢者マーリンが現れ、幼いアーサーを抱き上げます。
 その光景を見つめるうちに、あなた自身がその子どもと重なります。
