@@ -39,7 +39,7 @@
 ### 0 愚者 
 
 <div align="center">
-<img src="00-愚者-1078.png" width="200"><br>
+<img src="00-愚者-1078.png" width="400"><br>
 Merlin taketh the Child Arthur into his Keeping.
 </div>
 <br>
