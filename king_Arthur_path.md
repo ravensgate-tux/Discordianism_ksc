@@ -38,7 +38,7 @@
 
 <div align="center">
 <img src="00-愚者-1078.png" width="200"><br>
-Merlin taketh the Child Arthur into his Keeping
+Merlin taketh the Child Arthur into his Keeping.
 </div>
 <br>
 
@@ -55,7 +55,7 @@ Merlin taketh the Child Arthur into his Keeping
 
 <div align="center">
 <img src="01-魔術師-1122.png" width="200"><br>
-Merlin taketh the Child Arthur into his Keeping
+The Lady of the Lake telleth Arthur of Excalibur.
 </div>
 <br>
 
@@ -70,9 +70,20 @@ I 魔術師 – The Lady of the Lake telleth Arthur of Excalibur（1122.png）<b
 
 ---
 
+<div align="center">
+<img src="02-女司祭-2147.png" width="200"><br>
+Lady reading in orchard.
+</div>
+<br>
 
+II 女司祭 – Lady reading in orchard (2147.png)<br>
 
-
+果樹園の奥、白い衣の女性が静かに書を読んでいます。
+あなたは近づき、彼女の背後から頁を覗きますが、文字は光に溶け、意味を越えて漂います。
+やがて彼女は顔を上げ、あなたに目を合わせます。
+言葉はなく、ただ沈黙の叡智が胸の奥に降りてきます。
+それは直感、夢、深層に潜む記憶。
+**女司祭の径**として、あなたは知の門の前に立ち、内なる声に耳を澄ませます。
 
 ---
 
