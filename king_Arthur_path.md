@@ -425,6 +425,20 @@ XXI 世界 – City / Kingdom landscape（2489.png）
 
 ---
 
+<div align="center">
+<img src="Doune_Castle.jpg" width="800"><br>
+City / Kingdom landscape.
+</div>
+<br>
+
+>画像出展：
+>>CC BY-SA 4.0
+>File:Scotland-2016-Aerial-Doune Castle (and Castle keeper's cottage).jpg
+>Created: 4 August 2016
+>Uploaded: 10 September 2016
+>Location: 56° 10′ 42.43″ N, 4° 2′ 52.94″ W
+
+
 
 <div align="center">
 <img src="Doune_Castle_plan.png" width="800"><br>
