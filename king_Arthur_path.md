@@ -53,7 +53,22 @@ Merlin taketh the Child Arthur into his Keeping
 
 ---
 
+<div align="center">
+<img src="01-魔術師-1122" width="200"><br>
+Merlin taketh the Child Arthur into his Keeping
+</div>
+<br>
 
+I 魔術師 – The Lady of the Lake telleth Arthur of Excalibur（1122.png）<br>
+
+湖の森に入り、ひときわ澄んだ泉のほとりに立ちます。
+湖の乙女があなたに近づき、銀の剣を示します。
+マーリンが静かに見守る中、その剣の重さと力が掌に伝わります。
+それは単なる武器ではなく、意志を具現化する道具。
+あなたの言葉と行為を通じて、世界を変える「技法」が目覚めていきます。
+**魔術師の径**として、あなたは自らの力を初めて自覚します。
+
+---
 
 
 
