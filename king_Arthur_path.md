@@ -356,7 +356,21 @@ XVIII 月 – How Four Queens found Lancelot sleeping（1264.png）<br>
 月の光が影を長く伸ばし、無意識の海に沈むような感覚。
 **月の径**として、この象徴は幻惑と直感の領域を開きます。
 
+---
 
+<div align="center">
+<img src="19-太陽-2484.png" width="200"><br>
+How Queen Guenevere rode on Maying.
+</div>
+<br>
+
+XIX 太陽 – How Queen Guenevere rode on Maying（2484.png）<br>
+
+春の朝、花に飾られた行列が陽光の下を進みます。
+女王グィネヴィアが白馬に乗り、民は歓声をあげます。
+あなたはその列に加わり、全身を太陽が照らし、生命の喜びが胸に満ちます。
+笑い声と歌声は境界を越え、あらゆるものと一体になる感覚をもたらします。
+**太陽の径**として、この象徴は顕現と歓喜を授けます。
 
 ---
 
