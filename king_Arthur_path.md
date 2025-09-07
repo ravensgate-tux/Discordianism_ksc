@@ -73,7 +73,7 @@ I 魔術師 – The Lady of the Lake telleth Arthur of Excalibur（1122.png）<b
 ---
 
 <div align="center">
-<img src="02-女司祭-2147.png" width="200"><br>
+<img src="02-2147.png" ><br>
 Lady reading in orchard.
 </div>
 <br>
@@ -90,7 +90,7 @@ II 女司祭 – Lady reading in orchard (2147.png)<br>
 ---
 
 <div align="center">
-<img src="03-女帝-2146.png" width="200"><br>
+<img src="03-2146.png"><br>
 Woman in orchard with rich mantle.
 </div>
 <br>
@@ -106,7 +106,7 @@ III 女帝 – Woman in orchard with rich mantle（2146.png）<br>
 ---
 
 <div align="center">
-<img src="04-皇帝-1542.png" width="200"><br>
+<img src="04-1542.png" ><br>
 How Morgan le Fay gave a Shield to Sir Tristram.
 </div>
 <br>
@@ -122,7 +122,7 @@ IV 皇帝 – How Morgan le Fay gave a Shield to Sir Tristram（1542.png）<br>
 ---
 
 <div align="center">
-<img src="05-教皇-2584.png" width="200"><br>
+<img src="05-2584.png" ><br>
 Monk reading in chapel.
 </div>
 <br>
@@ -138,7 +138,7 @@ V 教皇 – Monk reading in chapel（2584.png）<br>
 ---
 
 <div align="center">
-<img src="06-恋人(1)-1420.png" width="200"><br>
+<img src="06-1420.png"><br>
 Monk reading in chapel.
 </div>
 <br>
@@ -155,7 +155,7 @@ VI 恋人 – How Sir Tristram drank of the Love Drink（1420.png）<br>
 ---
 
 <div align="center">
-<img src="07-戦車-2071.png" width="200"><br>
+<img src="07-2071.png"><br>
 Monk reading in chapel.
 </div>
 <br>
@@ -171,7 +171,7 @@ VII 戦車 – Two knights riding through forest（2071.png）<br>
 ---
 
 <div align="center">
-<img src="08-力-1294.png" width="200"><br>
+<img src="08-1294.png"><br>
 Sir Launcelot and the Witch Hellawes.
 </div>
 <br>
@@ -187,7 +187,7 @@ VIII 力 – Sir Launcelot and the Witch Hellawes（1294.png）<br>
 ---
 
 <div align="center">
-<img src="09-隠者-1472.png" width="200"><br>
+<img src="09-1472.png"><br>
 How La Beale Isoud wrote to Sir Tristram.
 </div>
 <br>
@@ -203,7 +203,7 @@ IX 隠者 – How La Beale Isoud wrote to Sir Tristram（1472.png）<br>
 ---
 
 <div align="center">
-<img src="10-運命の輪-2246.png" width="200"><br>
+<img src="10-2246.png"><br>
 Three women in orchard.
 </div>
 <br>
@@ -218,7 +218,7 @@ X 運命の輪 – Three women in orchard（2246.png）
 ---
 
 <div align="center">
-<img src="11-正義-1210.png" width="200"><br>
+<img src="11-1210.png"><br>
 Arthur and the Strange Mantle.
 </div>
 <br>
@@ -234,7 +234,7 @@ XI 正義 – Arthur and the Strange Mantle（1210.png）<br>
 ---
 
 <div align="center">
-<img src="12-吊られた男-1182.png" width="200"><br>
+<img src="12-1182.png"><br>
 Merlin and Nimue.
 </div>
 <br>
@@ -250,7 +250,7 @@ XII 吊られた男 – Merlin and Nimue（1182.png）<br>
 ---
 
 <div align="center">
-<img src="13-死-1494.png" width="200"><br>
+<img src="13-1494.png"><br>
 How King Marke found Sir Tristram.
 </div>
 <br>
@@ -266,7 +266,7 @@ XIII 死 – How King Marke found Sir Tristram（1494.png）<br>
 ---
 
 <div align="center">
-<img src="14-節制(1)-1390.png" width="200"><br>
+<img src="14-1390.png"><br>
 How La Beale Isoud nursed Sir Tristram.
 </div>
 <br>
@@ -279,7 +279,7 @@ XIV 節制（1）– How La Beale Isoud nursed Sir Tristram（1390.png）
 **節制の径 – 静**として、この象徴は回復と均衡を授けます。
 
 <div align="center">
-<img src="14-節制(2)-2247.png" width="200"><br>
+<img src="14-2247.png"><br>
 Lovers in the forest.
 </div>
 <br>
@@ -294,7 +294,7 @@ XIV 節制（2）– Lovers in the forest（2247.png）
 ---
 
 <div align="center">
-<img src="15-悪魔-2368.png" width="200"><br>
+<img src="15-2368.png"><br>
 How a devil in woman’s likeness tempted Sir Bors.
 </div>
 <br>
@@ -311,7 +311,7 @@ XV 悪魔 – How a devil in woman’s likeness tempted Sir Bors（2368.png）<b
 
 
 <div align="center">
-<img src="16-塔-2369.png" width="200"><br>
+<img src="16-2369.png"><br>
 Maidens in the Tower.
 </div>
 <br>
@@ -327,7 +327,7 @@ XVI 塔 – Maidens in the Tower（2369.png）<br>
 ---
 
 <div align="center">
-<img src="17-星-2070.png" width="200"><br>
+<img src="17-2070.png"><br>
 Knight resting by hillside.
 </div>
 <br>
@@ -343,7 +343,7 @@ XVII 星 – Knight resting by hillside（2070.png）<br>
 ---
 
 <div align="center">
-<img src="18-月-1264.png" width="200"><br>
+<img src="18-1264.png"><br>
 How Four Queens found Lancelot sleeping.
 </div>
 <br>
@@ -359,7 +359,7 @@ XVIII 月 – How Four Queens found Lancelot sleeping（1264.png）<br>
 ---
 
 <div align="center">
-<img src="19-太陽-2484.png" width="200"><br>
+<img src="19-2484.png"><br>
 How Queen Guenevere rode on Maying.
 </div>
 <br>
@@ -375,7 +375,7 @@ XIX 太陽 – How Queen Guenevere rode on Maying（2484.png）<br>
 ---
 
 <div align="center">
-<img src="20-審判-2574.png" width="200"><br>
+<img src="20-2574.png"><br>
 Sword rising from lake, knight salutes.
 </div>
 <br>
@@ -391,7 +391,7 @@ XX 審判 – Sword rising from lake, knight salutes（2574.png）<br>
 ---
 
 <div align="center">
-<img src="21-世界-2489.png" width="200"><br>
+<img src="21-2489.png"><br>
 City / Kingdom landscape.
 </div>
 <br>
