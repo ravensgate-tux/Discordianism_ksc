@@ -79,7 +79,7 @@ II 女司祭 – Lady reading in orchard (2147.png)<br>
 ---
 
 <div align="center">
-<img src="03-2146.png" width="350"><br>
+<img src="03-2146x.png" width="350"><br>
 Woman in orchard with rich mantle.
 </div>
 <br>
