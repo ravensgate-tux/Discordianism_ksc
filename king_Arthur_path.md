@@ -399,7 +399,7 @@ XXI 世界 – City / Kingdom landscape（2489.png）
 
 | 大アルカナ | 文字 | パス位置 | ファイルID | 備考 |
 |---|---|---|---|---|
-| 0 愚者 | א Aleph | ケテル⇄ホクマー | **Merlin taketh the Child Arthur into his Keeping (1078) ** | 旅立ち・新生 |
+| 0 愚者 | א Aleph | ケテル⇄ホクマー | **Merlin taketh the Child Arthur into his Keeping (1078)** | 旅立ち・新生 |
 | I 魔術師 | ב Beth | ケテル⇄ビナー | **The Lady of the Lake telleth Arthur of Excalibur (1122)** | 技と意志の始まり |
 | II 女司祭 | ג Gimel | ケテル⇄ティファレト | **Lady reading in orchard (2147)** | 沈黙・奥義 |
 | III 女帝 | ד Daleth | コクマー⇄ビナー | **Woman in orchard with rich mantle (2146)** | 豊饒・育成 |
