@@ -235,7 +235,7 @@ XI 正義 – Arthur and the Strange Mantle（1210.png）<br>
 
 <div align="center">
 <img src="12-吊られた男-1182.png" width="200"><br>
-Arthur and the Strange Mantle.
+Merlin and Nimue.
 </div>
 <br>
 
