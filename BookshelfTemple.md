@@ -1,5 +1,10 @@
 # 本棚神殿のススメ
 
+<div align="right">
+<img src="ksc4.jpg" width="200"><br>
+This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.
+</div>
+
 ## はじめに
 海外の西洋儀式魔術は広い空間や多人数の参加を前提にすることが多いですが、
 日本では住環境の都合から、個人で行う日拝や供物、祈り、儀式においては
@@ -50,3 +55,8 @@
 
 ぜひ、自分自身に合った象徴や道具を組み合わせ、
 自分だけの「本棚神殿」を構築してみてください。
+
+---
+
+© 2025 知られざる呪術師（Le Sorcier Inconnu）  
+本ドキュメントは [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) に基づき公開されています。
