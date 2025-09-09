@@ -32,7 +32,7 @@ KSC氏の最新の論文（英語）「スペアって2人居るんじゃない�
 
 ## 📡 最新のニュース
 
-- [🍏本棚神殿のススメ（2025年9月10日）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/BookshelfTemple.md)
+- [🍏 本棚神殿のススメ（2025年9月10日）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/BookshelfTemple.md)
 
 - [🍏 アーサー王象徴体系でのパスワーキング・ビアズリー挿絵版 (2025年9月7日)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/king_Arthur_path.md)
 
