@@ -1,4 +1,4 @@
-# 本棚神殿のススメ
+# 🍏 本棚神殿のススメ　（The Bookcase Temple Recommendation）
 
 <div align="right">
 <img src="ksc4.jpg" width="200"><br>
