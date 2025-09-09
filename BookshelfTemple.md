@@ -43,7 +43,7 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.
 ---
 
 ## 実践と効果
-本READMEでは、聖別や詳細な儀式手順には触れません。  
+本資料では、本棚の聖別や詳細な儀式手順には触れません。  
 しかし、日々のお香・祈り・感謝を捧げる実践を続けることで、
 **空間そのものが力を宿す**ようになります。
 
