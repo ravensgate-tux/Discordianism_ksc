@@ -24,8 +24,7 @@ KSC氏の最新の論文（英語）「スペアって2人居るんじゃない�
 <img src="holygrail.png" width="400">
 <br>
 <br>
----
-
+  
 <br>
 
 <div align="center">
