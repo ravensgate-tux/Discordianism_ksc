@@ -184,7 +184,7 @@ Hail Eris! All Hail Discordia!
 ---
 
 <div align="center">
-<img src="kimono-eris.png" width="200">
+<img src="honey-eris.png" width="200">
 </div>
 <br>
 
