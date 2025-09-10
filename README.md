@@ -18,6 +18,11 @@ KSC氏の最新の論文（英語）「スペアって2人居るんじゃない�
 <br>
 
 ---
+<div align="center">
+ディスコーディアン🍏にとっての聖杯🏆それは「芸術」である🧙‍♂️<br>
+<img src="holygrail.png" width="600">
+<br>
+---
 
 <br>
 
