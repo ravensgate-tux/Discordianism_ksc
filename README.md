@@ -33,6 +33,10 @@ KSC氏の最新の論文（英語）「スペアって2人居るんじゃない�
 <img src="holygrail.png" width="400">
 </div>
 
+<div align="center">
+そしてアーサー王が眠るアヴァロンの島は、ケルト語で「黄金の林檎の島」と呼ばれる（出典：ジョセフ・キャンベル『聖杯の神話』）<br>
+<img src="[holygrail.png](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B4%E3%82%A1%E3%83%AD%E3%83%B3#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Burne-Jones_Last_Sleep_of_Arthur_in_Avalon_v2.jpg)" width="400">
+</div>
   
 ## 📡 最新のニュース
 
