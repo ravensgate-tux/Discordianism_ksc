@@ -296,14 +296,16 @@ IN THE DEVIL'S BACKBONE*
 </div>
 <br>
 
-**映画**: *Cronos*  
-**キャラクター／場面**: 隠遁する老人  
+**映画**: *Pan's Labyrinth*   
+**キャラクター**: Pale Man（ペイルマン）  
 
 **テキスト**:  
-*"In solitude, we find the answers that the crowd obscures."*  
+*"The most intelligent of creatures often make the
+fewest sounds."*  
+— *The Shape of Water*  
 
 **日本語訳**:  
-「孤独の中にこそ、大衆が覆い隠す答えがある。」  
+「最も賢い生き物は、しばしば最も少ない音しか立てないものだ（The Shape of Water）」  
 
 **指示**:  
 このタペストリーの前で、この言葉を禅の公案のように黙想せよ。理解できたと感じたら、あるいはタペストリーがあなたを受け入れ「通過して良い」と告げたと感じたら前に進む。
