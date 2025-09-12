@@ -106,7 +106,7 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 ## 星 XVII
 
 <div align="center">
-<img src="deltoro_170.jpg" width="200"><br>
+<img src="deltoro_17.jpg" width="200"><br>
 </div>
 <br>
 
