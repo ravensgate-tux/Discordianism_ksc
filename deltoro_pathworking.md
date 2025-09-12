@@ -65,14 +65,14 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 <br>
 
 **映画**: *Pacific Rim*  
-**キャラクター／場面**: Jaeger が光の中に立つ場面  
+**キャラクター**: イェーガー
 
 **テキスト**:  
-*"Night is not an absence of light, but in fact, it is daylight that is a brief respite from the all-encompassing darkness…"*  
-— *Pacific Rim*  
+*"Night is not an absence of light, but in fact, it is daytime that is a brief respite from the looming darkness…"*  
+— *The Strain*  
 
 **日本語訳**:  
-「夜は光の不在ではない。むしろ、昼こそが、すべてを覆う闇からのつかの間の休息なのだ」  
+「夜は光の不在ではない。むしろ、昼こそが、すべてを覆う闇からのつかの間の休息なのだ（The Strain）」  
 
 **指示**:  
 このタペストリーの前で、この言葉を禅の公案のように黙想せよ。理解できたと感じたら、あるいはタペストリーがあなたを受け入れ「通過して良い」と告げたと感じたら前に進む。
