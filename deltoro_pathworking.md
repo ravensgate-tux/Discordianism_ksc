@@ -132,13 +132,14 @@ I'd look up at the stars."*
 <br>
 
 **映画**: *Pacific Rim*   
-**キャラクター／場面**: 崩れ落ちる屋敷  
+**キャラクター**: 塔  
 
 **テキスト**:  
-*"There are thing's you can't fight-acts of God. You see a　hurricane coming'; you g'ct out of the way."*  
+*"There are thing's you can't fight-acts of God. You see a　hurricane coming'; you get out of the way."*  
+— *Pacific Rim*  
 
 **日本語訳**:  
-「抗えないものもある──天災だ。ハリケーンが来ると分かれば、道を空けるしかない」  
+「抗えないものもある──天災だ。ハリケーンが来ると分かれば、道を空けるしかない（Pacific Rim）」  
 
 **指示**:  
 このタペストリーの前で、この言葉を禅の公案のように黙想せよ。理解できたと感じたら、あるいはタペストリーがあなたを受け入れ「通過して良い」と告げたと感じたら前に進む。
