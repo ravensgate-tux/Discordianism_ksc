@@ -133,14 +133,14 @@ I'd look up at the stars."*
 </div>
 <br>
 
-**映画**: *Crimson Peak*  
+**映画**: *Pacific Rim*   
 **キャラクター／場面**: 崩れ落ちる屋敷  
 
 **テキスト**:  
-*"The house breathes, it bleeds, and it remembers."*  
+*"There are thing's you can't fight-acts of God. You see a　hurricane coming'; you g'ct out of the way."*  
 
 **日本語訳**:  
-「この屋敷は息をし、血を流し、そして覚えている。」  
+「抗えないものもある──天災だ。ハリケーンが来ると分かれば、道を空けるしかない」  
 
 **指示**:  
 このタペストリーの前で、この言葉を禅の公案のように黙想せよ。  
