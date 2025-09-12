@@ -87,7 +87,7 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 <br>
 
 **映画**: *Pan’s Labyrinth*  
-**キャラクター／場面**: 地下迷宮に差し込む月光  
+**キャラクター**: ヒキガエル  
 
 **テキスト**:  
 *"The moon wiJI be full in three days. Your spirit shall forever remain among' the humans. You shall die like them, you shall die like them, and all memory of you shall fade in time."*  
@@ -109,14 +109,15 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 <br>
 
 **映画**: *Pan’s Labyrinth*   
-**キャラクター／場面**: オフェリア 
+**キャラクター**: オフェリア 
 
 **テキスト**:  
 *"When I was a kid, whenever ['d feel small or lonely,
 I'd look up at the stars."*  
+— *Pacific Rim*  
 
 **日本語訳**:  
-「子どもの頃、ちっぽけに感じたり孤独を覚えたりすると、いつも星空を見上げていた」  
+「子どもの頃、ちっぽけに感じたり孤独を覚えたりすると、いつも星空を見上げていた（Pacific Rim）」  
 
 **指示**:  
 このタペストリーの前で、この言葉を禅の公案のように黙想せよ。理解できたと感じたら、あるいはタペストリーがあなたを受け入れ「通過して良い」と告げたと感じたら前に進む。
