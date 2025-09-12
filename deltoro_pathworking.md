@@ -21,14 +21,14 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 <br>
 
 **映画**: *The Mimic*  
-**キャラクター／場面**: Chrysalis が開き、蝶が飛び立つ瞬間  
+**キャラクター**: Judas Breed（ユダ種／人間に擬態する巨大昆虫）
 
 **テキスト**:  
 *"The butterfly does not look back upon its caterpillar self, either fondly or wishfully, it simply flies on."*  
-— *The Mimic*  
+— *The Night Eternal*  
 
 **日本語訳**:  
-「蝶は毛虫であった自分を、懐かしむことも惜しむこともなく、ただ飛び去る」  
+「蝶は毛虫であった自分を、懐かしむことも惜しむこともなく、ただ飛び去る（The Night Eternal）」  
 
 **指示**:  
 このタペストリーの前で、この言葉を禅の公案のように黙想せよ。理解できたと感じたら、あるいはタペストリーがあなたを受け入れ「通過して良い」と告げたと感じたら前に進む。
