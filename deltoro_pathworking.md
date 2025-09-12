@@ -179,10 +179,14 @@ I'd look up at the stars."*
 **キャラクター**: イーディス・カッシング 
 
 **テキスト**:  
-*"Time is but a river, flowing from our past into our future."*  
+*"...down here, hate has no purpose. Down here, you
+embrace your foes until they become your friends. Down
+here, you seek not to be one being', but all being's, and all at
+once[...] She is full. She is perfect."*  
+— *The Shape of Water (Novelization)*  
 
 **日本語訳**:  
-「時とはただの川であり、過去から未来へと流れていく。」  
+「……ここでは、憎しみには意味がない。ここでは、敵を抱きしめ、やがて友へと変えていく。ここでは、一つの存在であろうとするのではなく、すべての存在であり、すべてを同時に生きようとする……彼女は満ちている。彼女は完璧なのだ（The Shape of Water）」  
 
 **指示**:  
 このタペストリーの前で、この言葉を禅の公案のように黙想せよ。理解できたと感じたら、あるいはタペストリーがあなたを受け入れ「通過して良い」と告げたと感じたら前に進む。
