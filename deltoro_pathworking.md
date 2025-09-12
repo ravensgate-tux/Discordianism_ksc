@@ -176,7 +176,7 @@ I'd look up at the stars."*
 <br>
 
 **映画**: *Crimson Peak*  
-**キャラクター／場面**: 水槽の中の邂逅  
+**キャラクター**: イーディス・カッシング 
 
 **テキスト**:  
 *"Time is but a river, flowing from our past into our future."*  
