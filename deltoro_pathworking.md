@@ -175,7 +175,7 @@ I'd look up at the stars."*
 </div>
 <br>
 
-**映画**: *The Shape of Water*  
+**映画**: *Crimson Peak*  
 **キャラクター／場面**: 水槽の中の邂逅  
 
 **テキスト**:  
