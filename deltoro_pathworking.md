@@ -391,14 +391,16 @@ of the past, but the future?"*
 </div>
 <br>
 
-**映画**: *The Devil’s Backbone*  
-**キャラクター／場面**: 学校での教え  
+**映画**: *The Strain*  
+**キャラクター**: マスター（The Master）  
 
 **テキスト**:  
-*"Tradition binds us, but it also teaches us."*  
+*"It is not faith that distinguishes our real leaders. It is doubt.
+Their ability to overcome it."*  
+— *The Night Eternal*  
 
 **日本語訳**:  
-「伝統は私たちを縛る。しかし同時に教えてくれる。」  
+「真の指導者を決定づけるのは信仰ではなく疑念、そしてそれを乗り越える力だ（The Night Eternal）」  
 
 **指示**:  
 このタペストリーの前で、この言葉を禅の公案のように黙想せよ。理解できたと感じたら、あるいはタペストリーがあなたを受け入れ「通過して良い」と告げたと感じたら前に進む。
