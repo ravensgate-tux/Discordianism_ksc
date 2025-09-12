@@ -91,9 +91,10 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 
 **テキスト**:  
 *"The moon wiJI be full in three days. Your spirit shall forever remain among' the humans. You shall die like them, you shall die like them, and all memory of you shall fade in time."*  
+— *Pan's Labyrinth*  
 
 **日本語訳**:  
-「月は三日後に満ちる。おまえの魂は永遠に人間たちの間に留まるのだ。おまえは彼らのように死に、彼らのように死に、やがておまえの記憶も時とともに消え去るだろう」  
+「月は三日後に満ちる。おまえの魂は永遠に人間たちの間に留まるのだ。おまえは彼らのように死に、彼らのように死に、やがておまえの記憶も時とともに消え去るだろう（Pan's Labyrinth）」  
 
 **指示**:  
 このタペストリーの前で、この言葉を禅の公案のように黙想せよ。理解できたと感じたら、あるいはタペストリーがあなたを受け入れ「通過して良い」と告げたと感じたら前に進む。
