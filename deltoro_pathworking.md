@@ -69,7 +69,7 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 **キャラクター／場面**: Jaeger が光の中に立つ場面  
 
 **テキスト**:  
-*"Night is not an absence of light, but in fact, it is daylight that is a brief respite from the all-encompassing darkness…" *  
+*"Night is not an absence of light, but in fact, it is daylight that is a brief respite from the all-encompassing darkness…"*  
 — *Pacific Rim*  
 
 **日本語訳**:  
