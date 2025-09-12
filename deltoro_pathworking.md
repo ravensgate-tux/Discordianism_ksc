@@ -160,10 +160,10 @@ I'd look up at the stars."*
 **キャラクター／場面**: 地獄の召喚シーン  
 
 **テキスト**:  
-*"What makes a man a man? It’s the choices he makes."*  
+*"To learn what we fear is to learn who we are."*  
 
 **日本語訳**:  
-「人を人たらしめるものは何か？それは彼が下す選択だ。」  
+「私たちが恐れるものを知ることは、私たちが何者であるかを学ぶことである」  
 
 **指示**:  
 このタペストリーの前で、この言葉を禅の公案のように黙想せよ。  
