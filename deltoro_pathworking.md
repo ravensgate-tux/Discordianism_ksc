@@ -366,13 +366,18 @@ you build one."*
 <br>
 
 **映画**: *The Shape of Water*  
-**キャラクター／場面**: 人間と異形の愛  
+**キャラクター**: イライザ（Elisa Esposito） 両生類の男（The Amphibian Man）
 
 **テキスト**:  
-*"We are only as human as our capacity to love."*  
+*"But I can't be alone, can I? Of course not, I'm not that
+special. [...] What if you and I arc not the last of our
+kinds, but one of the first? The first of better creatures in
+a better world? We can hope, can't we? That we're not
+of the past, but the future?"*  
+— *The Shape of Water (Novelization)*  
 
 **日本語訳**:  
-「愛する能力こそが、人間であることの尺度だ。」  
+「でも、私はひとりではいられない、そうだろう？もちろんだ、私はそんなに特別な存在じゃない。[…] もし君と私が、私たちの種の“最後”じゃなく、“最初”だとしたらどうだろう？より良い世界に生きる、より良い生き物たちの最初の一員だとしたら？願えるじゃないか、そうだろう？私たちは過去ではなく、未来の存在なのだと（The Shape of Water）」  
 
 **指示**:  
 このタペストリーの前で、この言葉を禅の公案のように黙想せよ。理解できたと感じたら、あるいはタペストリーがあなたを受け入れ「通過して良い」と告げたと感じたら前に進む。
