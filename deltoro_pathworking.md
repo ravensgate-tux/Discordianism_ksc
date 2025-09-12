@@ -47,10 +47,10 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 
 **テキスト**:  
 *"This is what the beginning of the end of the world will look like."*  
-— *The Devil’s Backbone*  
+— *The Strain*  
 
 **日本語訳**:  
-「これが世界の終わりの始まりの姿だ」  
+「これが世界の終わりの始まりの姿だ（The Strain）」  
 
 **指示**:  
 このタペストリーの前で、この言葉を禅の公案のように黙想せよ。理解できたと感じたら、あるいはタペストリーがあなたを受け入れ「通過して良い」と告げたと感じたら前に進む。
