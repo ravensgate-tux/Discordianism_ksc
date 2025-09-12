@@ -200,14 +200,17 @@ once[...] She is full. She is perfect."*
 </div>
 <br>
 
-**映画**: *The Strain*  
-**キャラクター／場面**: 吸血鬼の変貌  
-
+**映画**: *Hellboy II: The Golden Army*  
+**キャラクター**: 死の天使
 **テキスト**:  
-*"We all die. The goal isn’t to live forever, but to create something that will."*  
+*"She forgot who she was and where she came from.
+Her body suffered cold, sickness, and pain. Eventually,
+she died."*  
+— *Pan's Labyrinth*  
 
 **日本語訳**:  
-「私たちは皆死ぬ。目的は永遠に生きることではなく、永遠に残るものを創ることだ。」  
+「彼女は自分が誰で、どこから来たのかを忘れてしまった。
+彼女の身体は寒さと病と痛みに苦しみ、やがて彼女は死んだ（Pan's Labyrinth）」  
 
 **指示**:  
 このタペストリーの前で、この言葉を禅の公案のように黙想せよ。理解できたと感じたら、あるいはタペストリーがあなたを受け入れ「通過して良い」と告げたと感じたら前に進む。
