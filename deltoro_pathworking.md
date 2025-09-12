@@ -352,3 +352,47 @@
 **指示**:  
 このタペストリーの前で、この言葉を禅の公案のように黙想せよ。  
 理解できたと感じたら、タペストリーを通過し、次へ進め。  
+
+
+## （資料1） ドゥーン城　『モンティ・パイソン・アンド・ホーリー・グレイル』（英: Monty Python and the Holy Grail）のロケ地
+
+<div align="center">
+<img src="Doune_Castle.jpg" width="800"><br>
+City / Kingdom landscape.
+</div>
+<br>
+
+>画像出展：
+>CC BY-SA 4.0
+>File:Scotland-2016-Aerial-Doune Castle (and Castle keeper's cottage).jpg
+>Created: 4 August 2016
+>Uploaded: 10 September 2016
+>Location: 56° 10′ 42.43″ N, 4° 2′ 52.94″ W
+
+
+
+<div align="center">
+<img src="Doune_Castle_plan.png" width="800"><br>
+City / Kingdom landscape.
+</div>
+<br>
+
+>画像出展：
+>English: Ground and first floor plans of Doune Castle, near Stirling, Scotland.
+>日付	2008年10月16日
+>原典	Own work by uploader, based on plan in Simpson, W.D. "Doune Castle" Proceedings of the Society of Antiquaries of Scotland 72: 73-83
+>作者	Jonathan Oldenbuck
+
+---
+
+こちらもご覧ください➡️[ディスコーディアン魔術アーカイブ](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/README.md)
+
+---
+© 2025 知られざる呪術師（Le Sorcier Inconnu）  
+本ドキュメントは [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) に基づき公開されています。
+
+
+
+
+
+
