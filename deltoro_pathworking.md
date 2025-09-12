@@ -501,6 +501,7 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 このタペストリーの前で、この言葉を禅の公案のように黙想せよ。  
 理解できたと感じたら、タペストリーを通過し、次へ進め。  
 
+---
 
 ## （資料1） ドゥーン城　『モンティ・パイソン・アンド・ホーリー・グレイル』（英: Monty Python and the Holy Grail）のロケ地
 
