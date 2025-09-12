@@ -458,14 +458,15 @@ Their ability to overcome it."*
 </div>
 <br>
 
-**映画**: *Hellboy II*  
-**キャラクター／場面**: 予言を語る者  
+**映画**: *Hellboy II: The Golden Army*  
+**キャラクター**: ヌアラ（Princess Nuala） — エルフの王女、プリンス・ヌアダの双子の妹
 
 **テキスト**:  
-*"The truth lies between the seen and the unseen."*  
+*"Everything in our universe is ciphered, and to know the cipher is to know the thing — and to know the thing is to command it."*  
+— *The Fall*  
 
 **日本語訳**:  
-「真実は、見えるものと見えないものの間にある。」  
+「この宇宙に存在するすべては暗号化されている。その暗号を知ることは、そのものを知ること──そして、そのものを知ることは、それを支配することだ（The Fall）」  
 
 **指示**:  
 このタペストリーの前で、この言葉を禅の公案のように黙想せよ。理解できたと感じたら、あるいはタペストリーがあなたを受け入れ「通過して良い」と告げたと感じたら前に進む。
