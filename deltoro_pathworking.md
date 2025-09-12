@@ -27,7 +27,7 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 — *The Mimic*  
 
 **日本語訳**:  
-「蝶は毛虫であった自分を、懐かしむことも惜しむこともなく、ただ飛び去る。」  
+「蝶は毛虫であった自分を、懐かしむことも惜しむこともなく、ただ飛び去る」  
 
 **指示**:  
 このタペストリーの前で、この言葉を禅の公案のように黙想せよ。  
@@ -50,7 +50,7 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 — *The Devil’s Backbone*  
 
 **日本語訳**:  
-「これが世界の終わりの始まりの姿だ。」  
+「これが世界の終わりの始まりの姿だ」  
 
 **指示**:  
 このタペストリーの前で、この言葉を禅の公案のように黙想せよ。  
@@ -73,7 +73,7 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 — *Pacific Rim*  
 
 **日本語訳**:  
-「夜は光の不在ではない。むしろ、昼こそが、すべてを覆う闇からのつかの間の休息なのだ。」  
+「夜は光の不在ではない。むしろ、昼こそが、すべてを覆う闇からのつかの間の休息なのだ」  
 
 **指示**:  
 このタペストリーの前で、この言葉を禅の公案のように黙想せよ。  
@@ -92,10 +92,10 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 **キャラクター／場面**: 地下迷宮に差し込む月光  
 
 **テキスト**:  
-*"The world is a cruel place, and it will not be kind to you."*  
+*"The moon wiJI be full in three days. Your spirit shall forever remain among' the humans. You shall die like them, you shall die like them, and all memory of you shall fade in time."*  
 
 **日本語訳**:  
-「世界は残酷であり、あなたに優しくはしてくれない。」  
+「月は三日後に満ちる。おまえの魂は永遠に人間たちの間に留まるのだ。おまえは彼らのように死に、彼らのように死に、やがておまえの記憶も時とともに消え去るだろう」  
 
 **指示**:  
 このタペストリーの前で、この言葉を禅の公案のように黙想せよ。  
