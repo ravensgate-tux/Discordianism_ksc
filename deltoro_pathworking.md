@@ -297,7 +297,7 @@ IN THE DEVIL'S BACKBONE*
 <br>
 
 **映画**: *Pan's Labyrinth*   
-**キャラクター**: Pale Man（ペイルマン）  
+**キャラクター**: ペイルマン（Pale Man）  
 
 **テキスト**:  
 *"The most intelligent of creatures often make the
@@ -342,14 +342,16 @@ anonymous: the scourge and the blessing."*
 </div>
 <br>
 
-**映画**: *Pacific Rim*  
-**キャラクター／場面**: Jaeger の出撃シーン  
+**映画**: *Hellboy II: The Golden Army*  
+**キャラクター**: トロール（Troll） 
 
 **テキスト**:  
-*"To pilot together is to surrender the self, and become more."*  
+*"A key piece of advice [...]. If a road is not presented,
+you build one."*  
+— *Guillermo Del Toro*  
 
 **日本語訳**:  
-「共に操縦するとは、自我を明け渡し、より大きな存在となることだ。」  
+「大切な助言──道が示されないなら、自ら道を切り拓け（Guillermo Del Toro）」  
 
 **指示**:  
 このタペストリーの前で、この言葉を禅の公案のように黙想せよ。理解できたと感じたら、あるいはタペストリーがあなたを受け入れ「通過して良い」と告げたと感じたら前に進む。
