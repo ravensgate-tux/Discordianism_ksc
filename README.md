@@ -40,7 +40,7 @@ KSC氏の最新の論文（英語）「スペアって2人居るんじゃない�
   
 ## 📡 最新のニュース
 
-- [🍏 ギレルモ・デル・トロ監督作品のパスワーキング (2025年9月11日)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/deltoro_pathworking.md)
+- [🍏 ギレルモ・デル・トロ監督映画作品でのパスワーキング (2025年9月11日)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/deltoro_pathworking.md)
 
 - 🍏 スペア漫画：SPARE AND CATS 配信開始（2025年9月1日）
   
