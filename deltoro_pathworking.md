@@ -414,14 +414,15 @@ Their ability to overcome it."*
 </div>
 <br>
 
-**映画**: *Crimson Peak*  
-**キャラクター／場面**: 屋敷の支配者  
+**映画**: *Hellboy II: The Golden Army*  
+**キャラクター**: バロル（Balor） — エルフの王  
 
 **テキスト**:  
-*"Power is a house built on fragile ground."*  
+*"But Captain, to obey, just like that, for obedience's sake ... without questioning ... that's something only people like you do."*  
+— *Pan's Labyrinth*  
 
 **日本語訳**:  
-「権力とは脆い地盤の上に建てられた家である。」  
+「だが大尉、ただ従うために従うなんて……疑いもせずに……そんなことをするのは、あなただけだ（Pan's Labyrinth）」  
 
 **指示**:  
 このタペストリーの前で、この言葉を禅の公案のように黙想せよ。理解できたと感じたら、あるいはタペストリーがあなたを受け入れ「通過して良い」と告げたと感じたら前に進む。
