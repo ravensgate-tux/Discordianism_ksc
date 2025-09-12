@@ -480,14 +480,15 @@ Their ability to overcome it."*
 </div>
 <br>
 
-**映画**: *Cronos*  
-**キャラクター／場面**: 装置を操る錬金術師  
+**映画**: *なし（デル・トロ本人がモデル）*  
+**キャラクター**: ギレルモ・デル・トロ監督 
 
 **テキスト**:  
-*"To command is to understand the hidden laws."*  
+*"Hidden in every limitation lies an opportunity. And for every obstacle you face, there is a simple and perfect solution, creatively. And your work is to find it."*  
+— *Guillermo del Toro*  
 
 **日本語訳**:  
-「支配するとは、隠された法則を理解することだ。」  
+「すべての制限の中には可能性が隠されている。直面するあらゆる障害には、創造的に見出せる単純で完璧な解決策がある。君の仕事はそれを見つけることだ（Guillermo del Toro）」  
 
 **指示**:  
 このタペストリーの前で、この言葉を禅の公案のように黙想せよ。理解できたと感じたら、あるいはタペストリーがあなたを受け入れ「通過して良い」と告げたと感じたら前に進む。
