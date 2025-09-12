@@ -110,14 +110,15 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 </div>
 <br>
 
-**映画**: *Hellboy II: The Golden Army*  
-**キャラクター／場面**: エルフが夜空を見上げる場面  
+**映画**: *Pan’s Labyrinth*   
+**キャラクター／場面**: オフェリア 
 
 **テキスト**:  
-*"In the absence of light, we are all the same."*  
+*"When I was a kid, whenever ['d feel small or lonely,
+I'd look up at the stars."*  
 
 **日本語訳**:  
-「光のないところでは、私たちは皆同じだ。」  
+「子どもの頃、ちっぽけに感じたり孤独を覚えたりすると、いつも星空を見上げていた」  
 
 **指示**:  
 このタペストリーの前で、この言葉を禅の公案のように黙想せよ。  
