@@ -43,7 +43,7 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 <br>
 
 **映画**: *The Devil’s Backbone*  
-**キャラクター／場面**: 幽霊が未来を告げる場面  
+**キャラクター**: 巨大な錆びた爆弾  
 
 **テキスト**:  
 *"This is what the beginning of the end of the world will look like."*  
