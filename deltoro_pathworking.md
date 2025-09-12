@@ -270,14 +270,19 @@ resisting it."*
 </div>
 <br>
 
-**映画**: *Pacific Rim*  
-**キャラクター／場面**: 運命を賭けた出撃  
+**映画**: *Pan’s Labyrinth*     
+**キャラクター**: 運命の輪  
 
 **テキスト**:  
-*"The future is not written, but the wheel always turns."*  
+*"Stay by my side as I fade / so you can point to the end of
+my struggle / and the twilight of eternal days / at the low,
+dark edge of life."*  
+— *TTRANSLATION OF A FRAGMENT OF "IN MEMORIAM
+A.H.H." BY ALFRED, LORD TENNYSON,
+IN THE DEVIL'S BACKBONE*  
 
 **日本語訳**:  
-「未来はまだ書かれていない。だが輪は常に回り続ける。」  
+「私が消えゆくとき そばにいてほしい / そうすれば あなたは私の闘いの終わりを指し示し / 永遠の日々の黄昏を / 人生の低く暗い縁で見届けられるのだから（The Devils Backbone）」  
 
 **指示**:  
 このタペストリーの前で、この言葉を禅の公案のように黙想せよ。理解できたと感じたら、あるいはタペストリーがあなたを受け入れ「通過して良い」と告げたと感じたら前に進む。
