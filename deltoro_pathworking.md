@@ -19,7 +19,7 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 ## 世界 XXI
 
 <div align="center">
-<img src="deltoro_21.jpg" width="150"><br>
+<img src="deltoro_21.jpg" width="200"><br>
 </div>
 <br>
 
