@@ -1,7 +1,7 @@
 # Guillermo del Toro Tarot — Reverse Pathworking Script
 
 >本書の使い方 ― パスワーキングのやり方
-
+>
 >パスワーキングは視覚化の訓練であり、同時に意識の変容を目的とする。
 >重要なのは「象徴を正確に理解すること」ではなく、「象徴を通じて自己の無意識と交流すること」である。
 >図像はそのための入口であり、道標である。実際の体験内容は人ごとに異なってよく、むしろ個別の体験を尊重することが肝要である。
@@ -40,6 +40,12 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 ---
 
 ## 審判 XX
+
+<div align="center">
+<img src="deltoro_20.jpg" width="200"><br>
+</div>
+<br>
+
 **映画**: *The Devil’s Backbone*  
 **キャラクター／場面**: 幽霊が未来を告げる場面  
 
@@ -57,6 +63,12 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 ---
 
 ## 太陽 XIX
+
+<div align="center">
+<img src="deltoro_19.jpg" width="200"><br>
+</div>
+<br>
+
 **映画**: *Pacific Rim*  
 **キャラクター／場面**: Jaeger が光の中に立つ場面  
 
@@ -74,6 +86,12 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 ---
 
 ## 月 XVIII
+
+<div align="center">
+<img src="deltoro_18.jpg" width="200"><br>
+</div>
+<br>
+
 **映画**: *Pan’s Labyrinth*  
 **キャラクター／場面**: 地下迷宮に差し込む月光  
 
@@ -90,6 +108,12 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 ---
 
 ## 星 XVII
+
+<div align="center">
+<img src="deltoro_170.jpg" width="200"><br>
+</div>
+<br>
+
 **映画**: *Hellboy II: The Golden Army*  
 **キャラクター／場面**: エルフが夜空を見上げる場面  
 
@@ -106,6 +130,12 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 ---
 
 ## 塔 XVI
+
+<div align="center">
+<img src="deltoro_16.jpg" width="200"><br>
+</div>
+<br>
+
 **映画**: *Crimson Peak*  
 **キャラクター／場面**: 崩れ落ちる屋敷  
 
@@ -122,6 +152,12 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 ---
 
 ## 悪魔 XV
+
+<div align="center">
+<img src="deltoro_15.jpg" width="200"><br>
+</div>
+<br>
+
 **映画**: *Hellboy*  
 **キャラクター／場面**: 地獄の召喚シーン  
 
@@ -138,6 +174,12 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 ---
 
 ## 節制 XIV
+
+<div align="center">
+<img src="deltoro_14.jpg" width="200"><br>
+</div>
+<br>
+
 **映画**: *The Shape of Water*  
 **キャラクター／場面**: 水槽の中の邂逅  
 
@@ -154,6 +196,12 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 ---
 
 ## 死 XIII
+
+<div align="center">
+<img src="deltoro_130.jpg" width="200"><br>
+</div>
+<br>
+
 **映画**: *The Strain*  
 **キャラクター／場面**: 吸血鬼の変貌  
 
@@ -170,6 +218,12 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 ---
 
 ## 吊られた男 XII
+
+<div align="center">
+<img src="deltoro_12.jpg" width="200"><br>
+</div>
+<br>
+
 **映画**: *Cronos*  
 **キャラクター／場面**: 永遠の命を求めて吊られる  
 
@@ -186,6 +240,12 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 ---
 
 ## 正義 XI
+
+<div align="center">
+<img src="deltoro_11.jpg" width="200"><br>
+</div>
+<br>
+
 **映画**: *Blade II*  
 **キャラクター／場面**: 吸血鬼を裁く瞬間  
 
@@ -202,6 +262,12 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 ---
 
 ## 運命の輪 X
+
+<div align="center">
+<img src="deltoro_10.jpg" width="200"><br>
+</div>
+<br>
+
 **映画**: *Pacific Rim*  
 **キャラクター／場面**: 運命を賭けた出撃  
 
@@ -218,6 +284,12 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 ---
 
 ## 隠者 IX
+
+<div align="center">
+<img src="deltoro_09.jpg" width="200"><br>
+</div>
+<br>
+
 **映画**: *Cronos*  
 **キャラクター／場面**: 隠遁する老人  
 
@@ -234,6 +306,12 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 ---
 
 ## 力 VIII
+
+<div align="center">
+<img src="deltoro_08.jpg" width="200"><br>
+</div>
+<br>
+
 **映画**: *Pan’s Labyrinth*  
 **キャラクター／場面**: 少女が怪物に立ち向かう  
 
@@ -250,6 +328,12 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 ---
 
 ## 戦車 VII
+
+<div align="center">
+<img src="deltoro_07.jpg" width="200"><br>
+</div>
+<br>
+
 **映画**: *Pacific Rim*  
 **キャラクター／場面**: Jaeger の出撃シーン  
 
@@ -266,6 +350,12 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 ---
 
 ## 恋人 VI
+
+<div align="center">
+<img src="deltoro_06.jpg" width="200"><br>
+</div>
+<br>
+
 **映画**: *The Shape of Water*  
 **キャラクター／場面**: 人間と異形の愛  
 
@@ -282,6 +372,12 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 ---
 
 ## 法王 V
+
+<div align="center">
+<img src="deltoro_05.jpg" width="200"><br>
+</div>
+<br>
+
 **映画**: *The Devil’s Backbone*  
 **キャラクター／場面**: 学校での教え  
 
@@ -298,6 +394,12 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 ---
 
 ## 皇帝 IV
+
+<div align="center">
+<img src="deltoro_04.jpg" width="200"><br>
+</div>
+<br>
+
 **映画**: *Crimson Peak*  
 **キャラクター／場面**: 屋敷の支配者  
 
@@ -314,6 +416,12 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 ---
 
 ## 女帝 III
+
+<div align="center">
+<img src="deltoro_03.jpg" width="200"><br>
+</div>
+<br>
+
 **映画**: *Pan’s Labyrinth*  
 **キャラクター／場面**: 母と大地の象徴  
 
@@ -330,6 +438,12 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 ---
 
 ## 女教皇 II
+
+<div align="center">
+<img src="deltoro_02.jpg" width="200"><br>
+</div>
+<br>
+
 **映画**: *Hellboy II*  
 **キャラクター／場面**: 予言を語る者  
 
@@ -346,6 +460,12 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 ---
 
 ## 魔術師 I
+
+<div align="center">
+<img src="deltoro_01.jpg" width="200"><br>
+</div>
+<br>
+
 **映画**: *Cronos*  
 **キャラクター／場面**: 装置を操る錬金術師  
 
@@ -362,6 +482,12 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 ---
 
 ## 愚者 0
+
+<div align="center">
+<img src="deltoro_00.jpg" width="200"><br>
+</div>
+<br>
+
 **映画**: *Pan’s Labyrinth*  
 **キャラクター／場面**: 少女が未知へ踏み出す瞬間  
 
