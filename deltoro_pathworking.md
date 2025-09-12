@@ -503,13 +503,14 @@ Their ability to overcome it."*
 <br>
 
 **映画**: *Pan’s Labyrinth*  
-**キャラクター／場面**: 少女が未知へ踏み出す瞬間  
+**キャラクター**: 牧神（The Faun）  
 
 **テキスト**:  
-*"To step into the unknown is to become free."*  
+*"The saddest journey in the world is the one that follows a precise itinerary. Then you're not a traveler. You're just a tourist."*  
+— *Guillermo del Toro*  
 
 **日本語訳**:  
-「未知へと踏み出すことが、自由になることだ。」  
+「世界で最も悲しい旅とは、あらかじめ決められた行程をたどる旅だ。そのときあなたは旅人ではない。ただの観光客にすぎない（Guillermo del Toro）」  
 
 **指示**:  
 このタペストリーの前で、この言葉を禅の公案のように黙想せよ。理解できたと感じたら、あるいはタペストリーがあなたを受け入れ「通過して良い」と告げたと感じたら終了である。塔の上に上がって世界を見下ろすことができる。
