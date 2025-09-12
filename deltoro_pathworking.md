@@ -247,14 +247,16 @@ you are poor, none of that ground belongs to you."*
 </div>
 <br>
 
-**映画**: *Blade II*  
-**キャラクター／場面**: 吸血鬼を裁く瞬間  
+**映画**: *Hellboy II: The Golden Army*  
+**キャラクター**: ミスター・ウィンク 
 
 **テキスト**:  
-*"Justice is blind, but it sees the truth of blood."*  
+*"Weakness is giving in to temptation. Strength is
+resisting it."*  
+— *The Night　Eternal*  
 
 **日本語訳**:  
-「正義は盲目である。だが血の真実を見抜く。」  
+「弱さとは誘惑に屈すること。強さとはそれに抗うことだ（The Night　Eternal）」  
 
 **指示**:  
 このタペストリーの前で、この言葉を禅の公案のように黙想せよ。理解できたと感じたら、あるいはタペストリーがあなたを受け入れ「通過して良い」と告げたと感じたら前に進む。
