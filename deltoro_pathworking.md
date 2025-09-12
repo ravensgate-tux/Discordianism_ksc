@@ -196,7 +196,7 @@ I'd look up at the stars."*
 ## 死 XIII
 
 <div align="center">
-<img src="deltoro_130.jpg" width="200"><br>
+<img src="deltoro_13.jpg" width="200"><br>
 </div>
 <br>
 
