@@ -240,7 +240,7 @@ you are poor, none of that ground belongs to you."*
 
 ---
 
-## 正義 XI
+## 力 XI
 
 <div align="center">
 <img src="deltoro_11.jpg" width="200"><br>
@@ -312,21 +312,23 @@ fewest sounds."*
 
 ---
 
-## 力 VIII
+## 正義 VIII
 
 <div align="center">
 <img src="deltoro_08.jpg" width="200"><br>
 </div>
 <br>
 
-**映画**: *Pan’s Labyrinth*  
-**キャラクター／場面**: 少女が怪物に立ち向かう  
+**映画**: *Crimson Peak*  
+**キャラクター**: イーディス・カッシングの母親の幽霊  
 
 **テキスト**:  
-*"True strength is not in force, but in the courage to face fear."*  
+*"Man killing man, man helping man, both of them
+anonymous: the scourge and the blessing."*  
+— *The Strain (Graphic Novel)*  
 
 **日本語訳**:  
-「真の力は暴力ではなく、恐怖に立ち向かう勇気にある。」  
+「人が人を殺す。人が人を助ける。そのどちらも名もなき行為──災いであり、また祝福でもある（The Strain）」  
 
 **指示**:  
 このタペストリーの前で、この言葉を禅の公案のように黙想せよ。理解できたと感じたら、あるいはタペストリーがあなたを受け入れ「通過して良い」と告げたと感じたら前に進む。
