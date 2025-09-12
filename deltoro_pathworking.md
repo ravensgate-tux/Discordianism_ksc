@@ -437,13 +437,14 @@ Their ability to overcome it."*
 <br>
 
 **映画**: *Pan’s Labyrinth*  
-**キャラクター／場面**: 母と大地の象徴  
+**キャラクター**: カルメン（Carmen） — オフェリアの母
 
 **テキスト**:  
-*"Creation is both nurture and sacrifice."*  
+*"There's something about maternal love — it might just be the strongest human spiritual bond there is."*  
+— *The Fall*  
 
 **日本語訳**:  
-「創造とは養育であると同時に犠牲でもある。」  
+「母の愛というものには特別な力がある──それはおそらく、人間における最も強い精神的な絆なのだろう(The Fall)」  
 
 **指示**:  
 このタペストリーの前で、この言葉を禅の公案のように黙想せよ。理解できたと感じたら、あるいはタペストリーがあなたを受け入れ「通過して良い」と告げたと感じたら前に進む。
