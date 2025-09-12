@@ -224,14 +224,16 @@ she died."*
 </div>
 <br>
 
-**映画**: *Cronos*  
-**キャラクター／場面**: 永遠の命を求めて吊られる  
+**映画**: *The Devil’s Backbone*  
+**キャラクター**: 胎児  
 
 **テキスト**:  
-*"Sometimes to find the truth, you must invert your perspective."*  
+*"Feet are what connect you to the ground, and when
+you are poor, none of that ground belongs to you."*  
+— *The Shape of Water (Novelization)*  
 
 **日本語訳**:  
-「真実を見つけるためには、時に自らの視点を逆さにせねばならない。」  
+「足はあなたを大地につなぐものだ。だが貧しい者にとって、その大地はひとつとして自分のものではない（The Shape of Water）」  
 
 **指示**:  
 このタペストリーの前で、この言葉を禅の公案のように黙想せよ。理解できたと感じたら、あるいはタペストリーがあなたを受け入れ「通過して良い」と告げたと感じたら前に進む。
