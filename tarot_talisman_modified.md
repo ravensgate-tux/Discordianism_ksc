@@ -2,6 +2,10 @@
 
 本手順書は、チック・シセロ & サンドラ・シセロ夫妻による『タロット・タリスマン』のスプレッドを参考にしつつ、独自に改造したものです。オリジナルでは三角形＋中央の配置を用いますが、本改造版ではカードを横一列に並べる方式を採用しています。
 
+<div align="right">
+<img src="ksc5.png" width="200"><br>
+This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
+
 ---
 
 ## 手順概要
