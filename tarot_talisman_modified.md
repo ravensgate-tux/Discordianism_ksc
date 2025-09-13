@@ -5,6 +5,7 @@
 <div align="right">
 <img src="ksc5.png" width="200"><br>
 This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
+</div>
 
 ---
 
