@@ -62,4 +62,12 @@
 ## 備考
 
 - 本手順はオリジナルの「タロット・タリスマン」から着想を得た改造版であり、独自の実践法です。  
-- 実施にあたっては個々人の象徴解釈に基づいて自由に応用してください。  
+- 実施にあたっては個々人の象徴解釈に基づいて自由に応用してください。
+
+---
+
+こちらもご覧ください➡️[ディスコーディアン魔術アーカイブ](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/README.md)
+
+---
+© 2025 知られざる呪術師（Le Sorcier Inconnu）  
+本ドキュメントは [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) に基づき公開されています。
