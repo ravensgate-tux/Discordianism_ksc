@@ -59,7 +59,7 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 結果：<br> 世界（XXI） → 「完成」「新天地での成功」
 
 <div align="center">
-<img src="newjob.jpg" width="400">
+<img src="newjob.jpg" width="500">
 </div>
 
 ---
