@@ -97,3 +97,11 @@
 
 👉 この方法なら、**黒曜石の鏡が数万円するのに対し、時計皿＋塗料＋皿立てで合計2,000円以下**で作成可能。  
 👉 **バトラー流の体系的訓練**と**スペア流の無意識的実践**を組み合わせることで、幅広い霊的体験が可能となる。
+
+---
+
+こちらもご覧ください➡️[ディスコーディアン魔術アーカイブ](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/README.md)
+
+---
+© 2025 知られざる呪術師（Le Sorcier Inconnu）  
+本ドキュメントは [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) に基づき公開されています。
