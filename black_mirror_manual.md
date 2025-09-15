@@ -109,7 +109,7 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 
 <div align="center">
 （参考）KSCのXへの投稿ー2025年3月<br>
-<img src="ksc-x-mar25.png" width="400">
+<img src="ksc-x-mar25.png" width="500">
 <br>
 </div>
 <br>
