@@ -88,7 +88,7 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 
 
 <div align="center">
-<img src="spare-painter.png" width="100">
+<img src="spare-painter.png" width="400">
 <br>
 </div>
 <br>
