@@ -72,7 +72,7 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 ### 1. W.E.バトラー流（体系的訓練）
 
  <div align="center">
-<img src="w-e-buttler.png" width="100">
+<img src="w-e-buttler.png" width="200">
 <br>
 </div>
 <br>
