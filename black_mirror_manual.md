@@ -1,5 +1,10 @@
 # 🍏　安価なブラックミラーの制作方法と使い方（W.E.バトラー準拠）
 
+<div align="right">
+<img src="ksc5.png" width="200"><br>
+This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
+</div>
+
 ## Ⅰ. 材料
 - **時計皿（並質ガラス φ100mm程度）**
   - 時計用のガラス。透明で安価（400円前後）
