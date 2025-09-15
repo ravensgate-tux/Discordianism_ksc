@@ -70,6 +70,13 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 ## Ⅳ. 基本的な使い方（3種類）
 
 ### 1. W.E.バトラー流（体系的訓練）
+
+ <div align="center">
+木製皿立て<br>
+<img src="w-e-buttler.png" width="100">
+<br>
+</div>
+
 - **位置づけ**：「積極的な視覚化訓練」であり、心霊的な能力開発ではない
 - **態度**：鏡を安定させ、完全にくつろいだ姿勢で半覚醒状態を保つ
 - **行法の手順**
