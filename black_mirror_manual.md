@@ -44,7 +44,7 @@
    - 完全乾燥まで半日～1日置く
 
 <div align="center">
-<img src="paint.png" width="300">
+<img src="paint.png" width="600">
 <br>
 </div>
 
