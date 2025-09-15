@@ -40,6 +40,8 @@ KSC氏の最新の論文（英語）「スペアって2人居るんじゃない�
   
 ## 📡 最新のニュース
 
+- [🍏 ブラックミラー（W.E.バトラー準拠）制作および使い方リリース (2025年9月15日)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/black_mirror_manual.md)
+
 - [🍏 タロット・タリスマン（改）手順書リリース (2025年9月14日)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/tarot_talisman_modified.md)
 
 - [🍏 ギレルモ・デル・トロ監督映画作品でのパスワーキング (2025年9月11日)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/deltoro_pathworking.md)
