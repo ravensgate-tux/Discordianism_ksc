@@ -66,7 +66,7 @@
 ### 1. W.E.バトラー流（体系的訓練）
 
  <div align="center">
-<img src="w-e-buttler.png" width="50">
+<img src="w-e-buttler.png" width="200">
 <br>
 </div>
 
