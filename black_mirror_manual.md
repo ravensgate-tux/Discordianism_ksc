@@ -15,7 +15,7 @@
     
  <div align="center">
 タミヤ/TS-6 マットブラック<br>
-<img src="tamiya2.png" width="100">
+<img src="tamiya2.png" width="50">
 <br>
 </div>
 
