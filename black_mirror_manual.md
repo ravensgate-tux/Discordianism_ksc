@@ -85,6 +85,14 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 - **目的**：投射と受容の往復訓練で、イマジネーションと感受性を共に鍛える
 
 ### 2. A.O.スペア流（自己像の崩壊と無意識の顕現）
+
+
+<div align="center">
+<img src="spare-painter.png" width="100">
+<br>
+</div>
+<br>
+
 - **基本原理**：鏡をじっと見つめることで自己像を曖昧にし、自己同一性を揺らがす（『快楽の書』より）
 - 注：『快楽の書』にはこの鏡をブラックミラーとは明示していない。しかし鏡の代わりとしては情報量が落ちるのでむしろ理想的
 - **方法**
