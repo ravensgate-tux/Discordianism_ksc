@@ -13,7 +13,6 @@
 （画像出典）amazon.com
 </div>
 <br>
-
 [Magical Use of Thought Forms: A Proven System of Mental & Spiritual Empowerment ](https://www.amazon.co.jp/Magical-Use-Thought-Forms-Empowerment/dp/1567180841/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=27FNAN25X1GYG&dib=eyJ2IjoiMSJ9.8Ctglnz47BHzWc_7ucAigg.smQXyQi8VCjnmGF9v7ea2jdiKmWpdKDIR9J2sEoIDhk&dib_tag=se&keywords=magical+use+of+thought+form&qid=1758571028&s=english-books&sprefix=magical+use+of+thought+form%2Cenglish-books%2C152&sr=1-1)
 
 ---
