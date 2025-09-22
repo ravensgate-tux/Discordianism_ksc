@@ -454,6 +454,14 @@ City / Kingdom landscape.
 >原典	Own work by uploader, based on plan in Simpson, W.D. "Doune Castle" Proceedings of the Society of Antiquaries of Scotland 72: 73-83
 >作者	Jonathan Oldenbuck
 
+<div align="center">
+<img src="doune-3d.png" width="800"><br>
+撮影：Le Sorcier Inconnu
+</div>
+<br>
+
+
+
 ---
 
 ## （資料3） このアーサー王象徴のパスワーキングの使用方法
