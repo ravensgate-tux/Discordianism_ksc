@@ -9,7 +9,7 @@
 で紹介されている「掃除ワーク」に着想を得ています。
 
 <div align="left">
-<img src="thought-form.jpeg" width="400"><br>
+<img src="thought-form.jpeg" width="150"><br>
 City / Kingdom landscape.
 </div>
 <br>
