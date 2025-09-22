@@ -161,6 +161,11 @@ KSC氏の最新の論文（英語）「スペアって2人居るんじゃない�
 
 ここでは、KSCとして行うディスコーディアン的「行動」や「儀式」について実践例や手順をまとめていきます。
 例：
+- [🏰 ギレルモ・デル・トロ監督映画作品でのパスワーキング (2025年9月11日)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/deltoro_pathworking.md)
+- [🏰 アーサー王象徴体系でのパスワーキング・ビアズリー挿絵版 (2025年9月7日)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/king_Arthur_path.md)
+- [🐝 観察と再創造ワーク／ドロレス方式（2025年9月23）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/dolores-observation.md)
+- [🏰 記憶の宮殿ワーク／ハービー・ブレナン方式 (2025年9月23日)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/brennan-mindpalace.md)
+- [🏰 お城を使ったパスワーキング前の清掃🧹🪣作業（2025年9月23日）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/castle_clean.md)
 - 🧁 Smartie Ritual（楽しい混乱を街へ）
 - 🎲 ダイスを使った決定行動
 - [🎲 サイコロ視覚化トレーニングをリリース（2025年9月21日）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/%E3%82%B5%E3%82%A4%E3%82%B3%E3%83%AD%E8%A6%96%E8%A6%9A%E5%8C%96%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%AF%E3%82%99.md)
