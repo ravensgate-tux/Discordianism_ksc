@@ -8,6 +8,12 @@
 *Magical Use of Thought Forms: A Proven System of Mental & Spiritual Empowerment* (Llewellyn, 1990)  
 で紹介されている「掃除ワーク」に着想を得ています。
 
+<div align="left">
+<img src="thought-form.jpeg" width="400"><br>
+City / Kingdom landscape.
+</div>
+<br>
+
 ---
 
 ## 🧹 導入ワーク：お城の掃除
