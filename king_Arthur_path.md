@@ -455,12 +455,11 @@ City / Kingdom landscape.
 >作者	Jonathan Oldenbuck
 
 <div align="center">
-<img src="doune-3d.png" width="400"><br>
+[Inside DOUNE CASTLE - Filming Location for OUTLANDER & GAME OF THRONES - Walking Tour | 4K | 60FPS](https://www.youtube.com/watch?v=KO9woTR4gA0)   
+<img src="doune-3d.png" width="300"><br>
 撮影：Le Sorcier Inconnu
 </div>
 <br>
-
-[Inside DOUNE CASTLE - Filming Location for OUTLANDER & GAME OF THRONES - Walking Tour | 4K | 60FPS](https://www.youtube.com/watch?v=KO9woTR4gA0)
 
 ---
 
