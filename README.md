@@ -40,7 +40,7 @@ KSC氏の最新の論文（英語）「スペアって2人居るんじゃない�
   
 ## 📡 最新のニュース
 
-[🏰 記憶の宮殿ワーク / ハービー・ブレナン方式 (2025年9月23日)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/brennan-mindpalace.md)
+- [🏰 記憶の宮殿ワーク / ハービー・ブレナン方式 (2025年9月23日)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/brennan-mindpalace.md)
 
 - [🏰 お城を使ったパスワーキング前の清掃🧹🪣作業（2025年9月23日）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/castle_clean.md)
 
