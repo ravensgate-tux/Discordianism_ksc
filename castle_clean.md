@@ -10,7 +10,7 @@
 
 <div align="left">
 <img src="thought-form.jpeg" width="150"><br>
-City / Kingdom landscape.
+（画像出典）amazon.com
 </div>
 <br>
 
