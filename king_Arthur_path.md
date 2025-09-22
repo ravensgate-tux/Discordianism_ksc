@@ -454,8 +454,13 @@ City / Kingdom landscape.
 >原典	Own work by uploader, based on plan in Simpson, W.D. "Doune Castle" Proceedings of the Society of Antiquaries of Scotland 72: 73-83
 >作者	Jonathan Oldenbuck
 
-<div align="center">
+Doune Castle の内部：
+
 [Inside DOUNE CASTLE - Filming Location for OUTLANDER & GAME OF THRONES - Walking Tour | 4K | 60FPS](https://www.youtube.com/watch?v=KO9woTR4gA0)   
+
+このような3Dモデルがあると城の構造が把握しやすい：
+
+<div align="center">
 <img src="doune-3d.png" width="300"><br>
 撮影：Le Sorcier Inconnu
 </div>
