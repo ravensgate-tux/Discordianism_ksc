@@ -172,7 +172,7 @@ KSC氏の最新の論文（英語）「スペアって2人居るんじゃない�
 - [😂 バニッシュメントとしての笑いの儀式](hotei_laughter.jpg)
 - 🃏 儀式魔術 (タロット・タリスマン or シジル) and/or (エゴハンマー or ケイオスグレネード)
 - [🍏 エリス神召喚儀式 (English)をリリース（2025年8月12日）](ritual_invoking_eris.md)
-- [🍏 SOL風：エリス神 Power of One 内的ワークをリリース（2025年8月11日）](ritual_power_of_one_ish.md)
+- [🐝 SOL風：エリス神 Power of One 内的ワークをリリース（2025年8月11日）](ritual_power_of_one_ish.md)
 - [🍏 Transitus Fluvii（川を渡る者）シジル生成法をリリース（2025年8月10日）](https://github.com/ravensgate-tux/passing_river/blob/main/README.md)
 - [🍏 Eris五芒星による視覚化トレーニング法をリリース（2025年8月9日）](Eris_pentacle_visualization_training.md)
 - [🍏 ディスコーディアン林檎融化法をリリース（2025年8月8日）](apple_melting_contemplation_of_eris.md)
