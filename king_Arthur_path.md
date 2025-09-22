@@ -461,7 +461,7 @@ Doune Castle の内部：
 このような3Dモデルがあると城の構造が把握しやすい：
 
 <div align="center">
-<img src="doune-3d.png" width="400"><br>
+<img src="doune-3d.png" width="500"><br>
 撮影：Le Sorcier Inconnu
 </div>
 <br>
