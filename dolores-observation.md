@@ -1,4 +1,4 @@
-# 観察と再創造ワーク（Dolores Ashcroft-Nowicki）
+# 🐝 観察と再創造ワーク（Dolores Ashcroft-Nowicki）
 
 > ⚠️ このワークは Dolores Ashcroft-Nowicki の  
 > 『Magical Use of Thought Forms』に紹介されている手法を  
