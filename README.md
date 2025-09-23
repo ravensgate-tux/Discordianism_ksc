@@ -47,6 +47,7 @@ KSC氏の最新の論文（英語）「スペアって2人居るんじゃない�
 </div>
 <br>
 
+- [🍏 ディスコーディアン暦のWikipedia日本語版をリリース（2025年9月24日）](https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E6%9A%A6)
 - [🐝 観察と再創造ワーク／ドロレス方式（2025年9月23）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/dolores-observation.md)
 
 - [🏰 記憶の宮殿ワーク／ハービー・ブレナン方式 (2025年9月23日)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/brennan-mindpalace.md)
