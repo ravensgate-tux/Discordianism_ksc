@@ -40,6 +40,13 @@ KSC氏の最新の論文（英語）「スペアって2人居るんじゃない�
   
 ## 📡 最新のニュース
 
+- 🎃 大いなる秘技「かぼちゃ🎃リーディング」の運用開始（2025年9月24日）究極の秘技のため公開はされない
+  
+<div align="center">
+<img src="PumpkinReading.jpg" width="300">
+</div>
+<br>
+
 - [🐝 観察と再創造ワーク／ドロレス方式（2025年9月23）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/dolores-observation.md)
 
 - [🏰 記憶の宮殿ワーク／ハービー・ブレナン方式 (2025年9月23日)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/brennan-mindpalace.md)
