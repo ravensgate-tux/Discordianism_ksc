@@ -131,7 +131,7 @@ I'd look up at the stars."*
 </div>
 <br>
 
-**映画**: *Pacific Rim*   
+**映画**: *Hellboy*   
 **キャラクター**: 塔  
 
 **テキスト**:  
