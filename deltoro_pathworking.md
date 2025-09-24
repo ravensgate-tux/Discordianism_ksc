@@ -240,7 +240,7 @@ you are poor, none of that ground belongs to you."*
 
 ---
 
-## 力 XI
+## 力 XI　（The Marseille Tarot Position）
 
 <div align="center">
 <img src="deltoro_11.jpg" width="200"><br>
@@ -312,7 +312,7 @@ fewest sounds."*
 
 ---
 
-## 正義 VIII
+## 正義 VIII　（The Marseille Tarot Position）
 
 <div align="center">
 <img src="deltoro_08.jpg" width="200"><br>
