@@ -131,7 +131,7 @@ I'd look up at the stars."*
 </div>
 <br>
 
-**映画**: *Hellboy*   
+**映画**: *Hellboy II: The Golden Army*   
 **キャラクター**: 塔  
 
 **テキスト**:  
