@@ -57,3 +57,12 @@ By knot of nine, the thing is mine!
 - 紐は赤い毛糸やシルクを推奨。きらめく糸は特に適しています。  
 - 結び目を作るたびに「願望を視覚化」すると効果が高まります。  
 - 作品に組み込めば、他人に知られることなく魔術を携帯できます。  
+
+
+---
+
+こちらもご覧ください➡️[ディスコーディアン魔術アーカイブ](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/README.md)
+
+---
+© 2025 知られざる呪術師（Le Sorcier Inconnu）  
+本ドキュメントは [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) に基づき公開されています。
