@@ -40,6 +40,8 @@ KSC氏の最新の論文（英語）「スペアって2人居るんじゃない�
   
 ## 📡 最新のニュース
 
+- [🧙‍♂️ SOL（Servants of the Light）の儀式体系と霊的教育構造をリリース（2025年10月7日）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/SOL_TSS_lineage.md)
+  
 - [🍏 Transitus Fluvii（川を渡る者）を使用したシジル生成法 Backlandの書籍より更新（2025年10月4日）](https://github.com/ravensgate-tux/passing_river/blob/main/README.md)
 
 - [🧙‍♀️ 九つの結び目の呪文（Nine Knots Spell）リリース（2025年10月3日）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/nine_knots_spell.md)
