@@ -123,10 +123,10 @@ SOLの実践は、外的儀式の縮減ではなく、
 ## 🌞 6. 21世紀への継承：SOLからTSS（Strategic Sorcery）へ
 
 現代において、フォーチュンの「内的奉仕」の理念は、  
-**ジェイソン・ミラー（Jason Miller）** の体系 **TSS（Strategic Sorcery）** においても新しい形で継承されている。  
+ジェイソン・ミラー（Jason Miller）の体系 TSS（Strategic Sorcery） においても新しい形で継承されている。  
 
 ミラーは、外的儀式と日常行動の間に橋を架け、  
-**魔術を実践的スキル（pragmatic sorcery）**として再定義した。  
+魔術を実践的スキル（pragmatic sorcery）として再定義した。  
 彼のアプローチは、フォーチュンが示した「内的世界の現実性」を、  
 現代的行動科学と戦略的思考に統合したものである。
 
@@ -174,7 +174,7 @@ Dion Fortune が唱えた「光に仕える」という理念は、
 
 そしてこれらを統合する現代の魔術は、  
 もはや「オーダー」や「伝統」の枠を超えた、  
-**意識的奉仕のネットワーク（Network of Conscious Practitioners）**である。  
+意識的奉仕のネットワーク（Network of Conscious Practitioners）である。  
 
 ---
 ---
