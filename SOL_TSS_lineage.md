@@ -1,6 +1,9 @@
 # SOL（Servants of the Light）の儀式体系と霊的教育構造  
 _— フォーチュンのクリスチャン・カバラーを継承した内的神秘学の伝統 —_
 
+注記：本稿は「知られざる呪術師」による個人的理解と研究に基づくものであり、
+各団体・人物の公式見解を代表するものではありません。
+
 <div align="right">
 <img src="ksc5.png" width="200"><br>
 This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
