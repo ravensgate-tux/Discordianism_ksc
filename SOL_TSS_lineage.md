@@ -30,8 +30,8 @@ SOLの訓練体系は **3つの位階（Degrees）** によって構成されて
 
 ## ✝️ 1. フォーチュンの「クリスチャン・カバラー」
 
-<div align="right">
-<img src="Dion-Fortune-Book1.jpg" width="200"><br>
+<div align="center">
+<img src="Dion-Fortune-Book1.jpg" width="150"><br>
 </div>
 
 Dion Fortune の『神秘のカバラー（The Mystical Qabalah）』は、  
@@ -124,7 +124,7 @@ SOLの実践は、外的儀式の縮減ではなく、
 
 ---
 
-## 🌞 6. 21世紀への継承：SOLからTSS（Strategic Sorcery）へ
+## 🌞 6. （参考）　21世紀への継承：SOLからTSS（Strategic Sorcery）へ
 
 現代において、フォーチュンの「内的奉仕」の理念は、  
 ジェイソン・ミラー（Jason Miller）の体系 TSS（Strategic Sorcery） においても新しい形で継承されている。  
@@ -147,7 +147,7 @@ TSSでは「魔術とは世界の中で力を流す行為」であり、
 
 ---
 
-## 🌙 7. 現代の統合的魔術実践：エルウッドとフィル・ハインの系譜
+## 🌙 7. （参考） 現代の統合的魔術実践：エルウッドとフィル・ハインの系譜
 
 さらに、**テイラー・エルウッド（Taylor Ellwood）** や **フィル・ハイン（Phil Hine）** の研究・実践は、  
 フォーチュンの「内的神秘主義」とSOLの瞑想体系を、  
