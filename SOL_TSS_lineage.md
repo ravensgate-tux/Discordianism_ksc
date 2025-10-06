@@ -135,9 +135,8 @@ SOLの実践は、外的儀式の縮減ではなく、
 
 <div align="center">
 <img src="dolores-jason.jpeg" width="700"><br>
-</div>
-
 写真：ドロレス・アッシュクロフト＝ノーウィッキー（左端）とジェイソン・ミラー（中央）
+</div>
 
 ミラーは、外的儀式と日常行動の間に橋を架け、  
 魔術を実践的スキル（pragmatic sorcery）として再定義した。  
