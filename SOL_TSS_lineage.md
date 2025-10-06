@@ -48,6 +48,7 @@ SOLの訓練体系は **3つの位階（Degrees）** によって構成されて
 <div align="center">
 <img src="Dion-Fortune-Book1.jpg" width="150"><br>
 </div>
+<br>
 
 Dion Fortune の『神秘のカバラー（The Mystical Qabalah）』は、  
 ユダヤ的・ヘルメス的カバラの枠を超え、キリスト教神秘主義に基づくカバラー体系を提示した。  
@@ -100,8 +101,7 @@ SOLにおいては神秘的教育体系（Mystical Curriculum）へと発展し�
 - 魂の探求を「聖杯探索（Quest for the Grail）」として描く
 - 儀式的形式よりも「象徴世界への没入」を重視
 
-この時期の訓練体系は、後のSOLが採用する  
-ヴィジュアライゼーション（Visualization）とパスワーキング（Pathworking）の基盤となった。
+この時期の訓練体系は、後のSOLが採用するヴィジュアライゼーション（Visualization）とパスワーキング（Pathworking）の基盤となった。
 
 ---
 
@@ -145,7 +145,6 @@ SOLの実践は、外的儀式の縮減ではなく、
 
 現代において、フォーチュンの「内的奉仕」の理念は、  
 ジェイソン・ミラー（Jason Miller）の体系 TSS（Strategic Sorcery） においても新しい形で継承されている。  
-
 
 <div align="center">
 <img src="dolores-jason.jpeg" width="700"><br>
