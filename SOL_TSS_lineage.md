@@ -29,6 +29,14 @@ SOLの訓練体系は **3つの位階（Degrees）** によって構成されて
 この三位階制は、外的階梯を細分化する他団体とは異なり、  
 意識の成熟段階そのものを象徴する霊的構造として設計されている。
 
+<sub>**References**  
+1. Dion Fortune, *The Mystical Qabalah*, Society of the Inner Light Edition, 1935, Ch. XXI “The Grades of the Path”, p.296–302.  
+2. W. E. Butler, *Magic: Its Ritual, Power and Purpose*, Aquarian Press, 1952, Ch. 6 “The Grades of the Path”, p.78–85.  
+3. Gareth Knight, *A Practical Guide to Qabalistic Symbolism*, Vol. II, Helios, 1965, p.181–183.  
+4. Dolores Ashcroft-Nowicki, *The Tree of Ecstasy*, Samuel Weiser, 1985, p.142–145.  
+5. *Servants of the Light Correspondence Course: First & Second Degree Materials* (private circulation, ca. 1970s–1980s).  
+</sub>
+
 ---
 
 ## ✝️ 1. フォーチュンの「クリスチャン・カバラー」
