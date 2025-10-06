@@ -45,7 +45,7 @@ Dion Fortune の『神秘のカバラー（The Mystical Qabalah）』は、
 > “The Christ within us is the Light of Tiphereth — the Redeemer in the heart of the Tree.”  
 > （私たちの内なるキリストとは、ティファレトの光にして、生命の樹の中心に宿る贖い主である）
 
-この構造において、**「聖守護天使（HGA）」は内なるキリスト意識と同義**である。  
+この構造において、「聖守護天使（HGA）」は内なるキリスト意識と同義である。  
 フォーチュンの神秘学では、霊的成長とは神との再結合（Redemption）であり、  
 それは外的操作ではなく、内的覚醒によって達成される。
 
