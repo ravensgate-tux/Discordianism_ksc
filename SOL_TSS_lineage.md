@@ -134,7 +134,7 @@ SOLの実践は、外的儀式の縮減ではなく、
 
 
 <div align="center">
-<img src="Dion-Fortune-Book1.jpg" width="150"><br>
+<img src="dolores-jason.jpeg" width="150"><br>
 </div>
 
 写真：ドロレス・アッシュクロフト＝ノーウィッキー（左端）とジェイソン・ミラー（中央）
