@@ -30,6 +30,10 @@ SOLの訓練体系は **3つの位階（Degrees）** によって構成されて
 
 ## ✝️ 1. フォーチュンの「クリスチャン・カバラー」
 
+<div align="right">
+<img src="Dion-Fortune-Book1.jpg" width="200"><br>
+</div>
+
 Dion Fortune の『神秘のカバラー（The Mystical Qabalah）』は、  
 ユダヤ的・ヘルメス的カバラの枠を超え、**キリスト教神秘主義に基づくカバラー体系**を提示した。  
 
@@ -172,7 +176,6 @@ Dion Fortune が唱えた「光に仕える」という理念は、
 もはや「オーダー」や「伝統」の枠を超えた、  
 意識的奉仕のネットワーク（Network of Conscious Practitioners）である。  
 
----
 ---
 
 ### 📎 関連リンク
