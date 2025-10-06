@@ -80,7 +80,7 @@ SOLにおいては神秘的教育体系（Mystical Curriculum）へと発展し�
 - 儀式的形式よりも「象徴世界への没入」を重視。  
 
 この時期の訓練体系は、後のSOLが採用する  
-**ヴィジュアライゼーション（Visualization）とパスワーキング（Pathworking）**の基盤となった。
+ヴィジュアライゼーション（Visualization）とパスワーキング（Pathworking）の基盤となった。
 
 ---
 
