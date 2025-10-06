@@ -40,15 +40,15 @@ SOLの訓練体系は **3つの位階（Degrees）** によって構成されて
 Dion Fortune の『神秘のカバラー（The Mystical Qabalah）』は、  
 ユダヤ的・ヘルメス的カバラの枠を超え、キリスト教神秘主義に基づくカバラー体系を提示した。  
 
-- 生命の樹は「キリストの光の流出（Emanation）」として解釈される。  
-- ティファレト（Tiphereth）は 「キリスト意識（Christ-consciousness）」の座。  
-- ケテルは「父なる神の意志」、マルクトは「聖霊の顕現」。  
-  ──全体として生命の樹は「三位一体（Trinity）」の展開を象徴する。
+- 生命の樹はキリストの光の流出（Emanation）として解釈される  
+- ティファレト（Tiphereth）は キリスト意識（Christ-consciousness）の座  
+- ケテルは父なる神の意志、マルクトは聖霊の顕現  
+  ──全体として生命の樹は三位一体（Trinity）の展開を象徴する
 
 > “The Christ within us is the Light of Tiphereth — the Redeemer in the heart of the Tree.”  
 > （私たちの内なるキリストとは、ティファレトの光にして、生命の樹の中心に宿る贖い主である）
 
-この構造において、「聖守護天使（HGA）」は内なるキリスト意識と同義である。  
+この構造において、聖守護天使（HGA）は内なるキリスト意識と同義である。  
 フォーチュンの神秘学では、霊的成長とは神との再結合（Redemption）であり、  
 それは外的操作ではなく、内的覚醒によって達成される。
 
