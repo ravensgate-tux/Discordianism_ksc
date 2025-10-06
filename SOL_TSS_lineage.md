@@ -15,7 +15,7 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 という明確な系譜を持つ。  
 
 SOLの訓練体系は **3つの位階（Degrees）** によって構成されており、  
-これは霊的成長の普遍的な三段階──**Purification（浄化）／Illumination（啓明）／Union（合一）**──を表す。
+これは霊的成長の普遍的な三段階──Purification（浄化）／Illumination（啓明）／Union（合一）──を表す。
 
 | 位階 | 段階の意味 | 修行の焦点 |
 |------|-------------|------------|
