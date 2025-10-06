@@ -56,9 +56,12 @@ Dion Fortune の『神秘のカバラー（The Mystical Qabalah）』は、
 - ティファレト（Tiphereth）は キリスト意識（Christ-consciousness）の座  
 - ケテルは父なる神の意志、マルクトは聖霊の顕現  
   ──全体として生命の樹は三位一体（Trinity）の展開を象徴する
-
+>
 > “The Christ within us is the Light of Tiphereth — the Redeemer in the heart of the Tree.”  
 > （私たちの内なるキリストとは、ティファレトの光にして、生命の樹の中心に宿る贖い主である）
+
+><sub>Dolores Ashcroft-Nowicki, *The Tree of Ecstasy: An Advanced Manual of Magical Qabalah*,  
+>Samuel Weiser, 1985, Chapter 7 “Tiphereth: The Christ Centre”, p.142.</sub>
 
 この構造において、聖守護天使（HGA）は内なるキリスト意識と同義である。  
 フォーチュンの神秘学では、霊的成長とは神との再結合（Redemption）であり、  
