@@ -1,6 +1,10 @@
 # 🧠 シャーウィンのエングラム魔術
 **― レイ・シャーウィン『The Book of Results』におけるダイアネティックス的無意識操作 ―**  
-*2025*  
+
+<div align="right">
+<img src="ksc5.png" width="200"><br>
+This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
+著者のKSCこと「知られざる呪術師」は<br>ドロレス・アッシュクロフト=ノーウィッキから直接第３位界のイニシエーションを受け<br>ダイアン・フォーチュンから続く法脈を受け継いでいる。</div>
 
 ---
 
@@ -143,13 +147,15 @@
 © 2025  
 [![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)  
 
-あなたは本作品を **共有（Share）** — 複製・再配布することができ、  
-また **改変（Adapt）** — リミックス、変形、派生作品の作成も自由に行えます。  
-ただし、**著者名を明記**してください。  
+---
+
+### 📎 関連リンク
+
+こちらもご覧ください➡️[ディスコーディアン魔術アーカイブ](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/README.md)
 
 ---
 
-### 📁 推奨ファイル名
-```
-sherwin-engram-magick-ja.md
-```
+© 2025 知られざる呪術師（Le Sorcier Inconnu）  
+本ドキュメントは [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) に基づき公開されています。
+
+
