@@ -25,7 +25,8 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 
 <div align="center">
 <img src="dianetics.jpg" width="150"><br>
-[画像出典（Amazon.co.jp）](https://www.amazon.co.jp/dp/4931223273?ref_=ppx_hzod_title_dt_b_fed_asin_title_0_0)
+
+   [画像出典（Amazon.co.jp）](https://www.amazon.co.jp/dp/4931223273?ref_=ppx_hzod_title_dt_b_fed_asin_title_0_0)
 </div>
 <br>
 
