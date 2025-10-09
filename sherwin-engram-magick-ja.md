@@ -28,6 +28,9 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 </div>
 <br>
 
+[画像出典（Amazon.co.jp）](https://www.amazon.co.jp/dp/4931223273?ref_=ppx_hzod_title_dt_b_fed_asin_title_0_0)
+
+
 | 用語 | ダイアネティックスでの定義 | 役割 |
 |------|----------------------|------|
 | **分析心（Analytic Mind）** | 感覚情報を正しく処理し、論理的判断を行う意識的領域。 | 健全な思考・推論・判断を担う。 |
