@@ -100,4 +100,5 @@ Attribution sample: “Daruma Sigil — A Discordian Micro‑Ritual by Ravensgat
 ---
 
 ## Acknowledgements
-Thanks to the long lineage of daruma makers and to Discordians everywhere. Hail Eris.
+Thanks to the countless hands that shaped the fox statues and offered rice before me.
+Blessings to Inari, and to all who keep the way of harmony.
