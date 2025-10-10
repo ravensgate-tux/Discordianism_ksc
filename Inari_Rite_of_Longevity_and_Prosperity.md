@@ -5,7 +5,7 @@
 
 ## 🔸 Before You Begin
 - **Tools**: Red cord with nine beads.  
-- **Gesture**: *Vulcan mudra* (symbol of blessing and vitality).  
+- **Gesture**: *Vulcan mudra* 🖖 (symbol of blessing and vitality).  
 - **Divination**:  
   - Draw one *Crow Tarot* card before the visit (*your intent*).  
   - Draw another afterward (*Inari’s reply*).  
@@ -51,7 +51,7 @@
 > So mote it be.
 
 Hold the **red cord with nine beads** in your left hand.  
-Raise your right hand in the **Vulcan mudra** before your heart.  
+Raise your right hand in the **Vulcan mudra** 🖖 before your heart.  
 Visualize a red-golden current linking you and the shrine,  
 and think silently:  
 > “Life flows through me, prosperity surrounds me, harmony abides between us.”
