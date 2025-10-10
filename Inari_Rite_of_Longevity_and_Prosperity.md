@@ -54,7 +54,7 @@ Hold the **red cord with nine beads** in your left hand.
 Raise your right hand in the **Vulcan mudra** 🖖 before your heart.  
 Visualize a red-golden current linking you and the shrine,  
 and think silently:  
-> “Life flows through me, prosperity surrounds me, harmony abides between us.”
+> “Life flows through me, prosperity surrounds me, harmony remains between us.”
 
 Finally, **bow once more** —  
 closing the gate, sealing the connection.
