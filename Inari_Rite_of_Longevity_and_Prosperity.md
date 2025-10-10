@@ -1,4 +1,4 @@
-# 🕯️ Inari Rite of Longevity and Prosperity (Hybrid Shinto–Western Form)
+# ⛩️🦊 Inari Rite of Longevity and Prosperity (Hybrid Shinto–Western Form)
 *A quiet communion within a Temporary Autonomous Zone of reverence*
 
 ---
@@ -84,3 +84,20 @@ Record both cards and your impressions in your journal.
 > Within the quiet TAZ of Inari,  
 > the red cord binds life to blessing.  
 > I whispered, and the world whispered back.
+
+---
+
+## Attribution & License
+Copyright © 2025 **Ravensgate**.  
+Released under **CC BY 4.0**. You may remix and share with attribution.  
+Attribution sample: “Daruma Sigil — A Discordian Micro‑Ritual by Ravensgate (CC BY 4.0)”
+
+---
+
+## Versioning
+`v1.0.0` — first public release.
+
+---
+
+## Acknowledgements
+Thanks to the long lineage of daruma makers and to Discordians everywhere. Hail Eris.
