@@ -46,7 +46,7 @@
 
 > Noble **Kami of Inari**,  
 > Guardian of life, harvest, and fortune,  
-> I come in friendship and respect.  
+> I come humbly in friendship and respect.  
 > May longevity and prosperity dwell between us.  
 > So mote it be.
 
