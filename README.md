@@ -40,6 +40,7 @@ KSC氏の最新の論文（英語）「スペアって2人居るんじゃない�
   
 ## 📡 最新のニュース
 
+- [ 🐝 SOL風ヘカテ — サムヘインの儀式をリリース（2025年10月21日）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/Hecate_Samhain_SOL.md)
 - [⛩️🦊 Inari Rite of Longevity and Prosperity（2025年10月11日） ](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/Inari_Rite_of_Longevity_and_Prosperity.md)
 - [🎵シャーウィンのエングラム魔術をリリース（2025年10月9日）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/sherwin-engram-magick-ja.md)
 - [🧙‍♂️ SOL（Servants of the Light）の儀式体系と霊的教育構造をリリース（2025年10月7日）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/SOL_TSS_lineage.md)
