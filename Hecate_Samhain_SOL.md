@@ -34,13 +34,13 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 **手順:** 東を向いて祭壇の前に立つ。右手を胸の前にかざし、呼吸を整える。
 
 > **I open the Temple within and without.**  
-> （内なる神殿と外なる神殿を開く。）  
+> （内なる神殿と外なる神殿を開く）  
 >  
 > **By the Light of Wisdom,**  
 > **by the Fire of Spirit,**  
 > **by the Stillness of the Soul —**  
 > **let this space be made sacred.**  
-> （知恵の光、霊の火、魂の静寂によって、ここを聖域とする。）
+> （知恵の光、霊の火、魂の静寂によって、ここを聖域とする）
 
 *短い沈黙を置き、場の変化（空気の密度や静けさ）を感受する。*
 
@@ -52,15 +52,15 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 > **Hail to Thee, Hecate Triformis,**  
 > **Keeper of Keys, Lady of the Threshold,**  
 > **Torchbearer through shadow and light.**  
-> （三相の女神ヘカテに敬礼を。鍵を持ち、門を守る方、影と光の間を照らす方。）  
+> （三相の女神ヘカテに敬礼を。鍵を持ち、門を守る方、影と光の間を照らす方）  
 >  
 > **At this turning of the year,**  
 > **I call upon Thee, Guardian of the Ways Between.**  
-> （この年の終わりに、世界の狭間を守るあなたを呼びます。）  
+> （この年の終わりに、世界の狭間を守るあなたを呼びます）  
 >  
 > **Hail to Thee, who knoweth the secret paths of soul and death.**  
 > **Walk with me this night and guide my steps in wisdom.**  
-> （魂と死の秘なる道を知る者よ、この夜、共に歩み、叡智をもって導きたまえ。）
+> （魂と死の秘なる道を知る者よ、この夜、共に歩み、叡智をもって導きたまえ）
 
 *しばし沈黙し、月光が深い水面を渡るような静けさを感じる。*
 
@@ -71,12 +71,12 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 
 > **Hail to Thee, Lady of Crossroads —**  
 > **I give this sweetness in gratitude.**  
-> （三叉路の女神よ、感謝を込めてこの甘露を捧げます。）  
+> （三叉路の女神よ、感謝を込めてこの甘露を捧げます）  
 >  
 > **The old year falls behind me like a shadow;**  
 > **I release what must pass,**  
 > **and I walk toward the dawn of the new.**  
-> （古き年は影のように過ぎ去り、私は新たな夜明けへと歩む。）
+> （古き年は影のように過ぎ去り、私は新たな夜明けへと歩む）
 
 *炎を見つめ、「手放すべきもの」が光の中で溶けていくのを観想する。胸の中心に小さな白い光が宿り、静かに広がる様を感じる。*
 
@@ -87,15 +87,15 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 
 > **Hail and Farewell, Hecate,**  
 > **Torchbearer, Guide of Souls.**  
-> （敬礼と別れを、ヘカテよ。魂を導く松明の女神よ。）  
+> （敬礼と別れを、ヘカテよ。魂を導く松明の女神よ）  
 >  
 > **I thank Thee for Thy presence and Thy gift of clarity.**  
-> （あなたの臨在と、与えられた明晰さに感謝します。）  
+> （あなたの臨在と、与えられた明晰さに感謝します）  
 >  
 > **The Temple is closed,**  
 > **but Thy light remaineth within my heart.**  
 > **So may it be.**  
-> （神殿は閉じられた。されどあなたの光は私の心に残る。かくあれかし。）
+> （神殿は閉じられた。されどあなたの光は私の心に残る。かくあれかし）
 
 *深呼吸を数回行い、境界が静かに閉じる感覚を見届けてから日常へ戻る。*
 
