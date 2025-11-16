@@ -40,6 +40,13 @@ KSC氏の最新の論文（英語）「スペアって2人居るんじゃない�
   
 ## 📡 最新のニュース
 
+- [🧙‍♂️ ヒカルランドから新刊出版のお知らせ：シジル魔術の創始者スペアの 『快楽の書』『ゾスの呪詛』](https://www.amazon.co.jp/%E3%82%B7%E3%82%B8%E3%83%AB%E9%AD%94%E8%A1%93%E3%81%AE%E5%89%B5%E5%A7%8B%E8%80%85%E3%82%B9%E3%83%9A%E3%82%A2%E3%81%AE-%E3%80%8E%E5%BF%AB%E6%A5%BD%E3%81%AE%E6%9B%B8%E3%80%8F%E3%80%8E%E3%82%BE%E3%82%B9%E3%81%AE%E5%91%AA%E8%A9%9B%E3%80%8F-%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%83%BB%E3%82%AA%E3%82%B9%E3%83%9E%E3%83%B3%E3%83%BB%E3%82%B9%E3%83%9A%E3%82%A2/dp/4867425710/ref=sr_1_3?dib=eyJ2IjoiMSJ9.InZD-2DTzoirFwcQvYAHEg.DCeKpuSucbevzNO2bMcUt3o9h1pUGJ5SXLRohlqx0eY&dib_tag=se&qid=1763304390&s=books&sr=1-3&text=%E7%9F%A5%E3%82%89%E3%82%8C%E3%81%96%E3%82%8B%E5%91%AA%E8%A1%93%E5%B8%AB)
+
+<div align="center">
+<img src="amazon_book_01.jpg" width="300">
+</div>
+<br>
+
 - [ 🐝 SOL風ヘカテ神殿でのサムハインの儀式をリリース（2025年10月21日）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/Hecate_Samhain_SOL.md)
 - [⛩️🦊 Inari Rite of Longevity and Prosperity（2025年10月11日） ](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/Inari_Rite_of_Longevity_and_Prosperity.md)
 - [🎵シャーウィンのエングラム魔術をリリース（2025年10月9日）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/sherwin-engram-magick-ja.md)
