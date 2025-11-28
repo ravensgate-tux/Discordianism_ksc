@@ -40,6 +40,8 @@ KSC氏の最新の論文（英語）「スペアって2人居るんじゃない�
   
 ## 📡 最新のニュース
 
+- 🗝️ [Hekate チャント・ガイドブック（2025年11月29日）](https://github.com/ravensgate-tux/hekate-chants/blob/main/README.md)
+  
 - [🧙‍♂️ ヒカルランドから新刊出版のお知らせ：シジル魔術の創始者スペアの 『快楽の書』『ゾスの呪詛』（2025年11月16日）](https://www.amazon.co.jp/%E3%82%B7%E3%82%B8%E3%83%AB%E9%AD%94%E8%A1%93%E3%81%AE%E5%89%B5%E5%A7%8B%E8%80%85%E3%82%B9%E3%83%9A%E3%82%A2%E3%81%AE-%E3%80%8E%E5%BF%AB%E6%A5%BD%E3%81%AE%E6%9B%B8%E3%80%8F%E3%80%8E%E3%82%BE%E3%82%B9%E3%81%AE%E5%91%AA%E8%A9%9B%E3%80%8F-%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%83%BB%E3%82%AA%E3%82%B9%E3%83%9E%E3%83%B3%E3%83%BB%E3%82%B9%E3%83%9A%E3%82%A2/dp/4867425710/ref=sr_1_3?dib=eyJ2IjoiMSJ9.InZD-2DTzoirFwcQvYAHEg.DCeKpuSucbevzNO2bMcUt3o9h1pUGJ5SXLRohlqx0eY&dib_tag=se&qid=1763304390&s=books&sr=1-3&text=%E7%9F%A5%E3%82%89%E3%82%8C%E3%81%96%E3%82%8B%E5%91%AA%E8%A1%93%E5%B8%AB)
 
 <div align="center">
@@ -236,6 +238,8 @@ Hail Eris! All Hail Discordia!
   <li>🐐 <a href="https://occultlibrary.wiki.fc2.com/wiki/%E3%81%99%E3%81%90%E3%82%8F%E3%81%8B%E3%82%8B%E6%B7%B7%E6%B2%8C%E9%AD%94%E8%A1%93">すぐわかる混沌魔術 (Phil Hine) - existing translation by others</a></li>
 </ul>
 
+
+- 🗝️ [Hekate チャント・ガイドブック](https://github.com/ravensgate-tux/hekate-chants/blob/main/README.md)
 - 🐘 [ガネーシャ・モーフィング (Phil Hine)](https://github.com/ravensgate-tux/hine_ganesha_morphing/blob/main/README.md)
 - 🐘 [ガネーシャ神殿での日拝](https://github.com/ravensgate-tux/ganesha_morning/blob/main/README.md)
 - 🎨 [地上の地獄 (A.O.Spare)🇯🇵 - 翻訳・注釈 by KSC](https://github.com/ravensgate-tux/earth_inferno/blob/main/README.md)
