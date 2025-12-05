@@ -132,10 +132,6 @@ Redditなどでは「**母音を消すのは伝統ではない、ただ今の流
 
 ---
 
-*© 2025. Ritual text prepared for private devotional use. You may include this file in your personal grimoire or GitHub repository with attribution.*
-
----
-
 こちらもご覧ください➡️[ディスコーディアン魔術アーカイブ](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/README.md)
 
 ---
