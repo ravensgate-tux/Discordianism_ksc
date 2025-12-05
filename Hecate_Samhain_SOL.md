@@ -108,10 +108,6 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 
 ---
 
-*© 2025. Ritual text prepared for private devotional use. You may include this file in your personal grimoire or GitHub repository with attribution.*
-
----
-
 こちらもご覧ください➡️[ディスコーディアン魔術アーカイブ](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/README.md)
 
 ---
