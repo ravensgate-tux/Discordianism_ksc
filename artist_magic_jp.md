@@ -1,10 +1,5 @@
 # 🎨 アーティスト・マジック (Artist Magick) — 芸術魔術論
 
-> “This article has been left here in this location as a gift to you.”  
-> “It is our wish that you will become inspired by result.”  
-> “Make copies, and spread the flame to others.”  
-> — DKMU: Domus Kaotica; Marauder Underground
-
 <div align="right">
 <img src="ksc5.png" width="200"><br>
 This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
@@ -44,10 +39,14 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 <br>
 
 ---
-## DKMU
+## 著作権について by DKMU
+
+> “This article has been left here in this location as a gift to you.”  
+> “It is our wish that you will become inspired by result.”  
+> “Make copies, and spread the flame to others.”  
+> — DKMU: Domus Kaotica; Marauder Underground
 
 👉 [Atrist Magic (原文)](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/artist_magic.pdf)
-
 👉 [DKMU Home](https://forum.dkmu.org/index.php)
 
 ---
