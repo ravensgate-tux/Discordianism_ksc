@@ -13,9 +13,10 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 
 ## 🕯️ 序：SOLの位階と目的
 
-**Servants of the Light（SOL）** は、ドロレス・アッシュクロフト＝ノーウィッキによって1960年代に設立された  
-英国の神秘学的オーダーであり、**Dion Fortune → W. E. Butler → Gareth Knight → Dolores Ashcroft-Nowicki**  
-という明確な系譜を持つ。  
+Servants of the Light（SOL）は、Dion Fortune の系譜に連なる W. E. Butler によって創設され、その後 Gareth Knight による理論的整備を経て、1960年代以降、ドロレス・アッシュクロフト＝ノーウィッキによって組織として再編・発展した英国の神秘学的オーダーである。
+
+その系譜は、Dion Fortune → W. E. Butler → Gareth Knight → Dolores Ashcroft-Nowicki
+と明確に連なっている。
 
 SOLの訓練体系は **3つの位階（Degrees）** によって構成されており、  
 これは霊的成長の普遍的な三段階──Purification（浄化）／Illumination（啓明）／Union（合一）──を表す。
