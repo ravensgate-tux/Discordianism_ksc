@@ -3,7 +3,7 @@
 <div align="right">
 <img src="ksc5.png" width="200"><br>
 This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
-</div>
+著者のKSCこと「知られざる呪術師」は<br>ドロレス・アッシュクロフト=ノーウィッキから直接第３位界のイニシエーションを受け<br>ダイアン・フォーチュンから続く法脈を受け継いでいる。</div>
 
 ## Ⅰ. 材料
 - **時計皿（並質ガラス φ100mm程度）**
