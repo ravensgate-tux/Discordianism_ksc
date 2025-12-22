@@ -208,7 +208,7 @@ KSC氏の最新の論文（英語）「スペアって2人居るんじゃない�
 - [🍏 エリス神小五芒星追儺儀式 (English)をリリース（2025年8月6日）](erisian_banishing_ritual.md)
 
 ## 🧰 魔法武器一覧
-- **サイコロ（Dice）**：偶然性と選択肢の拡張
+- [**サイコロ（Dice）**：偶然性と選択肢の拡張](https://www.discordianism-society-japan.com/%E9%AD%94%E8%A1%93%E3%83%A9%E3%83%9C)
 - [**エゴハンマー（Ego Hammer）**：自己批判と打破](ego_hammer.jpeg)
 - [**ケイオスグレネード（Chaos Grenade）**：創造的な混沌の発生](chaos_grenade.jpg)
 - **スマーティー・サービター**：儀式的ストリートアート
