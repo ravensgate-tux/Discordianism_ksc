@@ -1,4 +1,4 @@
-# Class → Instance
+# Class → Instance 設計
 ## 現代魔術における安全な象徴運用のための設計原則
 
 <div align="right">
