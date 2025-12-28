@@ -40,6 +40,7 @@ KSC氏の最新の論文（英語）「スペアって2人居るんじゃない�
   
 ## 📡 最新のニュース
 
+- [ Class → Instance 設計：現代魔術における安全な象徴運用のための設計原則（2025年12月29日）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/class-to-instance.md)
 - [ 🐝 SOL風ヘカテ神殿でユールの儀式をリリース（2025年12月14日）](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/Hecate_Yule_SOL.md)
 
 - 🗝️ [Hekate チャント・ガイドブック（2025年11月29日）](https://github.com/ravensgate-tux/hekate-chants/blob/main/README.md)
