@@ -1,6 +1,8 @@
 # Class → Instance 設計
 ## 現代魔術における安全な象徴運用のための設計原則
 
+本文書は、神格や象徴を「そのまま扱わない」ための、現代的な設計比喩（OOP）を用いた安全モデルの定義である。
+
 <div align="right">
 <img src="ksc5.png" width="200"><br>
 This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
