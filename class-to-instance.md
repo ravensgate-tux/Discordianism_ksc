@@ -1,6 +1,13 @@
 # Class → Instance
 ## 現代魔術における安全な象徴運用のための設計原則
 
+<div align="right">
+<img src="ksc5.png" width="200"><br>
+This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
+著者のKSCこと「知られざる呪術師」は<br>ドロレス・アッシュクロフト=ノーウィッキから直接第３位界のイニシエーションを受け<br>ダイアン・フォーチュンから続く法脈を受け継いでいる。</div>
+
+---
+
 > 本文書で用いる「クラス → インスタンス」という用語は、  
 > IT 業界におけるオブジェクト指向プログラミング  
 > （Object-Oriented Programming, OOP）の概念を  
@@ -128,3 +135,11 @@ REBOOT は免罪符ではなく、
 
 これは信仰の話ではなく、  
 **設計と責任の話**である。
+
+---
+
+こちらもご覧ください➡️[ディスコーディアン魔術アーカイブ](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/README.md)
+
+---
+© 2025 知られざる呪術師（Le Sorcier Inconnu）  
+本ドキュメントは [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) に基づき公開されています。
