@@ -39,7 +39,10 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 ※ 結界や方位の設定は行わない。  
 ※ 配置は「示す」ためのものであり、「作動させる」ためのものではない。
 
----
+<div align="left">
+<img src="imbolc_layout.png" width="200"><br>
+
+  ---
 
 ## 儀式（The Rite）
 
