@@ -7,7 +7,7 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 
 ---
 
-## 2月2日／三本の蝋燭
+## 2月2日／インボルク
 このファイルは、**SOL（Servants of the Light）における作業倫理**を踏まえ、  
 簡潔・非演出的・操作性を排した形で構成されたヘカテのキャンドルマス儀式です。  
 セリフ（発話文）は**ドロレス・アッシュクロフト＝ノーウィッキ風の英語**、  
