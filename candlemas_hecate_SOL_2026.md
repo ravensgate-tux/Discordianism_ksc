@@ -1,4 +1,4 @@
-# ヘカテのためのキャンドルマス儀式（SOL風）
+# ヘカテのためのインボルクの儀式（SOL風）
 
 <div align="right">
 <img src="ksc5.png" width="200"><br>
