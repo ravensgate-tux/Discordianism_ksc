@@ -1,5 +1,4 @@
-# ヘカテのためのキャンドルマス儀式（SOL形式）
-## 2月2日／三本の蝋燭
+# ヘカテのためのキャンドルマス儀式（SOL風）
 
 <div align="right">
 <img src="ksc5.png" width="200"><br>
@@ -8,6 +7,7 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 
 ---
 
+## 2月2日／三本の蝋燭
 このファイルは、**SOL（Servants of the Light）における作業倫理**を踏まえ、  
 簡潔・非演出的・操作性を排した形で構成されたヘカテのキャンドルマス儀式です。  
 セリフ（発話文）は**ドロレス・アッシュクロフト＝ノーウィッキ風の英語**、  
@@ -122,4 +122,9 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 
 ---
 
-End of file.
+こちらもご覧ください➡️[ディスコーディアン魔術アーカイブ](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/README.md)
+
+---
+© 2025 知られざる呪術師（Le Sorcier Inconnu）  
+本ドキュメントは [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) に基づき公開されています。
+
