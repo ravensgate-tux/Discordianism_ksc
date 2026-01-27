@@ -30,7 +30,7 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 ## 配置（Arrangement）
 
 - 蝋燭は三角形に配置する  
-  - 頂点は**術者側ではなく奥**  
+  - 頂点は術者側ではなく奥  
   - 中央の蝋燭はやや奥  
 - 鍵は平置き・水平に、手前  
 - 石は蝋燭と鍵の間  
