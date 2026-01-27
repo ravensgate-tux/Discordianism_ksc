@@ -55,8 +55,8 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 
 ### 1. オープニング（Opening）
 
-中央の蝋燭のみを灯す。  
-深呼吸を一度だけ行う。
+中央の蝋燭のみを灯す  
+深呼吸を一度だけ行う
 
 次の言葉を述べる：
 
@@ -67,24 +67,24 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 
 ### 2. 三つの灯（The Three Lights）
 
-左の蝋燭を灯す。
+左の蝋燭を灯す
 
 > **What has been.**
 
-右の蝋燭を灯す。
+右の蝋燭を灯す
 
 > **What is.**
 
-中央の炎を見る。  
-言葉は加えない。
+中央の炎を見る  
+言葉は加えない
 
-※ 三相を人格化しない。説明もしない。
+※ 三相を人格化しない。説明もしない
 
 ---
 
 ### 3. 中心作業（Central Work）
 
-鍵に軽く触れる。
+鍵に軽く触れる
 
 次の言葉を述べる：
 
@@ -92,35 +92,35 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 > I ask for clarity.**
 
 1〜5分、沈黙する。  
-何もイメージせず、何も問いかけない。
+何もイメージせず、何も問いかけない
 
 ---
 
 ### 4. 境界の確認（The Threshold）
 
-三本の炎を順に見てから、中央を見る。
+三本の炎を順に見てから、中央を見る
 
 次の言葉を述べる：
 
 > **Show me where not to step.  
 > Show me what need not be crossed.**
 
-再び沈黙。
+再び沈黙
 
 ---
 
 ### 5. クローズ（Closing）
 
-左の蝋燭、右の蝋燭の順に消す。  
-中央の蝋燭を最後に消す。
+左の蝋燭、右の蝋燭の順に消す  
+中央の蝋燭を最後に消す
 
 次の言葉を述べる：
 
 > **The light is returned.  
 > The threshold remains.**
 
-その場を離れる。  
-記録・感想・解釈は行わない。
+その場を離れる  
+記録・感想・解釈は行わない
 
 ---
 
@@ -128,7 +128,7 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 
 - この儀式は「願望達成」や「力の獲得」を目的としない  
 - 満月であっても、増幅やチャージは行わない  
-- 何も起きなかった場合、それは失敗ではない  
+- 何も起きなかった場合でも、それは失敗ではない  
 
 ---
 
