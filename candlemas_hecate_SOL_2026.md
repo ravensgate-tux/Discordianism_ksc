@@ -130,9 +130,6 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 ---
 
 ## 注記
-
-## 注記
-
 - この儀式は「願望達成」や「力の獲得」を目的としない  
 - 満月であっても、増幅・チャージ・結果の確定は行わない  
 - そのため、本儀式では  
