@@ -7,7 +7,7 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 
 ---
 
-## 2月2日／インボルク
+## 2026年2月1日〜2日／インボルク
 このファイルは、SOL（Servants of the Light）における作業倫理を踏まえた  
 簡潔・非演出的・操作性を排した形で構成されたヘカテのインボルクの儀式です。  
 セリフ（発話文）はドロレス・アッシュクロフト＝ノーウィッキ風の英文で、説明は日本語で記しています。
