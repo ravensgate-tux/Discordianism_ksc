@@ -29,7 +29,12 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 - その他（自由に）
 <div align="left">
 <img src="hekate-spiral.jpg" width="100"><br>
+
+<div align="left">
+<img src="hekate.jpg" width="100"><br>
+  
 - 静かな場所  
+
 - 立ったまま行う
 
 ---
