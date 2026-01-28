@@ -21,12 +21,15 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 **白い蝋燭 × 3**  
 <div align="left">
 <img src="hekate_candle.jpg" width="100"><br>
+
 **鍵 × 1**  
   <div align="left">
 <img src="hekate-key.jpg" width="100"><br>
+
 **黒い石または木片 × 1**  
 <div align="left">
 <img src="hekate-stone.jpg" width="100"><br>
+
 **その他**  
 <div align="left">
 <img src="hekate-spiral.jpg" width="100"><br>
