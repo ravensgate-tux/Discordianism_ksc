@@ -18,7 +18,6 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 
 ## 用意するもの（Materials）
 
-- 象徴物
 - 白い蝋燭 × 3
 <div align="left">
 <img src="hekate_candle.jpg" width="100"><br>
@@ -35,10 +34,6 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 <div align="left">
 <img src="hekate.jpg" width="100"><br>
   
-- 静かな場所  
-
-- 立ったまま行う
-
 ---
 
 ## 配置（Arrangement）
