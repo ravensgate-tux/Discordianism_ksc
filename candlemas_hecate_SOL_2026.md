@@ -48,8 +48,8 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 - 石は蝋燭と鍵の間  
 - ヘカテ像や図像がある場合は、蝋燭のさらに奥に置く  
 
-※ 結界や方位の設定は行わない。  
-※ 配置は「示す」ためのものであり、「作動させる」ためのものではない。
+※ 魔法円や追儺の儀式は必要ない  
+※ 象徴物の配置は東に向けなくても良い
 
 <div align="left">
 <img src="imbolc_layout.png" width="200"><br>
