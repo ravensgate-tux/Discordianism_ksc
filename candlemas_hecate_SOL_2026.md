@@ -137,7 +137,6 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
   So mote it be や So shall it be などの  
   結果を成立・固定させる完了句を意図的に用いていない  
 - クローズは作業を静かに終了し、日常へ戻るためのものである  
-- 何も起きなかった場合でも、それは失敗ではない
 
 ---
 
