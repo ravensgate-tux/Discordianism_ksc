@@ -18,8 +18,10 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 
 ## 用意するもの（Materials）
 
-
-- 白い蝋燭 × 3  
+- 象徴物
+- 白い蝋燭 × 3
+<div align="left">
+<img src="hekate-candle.jpg" width="100"><br>
 - 鍵 × 1（複数あれば直感で1つ選ぶ）
 <div align="left">
 <img src="hekate-key.jpg" width="100"><br>
