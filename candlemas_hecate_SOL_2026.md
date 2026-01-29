@@ -52,7 +52,7 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 ※ 象徴物の配置は東に向けなくても良い
 
 <div align="left">
-<img src="imbolc_layout.png" width="200"><br>
+<img src="imbolc_layout2.png" width="200"><br>
 
   ---
 
