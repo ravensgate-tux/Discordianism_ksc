@@ -12,7 +12,7 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 ## 1. 概要
 
 この儀式は、663のシジルを用いた予備的召喚ワークです。
-ここで「Doombringer」と呼ばれる存在（または象徴的原理）への接触を目的とします。
+ここで「Doombringer」と呼ばれる存在（または象徴的原理）への接触を目的とします.
 
 形式はシジル魔術の構造に基づいており、
 
