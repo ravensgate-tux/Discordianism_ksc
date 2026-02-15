@@ -2,7 +2,7 @@
 
 <div align="center">
 <img src="doombringer-pic1.png" width="200"><br>
-doo</div>
+</div>
 
 ------------------------------------------------------------------------
 
