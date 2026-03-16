@@ -76,14 +76,12 @@ Setting: 静かな空間、柔らかい自然光または薄暗い照明
 東を向いて立ち、呼吸を整える。
 
 
-I open the Temple within and without.
-（内なる神殿と外なる神殿を開く）
+I open the Temple within and without.  （内なる神殿と外なる神殿を開く）
 
 
 By the balance of night and day,  
 by the turning of the living earth,  
-let this place be made sacred.
-（昼と夜の均衡と、大地の巡りによって、ここを聖域とする）
+let this place be made sacred.  （昼と夜の均衡と、大地の巡りによって、ここを聖域とする）
 
 
 短い沈黙を置き、空間の静けさを感じる。
@@ -100,19 +98,16 @@ let this place be made sacred.
 
 Hail to Thee, Hecate Triformis,  
 Keeper of the Turning Ways,  
-Lady of the Balanced Light.
-（三相の女神ヘカテよ、巡りゆく道の守護者よ、均衡の光の女主人よ）
+Lady of the Balanced Light.  （三相の女神ヘカテよ、巡りゆく道の守護者よ、均衡の光の女主人よ）
 
 
 At the meeting of night and day,  
 when the earth awakens to the growing light,  
-I call upon Thee.
-（昼と夜が出会うこの時、大地が成長する光に目覚めるこの時、あなたを呼びます）
+I call upon Thee.  （昼と夜が出会うこの時、大地が成長する光に目覚めるこの時、あなたを呼びます）
 
 
 Stand beside me at the gate of the season,  
-and guide my steps with quiet wisdom.
-（この季節の門にて共に立ち、静かな叡智で私を導きたまえ）
+and guide my steps with quiet wisdom.  （この季節の門にて共に立ち、静かな叡智で私を導きたまえ）
 
 沈黙。
 
@@ -125,18 +120,15 @@ and guide my steps with quiet wisdom.
 
 
 Hail to Thee, Lady of the Threshold —  
-I offer this in gratitude.
-（門の女神よ、感謝をもってこれを捧げます）
+I offer this in gratitude.  （門の女神よ、感謝をもってこれを捧げます）
 
 
 The darkness has passed through its turning,  
-and the light now walks openly beside it.
-（闇は巡りを終え、光は今それと並んで歩む）
+and the light now walks openly beside it.  （闇は巡りを終え、光は今それと並んで歩む）
 
 
 In this balance,  
-may my path grow clear.
-（この均衡の中で、私の道が明らかになりますように）
+may my path grow clear.  （この均衡の中で、私の道が明らかになりますように）
 
 
 白い炎を見つめ、  
@@ -155,18 +147,15 @@ may my path grow clear.
 
 
 Hail and Farewell, Hecate,  
-Guardian of the Turning Year.
-（敬礼と別れを、巡る年を守るヘカテよ）
+Guardian of the Turning Year.  （敬礼と別れを、巡る年を守るヘカテよ）
 
 
 I thank Thee for Thy presence  
-and the wisdom of the balanced way.
-（あなたの臨在と、均衡の道の叡智に感謝します）
+and the wisdom of the balanced way.  （あなたの臨在と、均衡の道の叡智に感謝します）
 
 
 The Temple is closed,  
-yet the light remaineth within.
-（神殿は閉じられた。されど光は内に残る）
+yet the light remaineth within.  （神殿は閉じられた。されど光は内に残る）
 
 
 So may it be.
