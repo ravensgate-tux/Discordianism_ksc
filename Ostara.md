@@ -98,7 +98,7 @@ let this place be made sacred.  （昼と夜の均衡と、大地の巡りによ
 
 Hail to Thee, Hecate Triformis,  
 Keeper of the Turning Ways,  
-Lady of the Balanced Light.  （三相の女神ヘカテよ、巡りゆく道の守護者よ、均衡の光の女主人よ）
+Lady of the Balanced Flame.  （三相の女神ヘカテよ、巡りゆく道の守護者よ、均衡の光の女主人よ）
 
 
 At the meeting of night and day,  
