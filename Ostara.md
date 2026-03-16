@@ -158,7 +158,7 @@ The Temple is closed,
 yet the light remaineth within.  （神殿は閉じられた。されど光は内に残る）
 
 
-So may it be.
+So let it be.
 
 
 深呼吸を数回行い、日常へ戻る。
